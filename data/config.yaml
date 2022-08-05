@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Arman Jindal
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -11,16 +11,15 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/armanjindal/armanjindal.github.io
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  My chunck on the internet - for you. 
 page_title:
-  "🪴 Quartz 3.2"
+  "armanjindal.github.io"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
+  - link_name: LinkedIn
+    link: https://www.linkedin.com/in/arman-jindal-650a8616b/
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/armanjindal

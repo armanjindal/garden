@@ -1,5 +1,5 @@
 ---
-title: 🪴 "Arman's Digital Garden"
+title: "🪴 Arman Digital Garden"
 ---
 ## Hello Word
 - [Hello World](Hello%20World.md)
