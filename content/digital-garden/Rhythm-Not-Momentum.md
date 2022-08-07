@@ -1,8 +1,8 @@
 ---
-title: "You need Rhythm, not Momentum
-date: "August 7th, 2022"
+title: "Find Rhythm. Not Momentum"
 ---
 > [!quote] Definition - Momentum
+> 
 > /mə(ʊ)ˈmɛntəm/ 
 > noun: **momentum**; plural noun: **momenta**
 > 1. PHYSICS. 

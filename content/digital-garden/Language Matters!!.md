@@ -1,6 +1,7 @@
 ---
 title: "Language Matters!!"
 ---
+
 Because it does, and my dear friend [Isabelle Pride]() says so. 
 
 Jokes. 
