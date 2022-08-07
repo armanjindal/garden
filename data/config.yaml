@@ -1,5 +1,5 @@
 name: Arman Jindal
-enableToc: true
+enableToc: false
 openToc: true
 enableLinkPreview: true
 enableLatex: true
@@ -11,7 +11,7 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/armanjindal/armanjindal.github.io
+GitHubLink: https://github.com/armanjindal/armanjindal.github.io/tree/hugo/content 
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
