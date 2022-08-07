@@ -1,6 +1,6 @@
 name: Arman Jindal
 enableToc: true
-openToc: false
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
@@ -15,9 +15,9 @@ GitHubLink: https://github.com/armanjindal/armanjindal.github.io
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  My chunck on the internet - for you. 
+  My information garden on the internet. 
 page_title:
-  "armanjindal.github.io"
+  "Arman Jindal"
 links:
   - link_name: LinkedIn
     link: https://www.linkedin.com/in/arman-jindal-650a8616b/

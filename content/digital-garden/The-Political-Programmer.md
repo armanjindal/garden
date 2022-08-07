@@ -1,3 +1,6 @@
+---
+title: "The Political Programmer"
+---
 # The Political Programmer 
 Walter Benjamin's political theory of Art and Artist on a political theory potential of 'Open Source' in an age dominated by 'Big Tech.' 
 
@@ -5,9 +8,8 @@ By Arman Jindal 
 *May 13, 2022* 
 
 - "*Tech for good*." It's a sentiment you'll find on T-shirts, in LinkedIn bios, and across social media. The first time I saw it, it struck me as another rather banal truism. No one tries to make "tech for bad," so specifying felt both suspiciously virtuose. But lurking beneath this slogan are two compelling ideas I've continued to grapple with and see many of my peers do the same.
-
 - First, programmers are increasingly aware of the politics of their work. Since they produce technology, and technology shapes our societies, programmers have a unique and inescapable political dimension. 
-* Second, producing "tech for good" is surprisingly difficult. Not only in a technical sense but in a practical one. We never know how technology will be used. For better or worse, the intentions of creators don't count. The best intentions of researchers behind the CRISPR gene editing, for example, don't prevent its use in manufacturing deadly virus.
+* Second, producing "tech for good" is surprisingly difficult. Not only in a technical sense but in a practical one. We never know how technology will be used. For better or worse, the intentions of creators don't count. The best intentions of researchers behind the CRISPR gene editing and the plummeting genome sequence costs, for example, don't prevent its use in manufacturing deadly virus.
 * In contrast, the greatest innovations of the 20th century, such as flight, the modern computer, and the Internet, began as military projects. Our most important were spurred by the world wars and a desire to effectively kill other people. Are these technologies "good" or "bad"? That's a question I do not think can be answered productively, nor one I *want* to attempt to answer here. 
 * But at the same time, suspending judgment on which technologies we want to work to create because "we can't be sure" is a cop-out.  
 * It also does not help the politically conscious programmer decide, in their limited knowledge, where to work.
