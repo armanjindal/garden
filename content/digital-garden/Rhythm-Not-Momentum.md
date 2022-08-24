@@ -1,5 +1,6 @@
 ---
 title: "Find Rhythm. Not Momentum"
+
 ---
 > [!quote] Definition - Momentum
 > 
@@ -11,13 +12,13 @@ title: "Find Rhythm. Not Momentum"
 > "the vehicle gained momentum as the road dipped"
 > — [Oxford Language](https://www.google.com/search?q=definition+of+momentum&oq=definition+of+momentum&aqs=chrome..69i57j0i19l4j69i61l3.3169j0j7&sourceid=chrome&ie=UTF-8)
 
-Momentum measures how hard it is to stop something once it is in motion. The metaphor of momentum is used (and abused!) everywhere, from sports and entrepreneurship to working out and relationships. Momentum is one of those metaphors that has gone from a descriptive physical quantity to a constructive mental-model of the world. 
+Momentum measures how hard it is to stop something once it is in motion. The metaphor of momentum is used (and abused!) everywhere, from sports and entrepreneurship to working out and relationships. Momentum is one of those metaphors that has gone from a descriptive physical quantity to a constructive mental model of the world. 
 
-I've always had a love/hate relationship with momentum. I'm sure I am not alone, since ,omentum can work for you as much as it can work against you. To quote a Nike commercial that use to be my alarm clock at a particulary "grind-set" point in my life - 
+I've always had a love/hate relationship with momentum. I'm sure I am not alone since momentum can work for you as much as it can against you. To quote a Nike commercial that used to be my alarm clock at a particularly "grind-set" point in my life - ["momentum is a cruel mistress. It will turn on you in a dime"](https://www.youtube.com/watch?v=OmkNKEHC8Pg). 
 
 When you've got "momentum," you feel invincible. The "weight" of the previous productive days or previous workouts helps "push" you through the one in front of you. The feeling of momentum often comes with improvement. Don't break the streak is a powerful motivator. 
 
-Momentum can also be quite cruel. Because eventually, life happens. A family trip "gets in the way" of your workout program. You've had a massive cheat meal on a night out with friends. You've lost momentum. All the "weight" you once had working for you is now gone. You must work hard to build this momentum again. I've always felt that  As a former elite junior athlete and presently highly ambitious person, this feeling of guilt and failure is a destructive, unproductive spiral I've felt many times. 
+Momentum can also be exceptionally cruel. Because eventually, life happens. A family trip "gets in the way" of your workout program. You've had a massive cheat meal on a night out with friends. You've lost momentum. All the "weight" you once had working for you is now gone. You must work hard to build this momentum again. I've always felt that  As a former elite junior athlete and presently highly ambitious person, this feeling of guilt and failure is a destructive, unproductive spiral I've felt many times. 
 
 "Momentum" evokes the image of a rock rolling down the mountain. It **requires immense effort** to begin, but once it rolls, you better get out of the way. As the boulder tumbles down the mountain, it's got **direction**.  Momentum is a vector, which means it has a magnitude as well as direction. It is always "going" somewhere.
 
@@ -34,3 +35,5 @@ Sure, you can build "momentum" for a habit of workout out if you want to look gr
 Finally, the metaphor captures the dynamism of being. Rather than conceptualizing ourselves as static entities with singular directions (rock with momentum), we choose a metaphor that celebrates our constant movement - influenced by the people and situations we bring into our lives. 
 
 This is why I will say, when I'm feeling a tailwind wind, I've found a "rhythm" - not that I got "momentum. "
+
+Why? Because [Language Matters](digital-garden/Language%20Matters.md)

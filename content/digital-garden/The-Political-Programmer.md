@@ -3,7 +3,7 @@ title: "The Political Programmer"
 opentoc: true
 ---
 # The Political Programmer (Work in Progress)
-**A political theory of technology in an age of domination by 'Big Tech' and the rise of 'Open Source' based on Walter Benjamin's theory of Art and Artist** 
+**A political theory of technology in an age of domination by 'Big Tech' and the rise of 'Open Source' , based on Walter Benjamin's theory of Art and Artist** 
 
 "*Tech for good*." It's a tagline you'll see on shirts, LinkedIn bios, and social media.  When I first saw it, it struck me as rather banal. It turns out I was wrong. Producing "tech for good" is not as trivial as my idealistic freshman year Computer Science self once thought. Beneath this noble pursuit are exciting, subtle, and relevant questions I hope to draw out and begin to answer in this essay  
 
@@ -11,7 +11,7 @@ Intentions (un)fortunately don't count. We never know how technology will be use
 
 I will not try to answer if technology is "good" or "bad." I will side-step it entirely and examine *how a piece of technology is made* and its relationship to the society that enabled its production. This is, as I will soon define, its "technique," which is inextricably linked to the social, economic, political, and material conditions the technology was produced in. To frame this discussion, I look at and define two techniques of producing technology - 'Big Tech' and 'Open Source' - and discuss the political implications of their changing relationship with one another. 
 
-This *materialist* lens through which I want to look at technology comes from a seemingly unlikely source: art. Specifically from Walter Benjamin. A WWII German-Jewish philosopher and art critic who developed a political theory in an essay called "Author as Producer," published in ----. 
+This *materialist* lens I adopt comes from a seemingly unlikely source: a political theory of art from Walter Benjamin, a WWII German-Jewish philosopher. c who developed a political theory in an essay called "Author as Producer," published in ----. 
 
 The way I want to develop this framework for a political programmer of the 21st century is to first draw out the parallels with the 20th-century artist.  Then through a close reading of Benjamin's text "Author as Producer," reconstruct his theory, and explain its context. 
 
