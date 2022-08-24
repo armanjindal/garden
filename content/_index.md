@@ -30,5 +30,5 @@ To introduce myself, I'll link to some of the major throughlines at the moment
 
 3.  Language 
 
-- [Language Matters!!](digital-garden/Language%20Matters!!.md)
+- [Language Matters](digital-garden/Language%20Matters.md)
 - [Find Rhythm. Not Momentum](digital-garden/Rhythm-Not-Momentum.md)

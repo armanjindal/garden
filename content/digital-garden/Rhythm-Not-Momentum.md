@@ -11,9 +11,9 @@ title: "Find Rhythm. Not Momentum"
 > "the vehicle gained momentum as the road dipped"
 > — [Oxford Language](https://www.google.com/search?q=definition+of+momentum&oq=definition+of+momentum&aqs=chrome..69i57j0i19l4j69i61l3.3169j0j7&sourceid=chrome&ie=UTF-8)
 
-Momentum is a measure of how hard it is to stop something once it is in motion. The metaphor of momentum is used (and abused!) everywhere, from sports and entrepreneurship to working out and relationships. 
+Momentum measures how hard it is to stop something once it is in motion. The metaphor of momentum is used (and abused!) everywhere, from sports and entrepreneurship to working out and relationships. Momentum is one of those metaphors that has gone from a descriptive physical quantity to a constructive mental-model of the world. 
 
-I've always had a love/hate relationship with momentum. I'm sure I am not alone. Momentum can work for you as much as it can work against you. 
+I've always had a love/hate relationship with momentum. I'm sure I am not alone, since ,omentum can work for you as much as it can work against you. To quote a Nike commercial that use to be my alarm clock at a particulary "grind-set" point in my life - 
 
 When you've got "momentum," you feel invincible. The "weight" of the previous productive days or previous workouts helps "push" you through the one in front of you. The feeling of momentum often comes with improvement. Don't break the streak is a powerful motivator. 
 
