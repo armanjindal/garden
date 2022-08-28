@@ -2,29 +2,41 @@
 title: "🪴 Arman's Wild, Open Source Garden"
 ---
 
-Welcome, to my garden 👋 
+Welcome, to my garden! 🪴 👋  
 
-Yes. A garden.  Not a blog. There are many differences you can read about [here](https://joelhooks.com/digital-garden), but honestly, I just love the (primordial) metaphor of a garden as a place of *creation.* Through consistent care, I hope to bring my nook on the internet to life. 
+A garden.  Not a blog. There are many differences you can read about [here](https://joelhooks.com/digital-garden). 
 
-Here you will find complete writing as well as rough outlines and notes. Most of my ideas now are saplings. Most will die, and this is good. Death is as much a part of creation as life. Some may provide a little shade and maybe a few friends before dying of neglect. I hope a few though, over time will seed into the few oaks I hope to plant in my time here. For this to happen, they need sunshine and rain, neither of which my writing gets on my local disk, but may get too much of on the internet. 
+ I chose to call this a garden because of their (primordia!) association as a place of *creation*. I hope that over the years, my nook on the internet can come to life through consistent care and work. 
+
+You will find my writing at all stages, from rough outlines to polished pieces. Please come and enjoy them. Most of my ideas are saplings. They will likely die. This is good. Death is a necessary part of creation. I hope a few, over time, will seed into solid oaks. Ones that ground me as I navigate the world's options and provide shade to the few who wander in and want to stay. 
 
 This isn't just a garden, though. It's a *wild* garden.
 
-There will be some unkempt areas. This is part of the charm.  I hope to have something that's more inhabitable soon, but it will never be orderly. My go-to metaphor for a piece of writing is not that of a tree or node but the [rhizome](https://www.iaacblog.com/programs/rhizome-deleuze-guattari/#:~:text=Rhizome%20is%20a%20philosophical%20term,They%20are%20dispersed.) - the main stem that runs beneath the ground horizontally. It's a word that comes from the ancient greek "mass of roots." Each note has roots that extend invisibly beneath the soil, fertilizing the next sapling, which may pop up unpredictably. In a world overloaded with information, it is about connecting it that matters. I hope this public place on the internet will help me do just that.  
+There will be some unkempt areas. This is part of the charm, I hope. Right now, it is bare, and this will change.  However, it will never be  too "orderly." My go-to metaphor here is the [rhizome](https://www.iaacblog.com/programs/rhizome-deleuze-guattari/#:~:text=Rhizome%20is%20a%20philosophical%20term,They%20are%20dispersed.) — the central "mass of roots" that runs and connects plants unpredictably. Each idea I plant here has roots that extend invisibly beneath the soil, fertilizing the next, which may pop up unpredictably. 
 
-To create an experience like this, I have minimal starting links on my homepage but instead link to some throughlines from which you can explore related writing through the interactive graphs on the bottom right of each page.
+In a world overloaded with information, **connection** matters: how we shape and live a narrative. I hope this public place on the internet will help me do just that.  
 
-Finally, although I maintain this garden, I hope to cultivate a community that enjoys browsing and adds to its "life."  Right now, there will be friends and mentors who I will pester for feedback, but I hope to have a broader audience of contributors as this grows. GitHub is my friend here, and I will try to use it best to its full capacity. 
 
-Back to reality.  
-
-My name is Arman Jindal. I am currently a student at Columbia University, joint-majoring in Computer Science & Philosophy. I'm working as a software engineer for an open-source, Berlin-based start-up called Airy.
+My name is Arman Jindal. I am currently a student at Columbia University, studying Computer Science & Philosophy. I'm working as a software engineer for an open-source, Berlin-based start-up called Airy and as a peer fellow for the Columbia Writing Center. 
 
 Here are some of the writing I am working on right now.
 
 - Technology
-	- [The Political Programming - From Walter Benjamin's Theory of Art & Artist](digital-garden/The-Political-Programmer.md) - On the emancipatory potential of 'Open Source' in an age dominated by 'Big Tech'
+	- [The Political Programming - Freedom, Open Source & Big Tech - From Walter Benjamin's Theory of Art & Artist](digital-garden/The-Political-Programmer.md) 
 
 - Language 
 	- [Language Matters!](digital-garden/Language%20Matters.md)
 		- [Find Rhythm. Not Momentum](digital-garden/Rhythm-Not-Momentum.md)
+
+
+## Community 
+Although I maintain this garden, I hope to cultivate a community that enjoys browsing and adds to its "life."  To do this, I will use [GitHub](https://github.com/armanjindal/armanjindal.github.io), a versioning protocol that allows large-scale collaboration on software.
+
+Right now, there are two ways:
+1. Feedback. To merge a development branch into the main branch, you often need to review the code. I think this functionality would work perfectly for writing. This has an added benefit that the hard work of the people who comment is transparently and immutably documented. 
+2. Issues. On the `Issues` tab of the GitHub repository on this site, I hope to scope/outline the writing I hope to publish. This is a great place to collect feedback (before I've even started to write) and document and prioritize a million things I want to write. 
+
+Right now, I expect it will be friends and mentors who I will pester to contribute, but I hope to have a broader audience of contributors as this grows. GitHub is my friend here, and I will try to use it best to "cultivate my garden" best I can. 🪴
+
+>  "Il faut cultiver notre jardin."
+— [Voltaire - Candide ou l'Optimisme](https://www.theschooloflife.com/article/cultivate-own-garden-voltaire/)

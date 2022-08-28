@@ -3,9 +3,9 @@ title: "The Political Programmer"
 opentoc: true
 ---
 # The Political Programmer (Work in Progress)
-**A political theory of technology in an age of domination by 'Big Tech' and the rise of 'Open Source' , based on Walter Benjamin's theory of Art and Artist** 
+**Technology in an age of domination by Big Tech and the rise of Open Source, based on Walter Benjamin's theory of Art and Artist** 
 
-"*Tech for good*." It's a tagline you'll see on shirts, LinkedIn bios, and social media.  When I first saw it, it struck me as rather banal. It turns out I was wrong. Producing "tech for good" is not as trivial as my idealistic freshman year Computer Science self once thought. Beneath this noble pursuit are exciting, subtle, and relevant questions I hope to draw out and begin to answer in this essay  
+"*Tech for good*." You'll see on shirts, LinkedIn bios, and social media.  On first sight it struck me as another banal one-liner. It turns out there is alot more there. Producing "tech for good" is not as trivial as my idealistic freshman year Computer Science self once thought. Beneath this noble pursuit are exciting, subtle, and relevant questions I hope to draw out and begin to answer in this essay  
 
 Intentions (un)fortunately don't count. We never know how technology will be used, no matter how "pure" its creator's intentions are. CRISPR gene editing could save us from world hunger or be used to manufacture deadly viruses — likely both. The most important technologies of the 20th century, such as flight, radio, the computer, and the internet, began as military projects to organize and coordinate killing others effectively. However, (arguably) has led to global poverty alleviation and material improvements in the 21st century. Although there are immediate and apparent harmful and beneficial applications of technology, there is still a genuine uncertainty about the net impact of the technology *on society*. This might sound like a theoretical concern, but for engineers and technologists who see their work as political and powerful (which it inescapably is), the questions of which technology to build and which to avoid are pressing. My goal is to propose a framework for a political programmer to help make this decision and think more broadly about their impact on society. But this essay is not just for programmers. It's for everyone whose life is impacted by technology, so it's for everyone. 
 
@@ -53,7 +53,7 @@ Technique is a philosophically loaded term Benjamin uses extensively throughout 
   
  Benjamin redefines ‘tendency’ in terms of progressive or regressive technique.  The former improves conditions and the latter re-enforces conditions of production. Benjamin writes, “[w]e can now affirm more precisely that literary tendency may consist in a progressive development of literary technique, or in a regressive one."  The question for the critic is now no longer if a work has the right content or form but instead if it brings about a progressive or regressive technique. For example, a work whose content might be critical of capitalism but whose technique only strengthens its production relations falls short. Whereas a work whose content might, somehow, affirm its conditions but its technique somehow subverts them, it can (in theory) be emancipatory. So now the question is: what makes a technique progressive or regressive? The final part of this op-ed focuses on this question, but we now have enough Benjamin to shift the focus onto the programmer and technology. After which returning to this question becomes more productive. True to Benjamin's materialist approach, I start with how technology is produced — its means of production.
 
-## Open Source Vs Big Tech
+## Open Source Vs Big Tech 
 Open Source and Big Tech are the dominant ways programmers produce modern-day technology.  Big Tech is a conventional capitalist means of production, whereas Open Source is a unique means of production with four distinctive characteristics: 
 
 1. Code is written by (historically) unpaid programmers 
