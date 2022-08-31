@@ -8,22 +8,22 @@ A garden.  Not a blog. There are many differences you can read about [here](http
 
  My primary reason for this choice is the garden's (primordial) association as a place of *creation*. Over the years, I hope my nook on the internet comes to life.
 
-You will find my writing at all stages, from rough outlines to polished pieces. Please enjoy them. Most are saplings and will likely die. This is good. Death is a necessary part of creation. If I am lucky and persistent, a few might seed into solid oaks: ones that ground me as I navigate the world's options and provide shade stay. 
+You will find my writing at all stages, from rough outlines to polished pieces. Please enjoy them. Most are saplings and will likely die. This is good. Death is a necessary part of creation. If I constantly test theory against life, a few might seed into solid oaks: ones that ground me as I navigate the world's options.
 
 This isn't just a garden, though. It's a *wild* garden.
 
-There will be some unkempt areas. This is part of the charm. Right now, it is bare, and this will change.  However, it will never be too *orderly*. My go-to metaphor here is the [rhizome](https://www.iaacblog.com/programs/rhizome-deleuze-guattari/#:~:text=Rhizome%20is%20a%20philosophical%20term,They%20are%20dispersed.) — the central "mass of roots" that runs invisibly beneath the surface. Each piece is an idea that has roots that extend and branch, fertilizing the next, which may pop up unpredictably. 
+There will be some unkempt areas. This is part of the charm. Right now, it is bare, and this will change.  However, it will never be too *orderly*. My go-to metaphor here is the [rhizome](https://www.iaacblog.com/programs/rhizome-deleuze-guattari/#:~:text=Rhizome%20is%20a%20philosophical%20term,They%20are%20dispersed.) — the central mass of roots that runs invisibly beneath the surface. Every plant has roots that extend and branch, fertilizing the next, which may pop up unpredictably. 
 
-I've designed the website to display the **connection** between notes using a graph view. These connections help me shape and live a narrative of my own creation.
+The tech stack behind this website was chosen to display the **connection** between notes using a graph view (using Obsidian) and the process behind every change (GitHub). Crafting and tracking these connections help me shape and live a narrative of my creation.
 
 My name is Arman Jindal. I am currently a student at Columbia University, studying Computer Science & Philosophy. I'm working as a software engineer for an open-source, Berlin-based start-up called Airy and as a peer fellow for the Columbia Writing Center. 
 
 Here are some of the writing I am working on right now. (much [more to come](https://github.com/armanjindal/armanjindal.github.io/issues))
 
-- Technology
-	- [The Political Programming - Freedom, Open Source & Big Tech - From Walter Benjamin's Theory of Art & Artist](digital-garden/The-Political-Programmer.md) 
+- On The Emancipatory Potential of Open Source: 
+	- [The Political Programming - From Walter Benjamin's Theory of Art & Artist](digital-garden/The-Political-Programmer.md) 
 
-- Language 
+- Language, Cognition & Self
 	- [Language Matters!](digital-garden/Language%20Matters.md)
 		- [Find Rhythm. Not Momentum](digital-garden/Rhythm-Not-Momentum.md)
 
