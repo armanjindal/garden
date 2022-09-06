@@ -28,6 +28,7 @@ Here are some of the writing I am working on right now. (much [more to come](htt
 	- [Language Matters!](digital-garden/Language%20Matters.md)
 		- [Find Rhythm. Not Momentum](digital-garden/Rhythm-Not-Momentum.md)
 
+Through consistent gardening, over the years, I hope to bring to life my nook on the internet. 
 
 ## Community 
 Although I maintain this garden, I hope to cultivate a community that enjoys browsing and adds to its "life."  To do this, I will use [GitHub](https://github.com/armanjindal/armanjindal.github.io), a versioning protocol that allows large-scale collaboration on software.
