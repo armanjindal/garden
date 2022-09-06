@@ -14,7 +14,7 @@ This isn't just a garden, though. It's a *wild* garden.
 
 Connecting each plant is a [rhizome](https://www.iaacblog.com/programs/rhizome-deleuze-guattari/#:~:text=Rhizome%20is%20a%20philosophical%20term,They%20are%20dispersed.). A mass of roots slowly develops as each plant grows, forming an extensive underground network that can fertilize the next plant, which may pop up unpredictably. 
 
-I chose a tech stack to build this website to support this lofty metaphor both in how I craft and how you consume it. I am using Obsidian to write (see graph view below) and GitHub to version. The tools will help me track my progress and draw out the connections. All of which, ultimately help me to shape, affirm and faithfully **live** a narrative of my creation.
+I chose a tech stack to build this website to support this lofty metaphor both in how I craft and how you consume the content on this website. I use [Obsidian](https://obsidian.md/) to write (graph view below) and GitHub to version control. The tools will help me track my progress and draw out the connections. All of which ultimately helps me to shape, affirm and faithfully **live** a narrative of my creation.
 
 Here are some of the writing I am working on right now. (much [more to come](https://github.com/armanjindal/armanjindal.github.io/issues))
 
@@ -22,7 +22,7 @@ Here are some of the writing I am working on right now. (much [more to come](htt
 	- [The Political Programming - From Walter Benjamin's Theory of Art & Artist](digital-garden/The-Political-Programmer.md) 
 
 - Islamic Philosophy & Mysticism
-	- [The World in Ibn Tufayl's Philosophical Tale](digital-garden/Tools/Ibn-Tufayl.md)
+	- [The Physical World in Ibn Tufayl's Philosophical Tale](digital-garden/Tools/Ibn-Tufayl.md)
 
 - Language, Cognition & Self
 	- [Language Matters!](digital-garden/Language%20Matters.md)
