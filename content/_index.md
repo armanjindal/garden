@@ -18,24 +18,28 @@ I chose a tech stack to build this website to support this lofty metaphor both i
 
 Here are some of the writing I am working on right now. (much [more to come](https://github.com/armanjindal/armanjindal.github.io/issues))
 
-- On The Emancipatory Potential of Open Source: 
+- [Techne](https://en.wikipedia.org/wiki/Techne)
 	- [The Political Programming - From Walter Benjamin's Theory of Art & Artist](digital-garden/The-Political-Programmer.md) 
 
-- Islamic Philosophy & Mysticism
+- Religion, Philosophy & Mysticism
 	- [The Physical World in Ibn Tufayl's Philosophical Tale](digital-garden/Tools/Ibn-Tufayl.md)
 
 - Language, Cognition & Self
 	- [Language Matters!](digital-garden/Language%20Matters.md)
 		- [Find Rhythm. Not Momentum](digital-garden/Rhythm-Not-Momentum.md)
 
-Through consistent gardening, over the years, I hope to bring to life my nook on the internet. 
+- [Book Commentaries](digital-garden/Book%20Commentaries/Book%20Commentaries.md)
+	- [4000 Weeks - Time Management For Mortals](digital-garden/Book%20Commentaries/4000%20Weeks%20-%20Time%20Management%20For%20Mortals.md)
+	- [Non Violent Communication - A Language of Life](digital-garden/Book%20Commentaries/Non%20Violent%20Communication%20-%20A%20Language%20of%20Life.md)
+
+Through consistent gardening, I hope to bring to life my nook on the internet. I am glad that you are a part of that. 
 
 ## Community 
 Although I maintain this garden, I hope to cultivate a community that enjoys browsing and adds to its "life."  To do this, I will use [GitHub](https://github.com/armanjindal/armanjindal.github.io), a versioning protocol that allows large-scale collaboration on software.
 
 Right now, there are two ways:
 1. Feedback. To merge a development branch into the main branch, you often need to review the code. I think this functionality would work perfectly for writing. This has an added benefit that the hard work of the people who comment is transparently and immutably documented. 
-2. [Issues](https://github.com/armanjindal/armanjindal.github.io/issues). On the `Issues` tab of the GitHub repository on this site, I hope to scope/outline the writing I hope to publish. This is a great place to collect feedback (before I've even started to write), scope projects, track progress, document and prioritize a million things I want to write. 
+2. [Issues](https://github.com/armanjindal/armanjindal.github.io/issues). On the `Issues` tab of the GitHub repository on this site, I hope to scope/outline the writing I hope to publish. This is a great place to collect feedback (before I've even started to write), scope projects, track progress, document, and prioritize a million things I want to write. 
 
 Right now, I expect it will be friends and mentors who I will pester to contribute, but I hope to have a broader audience of contributors as this grows. GitHub is my friend here, and I will try to use it best to "cultivate my garden" best I can. 🪴
 
