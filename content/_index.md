@@ -20,6 +20,7 @@ Here are some of the writing I am working on right now. (much [more to come](htt
 
 - [Techne](https://en.wikipedia.org/wiki/Techne)
 	- [The Political Programming - From Walter Benjamin's Theory of Art & Artist](digital-garden/The-Political-Programmer.md) 
+	- [Beyond Form and Content - Sontag's Against Interpretation](digital-garden/Beyond-Form-Content.md)
 
 - Religion, Philosophy & Mysticism
 	- [The Physical World in Ibn Tufayl's Philosophical Tale](digital-garden/Tools/Ibn-Tufayl.md)

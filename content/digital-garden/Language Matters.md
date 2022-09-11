@@ -4,9 +4,11 @@ title: "Language Matters"
 
 Because it does, and my dear friend [Isabelle Pride]() says so. Jokes. 
 
-But it does. Most fundamentally. Language is at the core of how we construct our psychological reality. 
+But it does. Most fundamentally. Language is at the core of how we construct reality. 
 
-I don't have a coherent theory of cognition, and there is plenty of crazy dense philosophical and psychological work in this area. My goal here is not to explain how it works but that makes the case for its **importance.** Since there are incredible stakes involved in the way we 
+I don't have a coherent theory of cognition and language, and there is plenty of crazy dense philosophical and psychological work on this topic. I am not going to summarize it or even explain it. My goal here is to make a case for its **importance.** My main argument - try it. 
+
+T
 
 Language impacts cognition. Certain words trigger categories of related and different ideas, images, and memories. Cognition is how we construct the world. Language then is one of the base constituents of reality.
 
