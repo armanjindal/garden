@@ -2,11 +2,12 @@
 title: "The Political Programmer"
 opentoc: true
 ---
-
+  **Open Source and Big Tech **- *An analysis based on Walter Benjamin's Political Theory of Art and Artist*
+  
 >[!Note]
 > This is a work in progress. I am actively and substantially revising the argument and the structure. But if you have any suggestions or thoughts, please [email me](mailto:arman.jindal@columbia.edu). Even better, [create an issue](https://github.com/armanjindal/armanjindal.github.io/issues/new?assignees=&labels=&template=suggestions_report.md&title=) on GitHub of this repository. 
  
- *An Analysis of **"Open Source"** in an Age of **"Big Tech"** based on Walter Benjamin's Political Theory of Art and Artist*
+
 
 ***Tech for good*.** You'll see it on shirts, on LinkedIn headlines, and on social media.  At first sight, it struck me as another banal, virtue-signaling slogan. I thought the classifying tech was relatively straightforward. I was wrong. 
 

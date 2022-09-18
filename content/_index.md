@@ -8,13 +8,13 @@ A garden.  Not a blog. There are many differences you can read about [here](http
 
  The primary reason I chose to call this a *garden* is its primordial association as a place of *creation*. 
 
-I like to think of each piece of writing here as a plant. You will find plants at all stages of development, from rough outlines to polished pieces. Please enjoy them. Most are saplings, and most will die. This is good. Death is a necessary part of creation. If I constantly test theory against reality, unafraid to improve or even outright destroy the weeds, a few plants I seed now might flourish into solid oaks: ones that ground me as I navigate the world's options.
+I like to think of each piece of writing here as a plant. You will find plants at all stages of development, from rough outlines to polished pieces. Please enjoy them, but know that most are saplings, and most will die. This is good. Death is a necessary part of creation. If I constantly test theory against reality, unafraid to discard or even outright destroy the theory that doesn't lead to life, a few "plants" I seed now might flourish into solid oaks: ones that ground me in this crazy, incredible world.
 
-This isn't just a garden, though. It's a *wild* garden.
+Through consistent gardening, I hope to bring to life my nook on the internet. This isn't just a garden, though. It's a *wild* garden.
 
-Connecting each plant is a [rhizome](https://www.iaacblog.com/programs/rhizome-deleuze-guattari/#:~:text=Rhizome%20is%20a%20philosophical%20term,They%20are%20dispersed.). A mass of roots slowly develops as each plant grows, forming an extensive underground network that can fertilize the next plant, which may pop up unpredictably. 
+Connecting each plant is a [rhizome](https://www.iaacblog.com/programs/rhizome-deleuze-guattari/#:~:text=Rhizome%20is%20a%20philosophical%20term,They%20are%20dispersed.): a mass of underground roots that with each plant grows, fertilizing the soil for the next plant, which may pop up unpredictably. 
 
-I chose a tech stack to build this website to support this lofty metaphor both in how I craft and how you consume the content on this website. I use [Obsidian](https://obsidian.md/) to write (graph view below) and GitHub to version control. The tools will help me track my progress and draw out the connections. All of which ultimately helps me to shape, affirm and faithfully **live** a narrative of my creation.
+To support this lofty metaphor, I chose an opinionated, open-source tech stack. I use [Obsidian](https://obsidian.md/) to write — an open source, knowledge management text editor with a graph view connecting notes — with Quartz as a static site generation, version controlled on GitHub. These tools will help me track growth and make connections. All of which ultimately helps me to shape, affirm and faithfully **live** a narrative of my creation.
 
 Here are some of the writing I am working on right now. (much [more to come](https://github.com/armanjindal/armanjindal.github.io/issues))
 
@@ -25,7 +25,7 @@ Here are some of the writing I am working on right now. (much [more to come](htt
 - Religion, Philosophy & Mysticism
 	- [The Physical World in Ibn Tufayl's Philosophical Tale](digital-garden/Tools/Ibn-Tufayl.md)
 
-- Language, Cognition & Self
+- Language, Cognition & (Non)Self
 	- [Language Matters!](digital-garden/Language%20Matters.md)
 		- [Find Rhythm. Not Momentum](digital-garden/Rhythm-Not-Momentum.md)
 
@@ -33,7 +33,6 @@ Here are some of the writing I am working on right now. (much [more to come](htt
 	- [4000 Weeks - Time Management For Mortals](digital-garden/Book%20Commentaries/4000%20Weeks%20-%20Time%20Management%20For%20Mortals.md)
 	- [Non Violent Communication - A Language of Life](digital-garden/Book%20Commentaries/Non%20Violent%20Communication%20-%20A%20Language%20of%20Life.md)
 
-Through consistent gardening, I hope to bring to life my nook on the internet. I am glad that you are a part of that. 
 
 ## Community 
 Although I maintain this garden, I hope to cultivate a community that enjoys browsing and adds to its "life."  To do this, I will use [GitHub](https://github.com/armanjindal/armanjindal.github.io), a versioning protocol that allows large-scale collaboration on software.
