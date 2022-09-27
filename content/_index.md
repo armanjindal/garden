@@ -8,9 +8,9 @@ Yes, this is a digital garden —  [not a blog](https://joelhooks.com/digital-ga
 
 I love the garden's primordial association as a place of *creation*. Each piece of writing here is a plant, and like any garden, you will find plants at all stages. From rough outlines to polished pieces, this is where I share with you what I make and think.  However, please know that most "plants" are saplings and may die over time. 
 
-This is good. Death is a necessary part of creation. Ideas and concepts are helpful insofar are they lead to **life**. Writing and sharing writing force me to articulate myself as clearly as possible. not to be **right** but to test *theory* against *reality*, unafraid to modify or even outright destroy the theory that stifles my life. A few worthy "plants," under the nourishment of rain and sunshine that withstand the test of open, and the scrutiny of readers, might flourish into solid oaks: ones that ground me in this crazy, incredible world. 
+This is good. Death is a necessary part of creation. Ideas and concepts are helpful insofar are they lead to **life**. Writing and sharing writing force me to articulate myself as clearly as possible. Not to be **right** but to test *theory* against *reality*, unafraid to modify or even outright destroy the theory that stifles my life. A few worthy "plants," under the nourishment of rain and sunshine that withstand the test of open, and the scrutiny of readers, might flourish into solid oaks: ones that ground me in this crazy, incredible world. 
 
-Since, as expressed in the pithy unadorned prose of [Voltaire's *Candide: ou l'Optimisme*](https://www.theschooloflife.com/article/cultivate-own-garden-voltaire/] Candide concludes after much suffering and tragedy, that in face of it:
+Since, as expressed in the pithy unadorned prose of [Voltaire's *Candide: ou l'Optimisme*](https://www.theschooloflife.com/article/cultivate-own-garden-voltaire/] Candide concludes after much suffering and tragedy, that in the face of it:
 
 >  We must cultivate our own garden ("Il faut cultiver notre jardin.")
 
