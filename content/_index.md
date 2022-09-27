@@ -10,19 +10,20 @@ I love the garden's primordial association as a place of *creation*. Each piece 
 
 This is good. Death is a necessary part of creation. Ideas and concepts are helpful insofar are they lead to **life**. Writing and sharing writing force me to articulate myself as clearly as possible. Not to be **right** but to test *theory* against *reality*, unafraid to modify or even outright destroy the theory that stifles my life. A few worthy "plants," under the nourishment of rain and sunshine that withstand the test of open, and the scrutiny of readers, might flourish into solid oaks: ones that ground me in this crazy, incredible world. 
 
-Since, as expressed in the pithy unadorned prose of [Voltaire's *Candide: ou l'Optimisme*](https://www.theschooloflife.com/article/cultivate-own-garden-voltaire/] Candide concludes after much suffering and tragedy, that in the face of it:
+Since, as expressed in the pithy unadorned prose of [Voltaire's *Candide: ou l'Optimisme*](https://www.theschooloflife.com/article/cultivate-own-garden-voltaire/) the earnest protagonist Candide concludes, after much suffering and tragedy, that in the face of it:
 
 >  We must cultivate our own garden ("Il faut cultiver notre jardin.")
 
 
-This isn't just a garden, though. It's a *wild* garden.
+Transforming the *possible* to the *actual* requires choosing. This garden consists of those few things I have decided to care about.  This isn't just a garden, though. It's a *wild* garden.
 
 Connecting each piece of writing is a [rhizome](https://www.iaacblog.com/programs/rhizome-deleuze-guattari/#:~:text=Rhizome%20is%20a%20philosophical%20term,They%20are%20dispersed.): a network of roots that grows with every plant. In a nicely categorized world, I want to find connections. 
 
-To support this lofty goal, I chose an opinionated, open-source tech stack for my rhizomatic garden. I use [Obsidian](https://obsidian.md/) to write — an open source, knowledge management text editor with a graph view (bottom left) — embbed in [Quartz](https://quartz.jzhao.xyz/) as a site generation, managed on GitHub. These tools help conceptualize my works as an expanding network of connections rather than isolated writings. All of which ultimately help me to shape, affirm and faithfully **live** a narrative of my creation.
+To support this lofty goal, I chose an opinionated, open-source tech stack for my rhizomatic garden. I use [Obsidian](https://obsidian.md/) to write — an open source, knowledge management text editor with a graph view (bottom left) — that uses [Quartz](https://quartz.jzhao.xyz/) as a wrapper on the Hugo site generation. All of this is managed on GitHub. These tools help me produce an expanding network of thoughts rather than isolated ideas. All of which ultimately help me to shape, affirm and faithfully **live** a narrative of my creation.
 
-Please peruse as you would a garden ☀️ To search, you can use the shortcut (**Ctr/Cmd + K**) to browse and check out the graph view at the bottom. Here are some starting points:
+Please peruse as you would a garden ☀️ To search by text you can use the shortcut (**Ctr/Cmd + K**). To traverse the connections, check out the graph view at the bottom.
 
+Entry points:
 - [Techne](https://en.wikipedia.org/wiki/Techne)
 	- [The Political Programming - From Walter Benjamin's Theory of Art & Artist](digital-garden/The-Political-Programmer.md) 
 	- [Beyond Form and Content - Epistemology in Susan Sontag's Against Interpretation](digital-garden/Beyond-Form-Content.md)
