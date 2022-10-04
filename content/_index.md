@@ -6,14 +6,13 @@ Welcome, to my garden!  👋
 
 Yes, this is [not a blog](https://joelhooks.com/digital-garden). 
 
-  Gardens have a primordial association with *creation*, not completion. Each piece of writing here is a plant, and you will find plants at all stages. From rough outlines to polished pieces, it's here for you to see. However, please know that most "plants" are saplings that are still growing. Most may die over time, and this is good. 
-  
-  Death is a necessary part of creation. Ideas and concepts are helpful insofar are they lead to **life**. I am growing this garden to articulate myself as clearly as possible. Not to be **right** but to test *theory* against *reality*, unafraid to modify or even outright destroy the theory that does not lead to life. A few worthy "plants," nourished by the rain and sunshine, that grow under the scrutiny of readers, might flourish into solid oaks: ones that ground me in this crazy, incredible world. 
+Gardens have a primordial association with *creation*, not completion. Each piece of writing here is a plant, and you will find plants at all stages. From rough outlines to polished pieces, it's here for you to see. However, please know that most "plants" are saplings that are still growing. Most may die over time, and this is good. 
 
-Because as captured in the pithy unadorned prose of [Voltaire's *Candide: ou l'Optimisme*](https://www.theschooloflife.com/article/cultivate-own-garden-voltaire/) the earnest protagonist Candide concludes, in the final line of the book after much suffering and tragedy, that in the face of it all:
+Death is a necessary part of creation. Ideas and concepts are helpful insofar are they lead to **life**. I am growing this garden to articulate myself as clearly as possible. Not to be **right** but to test *theory* against *reality*, unafraid to modify or even outright destroy the theory that does not lead to life. A few worthy "plants," nourished by the rain and sunshine that grow under the scrutiny of readers, might flourish into solid oaks: ones that ground as I navigate life. 
+
+As captured in the  prose of [Voltaire's *Candide: ou l'Optimisme*](https://www.theschooloflife.com/article/cultivate-own-garden-voltaire/) the earnest protagonist Candide concludes, in the final line of the book after much suffering and tragedy, that in the face of it all:
 
 >  We must cultivate our own garden ("Il faut cultiver notre jardin.")
-
 
 This garden consists of the things I have decided to cultivate. The metaphor doesn't end with a garden, though. It's a *wild* garden.
 
