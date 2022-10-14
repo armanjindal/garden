@@ -1,6 +1,7 @@
 ---
 title: "4000 Weeks: Time Management For Mortals"
 ---
+
 My tongue-in-cheek one-liner for this book is the "anti-productivity anti-self-help productivity self-help book" I didn't know I needed. [Oliver Burkeman] combines ancient and philosophical ideas in a lucid meditation on our relationship with time. He does it in a way that is useful and accessible but well-researched and honest. This book brings many disparate intuitions and bits of wisdom into an organized, coherent narrative. Our cultural obsession with mastery and total control of our time total control over it is not possible or desirable. This is only painful until we recognize that it couldn't be any other way.
 
 Reading, listening to, and re-reading this book has made me happier and my life better.  I've often returned to it when my anxieties, often time-related,  begin to constrict my chest. 

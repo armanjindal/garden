@@ -6,17 +6,12 @@ Because it does, and my dear friend [Isabelle Pride]() says so. Jokes.
 
 But it does. Most fundamentally. Language is at the core of how we construct reality. 
 
-I don't have a coherent theory of cognition and language, and there is plenty of crazy dense philosophical and psychological work on this topic. I am not going to summarize it or even explain it. My goal here is to make a case for its **importance.** My main argument - try it. 
+I don't have a coherent theory of cognition and language, and there is plenty of crazy dense philosophical and psychological work on this topic. I am not going to summarize it or even explain it. My goal here is to simply make a case for its **intentional use.** 
 
-T
+My main argument here is for you to try it. Find a locution you often say, interrogate it, and then find something better. Whether it is a predisposition to apologize when it isn't your fault, or a category that you often counterproductively place yourself in, take a moment to find a better word or phrase. One that more closely aligns with who you want to be and construct reality. 
 
-Language impacts cognition. Certain words trigger categories of related and different ideas, images, and memories. Cognition is how we construct the world. Language then is one of the base constituents of reality.
+Let's pay attention to what words and metaphors we use. If language is the "limits" of my world, better words can literally mean, vaster worlds. I hope you give it a try. Here is a running list of my language interventions, for some inspiration:
 
-So let's pay attention to what words and metaphors we use. They shape our world and are the "limits" of it. They often illustrate the boundaries. This is a truth that I've come to 
+1. [Rhythm-Not-Momentum](digital-garden/Rhythm-Not-Momentum.md)
 
 
-
-So I've decided to document every time in my life, that this hard-earned and often overlookedob truth has mattered. 
-
-- After a month and a half interning at Airy.co, 
-- I saw a transformation in my language. As I moved from outside to become a part of the organization and was involved in more design decisions.  an insider in the 

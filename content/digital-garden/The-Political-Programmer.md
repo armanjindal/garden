@@ -2,19 +2,22 @@
 title: "The Political Programmer"
 opentoc: true
 ---
-**Open Source and Big Tech- An analysis of our means of producing Technology using Walter Benjamin's Political Theory of Art and Artist**
+*An Analysis of the Modern Means of Producing Technology based on Walter Benjamin's Theory of Art and Artist*
   
 >[!Note]
 > This is a work in progress. I am actively and substantially revising the argument and the structure. But if you have any suggestions or thoughts, please [email me](mailto:arman.jindal@columbia.edu). Even better, [create an issue](https://github.com/armanjindal/armanjindal.github.io/issues/new?assignees=&labels=&template=suggestions_report.md&title=) on GitHub of this repository. 
  
-***Tech for good*.** You'll see it on shirts, on LinkedIn headlines, and on social media.  At first sight, around my freshman year in college, it struck me as another banal, virtue-signaling slogan. I naively thought classifying tech as "good" or "bad" was straightforward. I was wrong. 
+***Tech for good*.** You'll see it on shirts, on LinkedIn headlines, and on social media posts.  At first sight, around my freshman year in college, it struck me as another banal, virtue-signaling slogan. Classifying tech as "good" or "bad" was straightforward. I was wrong. 
 
-A source of the difficulty comes from the fact that intentions (un)fortunately don't count. Gene editing is a technology that could save us from world hunger or be used to manufacture deadly viruses. It will likely be used for both ends. Today's most important technologies — flight, radio, the computer, the internet — began as military projects intended to coordinate killing others effectively. No matter how good or bad technology may seem or the purity of its creator's intention, we can never be sure of its impact on society. This might sound theoretical or historical, but for engineers and technologists who see themselves as powerful and their work as political (both are true, as I will argue), **nothing is more practical than the questions of what to build and what not to**. 
-kdnlksdn
+The difficulty comes partly from the historical fact that intentions (un)fortunately don't count. Gene editing is a technology that could save us from world hunger or be used to manufacture deadly viruses. Today's most important technologies — flight, radio, the computer, the internet — began as military projects, yet could be the foundations of utopia.
 
-My goal with this (philosophical) op-ed is to outline a framework for the political programmer to approach that question. This essay, however, is not just for professional programmers — it's for anyone who shapes and is shaped by technology. Everyone's life is mediated by technology and therefore impacted by who, how, and what influences its development. 
+No matter how good or bad technology may *seem*, we can never be sure of its impact on society. This might sound theoretical or historical, but for engineers and technologists who see themselves as powerful and their work as political (both of which are true, as I will argue), **nothing is more practical than the questions of what to build and what not to**. 
 
-I will not try to answer if technology is "good" or "bad." Instead, I begin this project by looking closely at how a piece of technology is made — its "technique." This theory and approach come from a seemingly unlikely source: a WWII German-Jewish political theorist of art named Walter Benjamin. According to Benjamin, an artwork's "technique" is inextricably linked to its social, economic, political, and material conditions. He analyzeses technique in order to ask a surprisingly subtle question: can art change a society that led to its production? I hope to ask the same about technology.
+My goal here is to outline a framework for the political programmer. This essay, however, is not just for programmers. It's for anyone who is shaped by technology, which is to say almost everyone. 
+
+I will not try to answer if technology is "good" or "bad" on the basis of what it does. Instead, I will look at how it was made— its "technique." This approach comes from a seemingly unlikely source: a WWII German-Jewish political theorist of art, philosopher, and critic Walter Benjamin. Benjamin, wrote during the rise of fascism in Italy, Nazism in Germany, while Communism and Capitalism. Art, regardless of whether the author intended it, was political. In this situation 
+
+an artwork's "technique" is inextricably linked to its social, economic, political, and material conditions. He analyzeses technique to ask a surprisingly subtle question: can art change a society that led to its production? I hope to ask the same about technology.
 
 Through this essay, I will develop a parallel between the 21st-century programmer and the 20th-century artist. Using Benjamin's essay ["The Author as Producer"](https://yaleunion.org/wp-content/uploads/2013/12/Walter_Benjamin_-_The_Author_as_Producer.pdf) I reconstruct some of his critical ideas on the political nature of the artist and his notion of their "technique". Specifically, I conceptualize 'Big Tech' and 'Open Source' as "techniques" for producing technology and then analyze them as techniques using Benjamin's political framework. This forms the basis of the political programmer, a new way of understanding the individual programmer's role in shaping political reality. 
 

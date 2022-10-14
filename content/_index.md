@@ -1,26 +1,26 @@
 ---
-title: "🪴 Arman's Wild, Open Source Garden"
+title: "🪴 The Wild Garden"
 ---
 
-Welcome, to my garden!  👋  
+Welcome, to the garden!  👋 Here, you can find what I'm thinking, reading, writing, and doing.  Decidedly I am not calling this a blog. To start reading, scroll down to the next title. If you want to understand why I've called it a garden and the broader writing project, read on.
 
-Yes, this is [not a blog](https://joelhooks.com/digital-garden). 
+Gardens, unlike blogs, have a primordial association with *creation*. Blogs are polished pieces of writing that are complete and organized. Gardens, on the other hand, are *alive* — comprised of plants. With this metaphor, writing becomes *gardening*, and the product of that gradual process is a growing plant. 
 
-Gardens have a primordial association with *creation*, not completion. Each piece of writing here is a plant, and you will find plants at all stages. From rough outlines to polished pieces, it's here for you to see. However, please know that most "plants" are saplings that are still growing. Most may die over time, and this is good. 
+Right now, most of my pieces are *saplings*. They may slowly grow or die. This is good. Death is necessary for life. Ideas and concepts are helpful insofar as they lead to **life**. I haven't started this garden to be *right*. I write to share ideas that matter as clearly as possible in order to test theory *reality*, unafraid to modify or even outright destory the ideas that diminish life. Through consistent *gardening*, I hope to seed a few plants, nourished by the scrutiny of you, my readers, that flourish into solid oaks: ones that ground **us** as we navigate life. 
 
-Death is a necessary part of creation. Ideas and concepts are helpful insofar are they lead to **life**. I am growing this garden to articulate myself as clearly as possible. Not to be **right** but to test *theory* against *reality*, unafraid to modify or even outright destroy the theory that does not lead to life. A few worthy "plants," nourished by the rain and sunshine that grow under the scrutiny of readers, might flourish into solid oaks: ones that ground as I navigate life. 
-
-As captured in the  prose of [Voltaire's *Candide: ou l'Optimisme*](https://www.theschooloflife.com/article/cultivate-own-garden-voltaire/) the earnest protagonist Candide concludes, in the final line of the book after much suffering and tragedy, that in the face of it all:
+In the face of the confusing contingent nature of Life, which can often be cruelly indifferent to our attempts to control it, I've found Candide's retort in the final line of Voltair's short, popular tragic satire of the same name perfect. In the face of suffering, indifference and tragedy: 
 
 >  We must cultivate our own garden ("Il faut cultiver notre jardin.")
+>  — Voltaire [*Candide: ou l'Optimisme*](https://www.theschooloflife.com/article/cultivate-own-garden-voltaire/) 
 
-This garden consists of the things I have decided to cultivate. The metaphor doesn't end with a garden, though. It's a *wild* garden.
+This garden comprises the few things I have decided to care about. These things are growing and not isolated. They interact in exciting ways. 
 
-Connecting each plant is a [rhizome](https://www.iaacblog.com/programs/rhizome-deleuze-guattari/#:~:text=Rhizome%20is%20a%20philosophical%20term,They%20are%20dispersed.): a network of roots that grows, fertilizing the soil, and connecting plants. In a nicely categorized world, I want this to be a place that mirrors how we actually think: by connection. 
+There is nothing wrong with an orderly garden, but I prefer ones that are a bit *wild*. They grow around the environment, and the plants are connected in unexpected ways. I intend to find and support seeing the connections that underly thought. My goal is to make connections between writing as explicit as possible.  
 
-To support this lofty goal, I chose an opinionated, open-source tech stack to build this site. I use [Obsidian](https://obsidian.md/) to write — an open source, knowledge management text editor with a graph view (bottom left) — that uses [Quartz](https://quartz.jzhao.xyz/) as a wrapper on the Hugo site generation. All of this is managed on GitHub, so there is a permanent record of every change. These tools help me produce an expanding network of thoughts rather than isolated ideas. All of which ultimately help me to shape, affirm and faithfully **live** a narrative of my creation.
+To support this lofty goal, I chose an opinionated, open-source tech stack to build this site. I use [Obsidian](https://obsidian.md/) to write — an open source, knowledge management text editor with a graph view (bottom left) — that uses [Quartz](https://quartz.jzhao.xyz/) as a wrapper on the Hugo site generation. All of this is managed on GitHub, so there is a permanent record of every change. These tools help me produce an expanding network of thoughts rather than isolated ideas. All of which ultimately helps me to shape, affirm and faithfully **live** a narrative of my creation.
 
-Please peruse as you would a garden ☀️ To search by text you can use the shortcut (**Ctr/Cmd + K**). To traverse the connections, check out the graph view at the bottom.
+## A Path
+Please peruse as you would a garden ☀️ To search by text, you can use the shortcut (**Ctr/Cmd + K**). To traverse the connections, check out the graph view at the bottom.
 
 Here are some pathways to help get you started.
 
