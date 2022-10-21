@@ -2,18 +2,23 @@
 title: "🪴 The Wild Garden"
 ---
 
-Welcome, to the garden!  👋 Here, you can find what I'm thinking, reading, writing, and doing.  Decidedly I am not calling this a blog. To start reading, scroll down to the next title. If you want to understand why I've called it a garden and the broader writing project, read on.
+Hello, you! Welcome to my garden 👋 
 
-Gardens, unlike blogs, have a primordial association with *creation*. Blogs are polished pieces of writing that are complete and organized. Gardens, on the other hand, are *alive* — comprised of plants. With this metaphor, writing becomes *gardening*, and the product of that gradual process is a growing plant. 
+Here, you will find what I'm thinking, reading, writing, and doing. Decidedly this is not a blog. I much prefer the metaphor of the garden. 
 
-Right now, most of my pieces are *saplings*. They may slowly grow or die. This is good. Death is necessary for life. Ideas and concepts are helpful insofar as they lead to **life**. I haven't started this garden to be *right*. I write to share ideas that matter as clearly as possible in order to test theory *reality*, unafraid to modify or even outright destory the ideas that diminish life. Through consistent *gardening*, I hope to seed a few plants, nourished by the scrutiny of you, my readers, that flourish into solid oaks: ones that ground **us** as we navigate life. 
+Gardens have this primordial association as a place of *creation*. Unlike, blogs which are comprised of complete and organized pieces of writing, grdens comprised comprised of a network of plants — all at different stages of growth. The metaphor helps me view writing as a radically incremental act of *gardening*. The product of a gradual, daily practice of writing, is a growing plant. Here it is my hope you will find something *alive*.
 
-In the face of the confusing contingent nature of Life, which can often be cruelly indifferent to our attempts to control it, I've found Candide's retort in the final line of Voltair's short, popular tragic satire of the same name perfect. In the face of suffering, indifference and tragedy: 
+Right now, most of my pieces are *saplings*. They may die. This is good. Death is necessary for life. Ideas are helpful insofar as they lead to **life**, which is to broadly action, community and further questions. I haven't started this garden to be *right*. I write as a daily practive to articulate my theory in order to it against *reality*, unafraid to modify or even outright destory the ideas that diminish life. Through consistent *gardening*, I hope to seed a solid oaks, nourished by the scrutiny of you, my readers, that ground me and provide shade to a few as we navigate life. 
+
+In the face of the confusing, contingent, cruelly indifferent existence, I've found Candide's pithy concluding line comforting:
 
 >  We must cultivate our own garden ("Il faut cultiver notre jardin.")
 >  — Voltaire [*Candide: ou l'Optimisme*](https://www.theschooloflife.com/article/cultivate-own-garden-voltaire/) 
 
-This garden comprises the few things I have decided to care about. These things are growing and not isolated. They interact in exciting ways. 
+
+It is one of those truths, which when accepted, is no longer tormenting. This garden is what I've decided to cultivate and care about in an infinity of possible options. 
+
+The writing here — the plants growing in this garden — are not isolated. Neither are they neatly connected. In so far as it is possible, I hope to represent the underlying influences, connection, and narritives. To extend this metaphor, I want to expose the rhizome: both the in the literal sense as well as philosophical one
 
 There is nothing wrong with an orderly garden, but I prefer ones that are a bit *wild*. They grow around the environment, and the plants are connected in unexpected ways. I intend to find and support seeing the connections that underly thought. My goal is to make connections between writing as explicit as possible.  
 
