@@ -7,6 +7,10 @@ opentoc: true
 >[!Note]
 > This is a work in progress. I am actively and substantially revising the argument and the structure. But if you have any suggestions or thoughts, please [email me](mailto:arman.jindal@columbia.edu). Even better, [create an issue](https://github.com/armanjindal/armanjindal.github.io/issues/new?assignees=&labels=&template=suggestions_report.md&title=) on GitHub of this repository. 
  
+
+Feedback - Be more concrete/narrative:
+- Code that 
+
 ***Tech for good*.** You'll see it on shirts, on LinkedIn headlines, and on social media posts.  At first sight, around my freshman year in college, it struck me as another banal, virtue-signaling slogan. Classifying tech as "good" or "bad" was straightforward. I was wrong. 
 
 The difficulty comes partly from the historical fact that intentions (un)fortunately don't count. Gene editing is a technology that could save us from world hunger or be used to manufacture deadly viruses. Today's most important technologies — flight, radio, the computer, the internet — began as military projects, yet could be the foundations of utopia.
