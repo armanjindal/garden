@@ -10,9 +10,9 @@ Gardens have this primordial association as a place of *creation*. Unlike, blogs
 
 The metaphor of the garden helps conceptualize writing as a radically incremental act of small improvements over time. Much like the act of *gardening*, it isn't heroic and it definitely isn't ever final. You are never *done* working on your garden. 
 
-It is my hope that you will find something *alive*. 
+It is my hope that here you will find something *alive*. 
 
-Right now, the garden is early and most of my pieces are *saplings*. Which is to say many may die. This is good. Death is necessary for life. Ideas are helpful insofar as they lead to **life**. To action, community, flourishing, and further questions. I haven't started this garden to be *right*. I write as a daily practice to articulate theory in order to test it against *reality*, unafraid to modify or even outright destroy the ideas that diminish life. Through consistent *gardening*, I hope to seed solid oaks, nourished by the scrutiny of you, my readers, that ground me and provide shade to a few friends as we navigate life. 
+Right now, the garden is early, and most of my pieces are *saplings*. Which is to say many may die. This is good. Death is necessary for life. Ideas are helpful insofar as they lead to **life**. To action, community, flourishing, and further questions. I haven't started this garden to be *right*. I write as a daily practice to articulate theory in order to test it against *reality*, unafraid to modify or even outright destroy the ideas that diminish life. Through consistent *gardening*, I hope to seed solid oaks, nourished by the scrutiny of you, my readers, that ground me and provide shade to a few friends as we navigate life. 
 
 In the face of the confusing, contingent, cruelly indifferent nature of our existence, I've found Candide's pithy concluding line comforting:
 
@@ -20,14 +20,12 @@ In the face of the confusing, contingent, cruelly indifferent nature of our exis
 >  — Voltaire [*Candide: ou l'Optimisme*](https://www.theschooloflife.com/article/cultivate-own-garden-voltaire/) 
 
 
-Finitude, finality, and suffering are truths of our existence, which, when accepted are no longer tormenting. In fact, they are liberating and the basis, in my opinion, of a good life. This garden is what I've decided to cultivate and care about in an infinity of possible options. 
+Finitude, finality, and suffering are truths of our existence, which, when accepted, are no longer tormenting. In fact, they are liberating and the basis, in my opinion, of a good life. This garden is what I've decided to cultivate and care about in an infinity of possible options. 
 
 Soil & Rhizome:
-To extend this metaphor, possibly past to its breaking point, I want to take to the subterranean. The writing here — the plants growing in this garden — are not isolated, but neither are they neatly connected.
+To extend this metaphor, possibly past its breaking point, I want to it to take the subterranean. The writing here — the plants growing in this garden — are not isolated, but neither are they neatly connected. There is a rhizome, a tangled mass of roots, that exists underneath the soil chaotically connecting each piece. 
 
-In so far as it is possible, I hope to capture the underlying influences, connections, and narratives that shape what I choose to share here. I draw your attention to the soil and expose the rhizome lurking beneath because writing doesn't happen in isolation.
-
-There is nothing wrong with an orderly garden, but I prefer ones that are a bit *wild*. They grow around the environment, and the plants are connected unexpectedly. I intend to find and support seeing the connections that underly thought. My goal is to make connections between writing as explicit as possible. Tracing the genealogy and changes to my own writing is quite selfishly a fascinating project of self-examination.
+There is nothing wrong with an orderly garden, but I prefer ones that are a bit *wild*. They grow around the environment, and the plants are connected unexpectedly. I intend to find and support seeing the connections that underly thought. My goal is to make connections between writing as explicit as possible. Tracing the genealogy, connections, and changes to my own writing over time is quite selfishly a fascinating project of self-examination.
 
 To support this lofty goal, I chose an opinionated, open-source tech stack to build this site. I use [Obsidian](https://obsidian.md/) to write — an open source, knowledge management text editor with a graph view (bottom left) — that uses [Quartz](https://quartz.jzhao.xyz/) as a wrapper on the Hugo site generation. All of this is managed on GitHub, so there is a permanent record of every change. These tools help me produce an expanding network of thoughts rather than isolated ideas. All of which ultimately help me to shape, affirm and faithfully **live** a narrative of my creation.
 
