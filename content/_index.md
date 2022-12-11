@@ -6,31 +6,30 @@ Hello, you! Welcome to my garden 👋
 
 Here, you will find what I'm thinking, reading, writing, and doing. Decidedly this is not a blog. I much prefer the metaphor of the garden. 
 
-Gardens have this primordial association as a place of *creation*. Unlike, blogs which are comprised of complete and organized pieces of writing, grdens comprised comprised of a network of plants — all stages of growth. 
+Gardens have this primordial association as a place of *creation*. Unlike, blogs which are comprised of complete and organized pieces of writing, gardens are an interdependent network of plants, at all stages of growth. 
 
-The metaphor helps me view writing as a radically incremental act of *gardening*. The product of a gradual, daily practice of writing, is a growing plant. 
+The metaphor of the garden helps conceptualize writing as a radically incremental act of small improvements over time. Much like the act of *gardening*, it isn't heroic and it definitely isn't ever final. You are never *done* working on your garden. 
 
+It is my hope that you will find something *alive*. 
 
-Here it is my hope you will find something *alive*.
+Right now, the garden is early and most of my pieces are *saplings*. Which is to say many may die. This is good. Death is necessary for life. Ideas are helpful insofar as they lead to **life**. To action, community, flourishing, and further questions. I haven't started this garden to be *right*. I write as a daily practice to articulate theory in order to test it against *reality*, unafraid to modify or even outright destroy the ideas that diminish life. Through consistent *gardening*, I hope to seed solid oaks, nourished by the scrutiny of you, my readers, that ground me and provide shade to a few friends as we navigate life. 
 
-Right now, most of my pieces are *saplings*. They may die. This is good. Death is necessary for life. Ideas are helpful insofar as they lead to **life**, which is to broadly action, community and further questions. I haven't started this garden to be *right*. I write as a daily practive to articulate my theory in order to it against *reality*, unafraid to modify or even outright destory the ideas that diminish life. Through consistent *gardening*, I hope to seed a solid oaks, nourished by the scrutiny of you, my readers, that ground me and provide shade to a few as we navigate life. 
-
-In the face of the confusing, contingent, cruelly indifferent existence, I've found Candide's pithy concluding line comforting:
+In the face of the confusing, contingent, cruelly indifferent nature of our existence, I've found Candide's pithy concluding line comforting:
 
 >  We must cultivate our own garden ("Il faut cultiver notre jardin.")
 >  — Voltaire [*Candide: ou l'Optimisme*](https://www.theschooloflife.com/article/cultivate-own-garden-voltaire/) 
 
 
-It is one of those truths, which when accepted, is no longer tormenting. This garden is what I've decided to cultivate and care about in an infinity of possible options. 
+Finitude, finality, and suffering are truths of our existence, which, when accepted are no longer tormenting. In fact, they are liberating and the basis, in my opinion, of a good life. This garden is what I've decided to cultivate and care about in an infinity of possible options. 
 
-RHIZOMES:
-SOIL
-The writing here — the plants growing in this garden — are not isolated. Neither are they neatly connected. In so far as it is possible, I hope to represent the underlying influences, connection, and narritives. To extend this metaphor, I want to expose the rhizome: both the in the literal sense as well as philosophical one
+Soil & Rhizome:
+To extend this metaphor, possibly past to its breaking point, I want to take to the subterranean. The writing here — the plants growing in this garden — are not isolated, but neither are they neatly connected.
 
-There is nothing wrong with an orderly garden, but I prefer ones that are a bit *wild*. They grow around the environment, and the plants are connected in unexpected ways. I intend to find and support seeing the connections that underly thought. My goal is to make connections between writing as explicit as possible.  
+In so far as it is possible, I hope to capture the underlying influences, connections, and narratives that shape what I choose to share here. I draw your attention to the soil and expose the rhizome lurking beneath because writing doesn't happen in isolation.
 
-TECH:
-To support this lofty goal, I chose an opinionated, open-source tech stack to build this site. I use [Obsidian](https://obsidian.md/) to write — an open source, knowledge management text editor with a graph view (bottom left) — that uses [Quartz](https://quartz.jzhao.xyz/) as a wrapper on the Hugo site generation. All of this is managed on GitHub, so there is a permanent record of every change. These tools help me produce an expanding network of thoughts rather than isolated ideas. All of which ultimately helps me to shape, affirm and faithfully **live** a narrative of my creation.
+There is nothing wrong with an orderly garden, but I prefer ones that are a bit *wild*. They grow around the environment, and the plants are connected unexpectedly. I intend to find and support seeing the connections that underly thought. My goal is to make connections between writing as explicit as possible. Tracing the genealogy and changes to my own writing is quite selfishly a fascinating project of self-examination.
+
+To support this lofty goal, I chose an opinionated, open-source tech stack to build this site. I use [Obsidian](https://obsidian.md/) to write — an open source, knowledge management text editor with a graph view (bottom left) — that uses [Quartz](https://quartz.jzhao.xyz/) as a wrapper on the Hugo site generation. All of this is managed on GitHub, so there is a permanent record of every change. These tools help me produce an expanding network of thoughts rather than isolated ideas. All of which ultimately help me to shape, affirm and faithfully **live** a narrative of my creation.
 
 ## A Path
 Please peruse as you would a garden ☀️ To search by text, you can use the shortcut (**Ctr/Cmd + K**). To traverse the connections, check out the graph view at the bottom.
