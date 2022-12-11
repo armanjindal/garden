@@ -4,11 +4,11 @@ title: "Find Rhythm. Not Momentum"
 ---
 Momentum measures how hard it is to stop something once it is in motion. The metaphor of momentum is used (and abused!) everywhere, from sports and entrepreneurship to working out and relationships. Momentum has gone from a descriptive physical quantity to a pervasive mental model we use to conceptualize ourselves in the world. 
 
-I've always had a toxic relationship with momentum. Momentum can work for you as much as it can against you. To quote a Nike commercial that used to be my alarm clock was at a particularly "grindset" moment of my life as a national junior squash payer, ["momentum is a cruel mistress. It will turn on you in a dime."](https://www.youtube.com/watch?v=OmkNKEHC8Pg)
+I've always had a toxic relationship with momentum. Momentum can work for you as much as it can against you. To quote a Nike commercial that used to be my alarm clock at a particularly "grindset" moment in my past life as an elite U-19 squash payer, ["momentum is a cruel mistress. It will turn on you in a dime."](https://www.youtube.com/watch?v=OmkNKEHC8Pg)
 
 When you've got "momentum," you feel invincible. The "weight" of the previous productive days or previous workouts helps "push" you through the one in front of you. The feeling of momentum often comes with improvement. It was equivalent to success. Don't break the streak is a powerful motivator. When you've got it, it feels great.
 
-The other side however is equally cruel. Because eventually, life happens. A family trip "gets in the way" of your workout program. You've had a massive cheat meal on a night out with friends. You've lost "momentum." All the "weight" you once had working for you is now gone. You've lost something that isn't tangible but feels very real. This feeling has often led me into a destructive, unproductive spiral. I know I'm not the only one who feels the effect of this metaphor.
+The other side, however is equally cruel. Because eventually, life happens. A family trip "gets in the way" of your workout program. You've had a massive cheat meal on a night out with friends. You've lost "momentum." All the "weight" you once had working for you is now gone. You've lost something that isn't tangible but feels very real. This feeling has often led me into a destructive, unproductive spiral. I know I'm not the only one who feels the effect of this metaphor.
 
 "Momentum" evokes the image of a rock rolling down the mountain. It **requires immense effort** to start. As the rock accelerates down the mountain, you better get out of the way. Momentum is a vector, meaning it has a magnitude and direction. It is always "going" somewhere.
 
