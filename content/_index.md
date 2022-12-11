@@ -2,7 +2,7 @@
 title: "🪴 The Wild Garden"
 ---
 
-Hello, you! Welcome to my garden 👋 
+Hello, you! Welcome to my garden 🪴 
 
 Here, you will find what I'm thinking, reading, writing, and doing. Decidedly this is not a blog. I much prefer the metaphor of the garden. 
 
@@ -60,7 +60,7 @@ Right now, there are two ways:
 2. [Issues](https://github.com/armanjindal/armanjindal.github.io/issues). On the `Issues` tab of the GitHub repository on this site, I hope to scope/outline the writing I hope to publish. This is a great place to collect feedback (before I've even started to write), scope projects, track progress, document, and prioritize a million things I want to write. 
 3. (TO COME) Milestones and corresponding branches to allow multiple projects to be developed in parallel. 
 
-Right now, I expect it will be friends and mentors who I will pester to contribute, but I hope to have a broader audience of contributors as this grows. GitHub is immensely powerful, and I will try to use it best to "cultivate my garden" best I can. 🪴
+Right now, I expect it will be friends and mentors who I will pester to contribute, but I hope to have a broader audience of contributors as this grows. GitHub is immensely powerful, and I will try to use it to "cultivate my garden" best I can. 🪴
 
 
 #  Me
