@@ -22,7 +22,7 @@ The metaphor of "rhythm" evokes the image of **dance** and play. This brings me 
 
 "Rhythm" isn't directional. You don't **have** to be going somewhere. Finding a rhythm can help you get to where you want to go (think rowing/military marching), but a deeper intention about how you are in the world. Unlike the strict directionality of momentum that necessitates a clear goal, rhythm can just as much be a feel. Interestingly it surmounts the distinction between what you are and where you are going (what Simone De Beauvoir in her incredible [Ethics of Ambiguity]() calls *facticity* and *transcendence*). Rhythm is a concept for self-understanding capturin, in a moment, both who you are and where you are going. 
 
-Finally, the metaphor captures the dynamism of being. Rather than conceptualizing ourselves as static entities with singular directions (rock with momentum), rhythm is a metaphor that celebrates our constant movement. To live is to be moved. Moved by the people, landscapes, art, and nature, and in turn, to influence the people and situations we bring into our lives. 
+Finally, the metaphor captures the dynamism of being. Rather than conceptualizing ourselves as static entities with singular directions (think: rock with momentum), rhythm is a metaphor that celebrates our constant movement. To live is to be moved. Moved by the people, landscapes, art, and nature, and in turn, to influence the people and situations that bring joy into our lives. 
 
 So when I next feel that tailwind of compounded consistency, instead of saying I've "got momentum," I will say, "I've found a *rhythm*." 
 
