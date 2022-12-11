@@ -20,7 +20,7 @@ The Efficiency Trap:
 - WHY?
 	- Because the optimal time management strategy **promises** that you will take on more of these commitments.
 	- It's a delusional escape from the constraints of your time and energy. 
-	- We much rather think this than confront the harsh and brutal indifferent limits of our existence. 
+	- We much rather think this than confront the harsh, indifferent truth of our limited existence. 
 
 "The more wonderful experiences you succeed in having, the more additional experiences you feel like you *could have* or *ought to have* on top of all the experiences you already have."
 
