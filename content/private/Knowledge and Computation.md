@@ -25,4 +25,4 @@ Title: [Information—Computing—Infrastructure](http://www.columbia.edu/cu/bul
 - Reading Notes:
 	- Gabriella Coleman:
 		- From Internet Farming to Weapons of the Geek
-		- [[Gabriella Coleman Notes]]
+		- [[private/Gabriella Coleman Notes]]

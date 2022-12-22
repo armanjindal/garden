@@ -63,6 +63,6 @@ Right now, I expect it will be friends and mentors who I will pester to contribu
 
 
 #  Me
-My name is Arman Jindal. I am currently a student at Columbia University, studying a joint program in Computer Science & Philosophy. I designed it around the question of [[Knowledge and Computation]]. 
+My name is Arman Jindal. I am currently a student at Columbia University, studying a joint program in Computer Science & Philosophy. I designed it around the question of [[private/Knowledge and Computation]]. 
 
 I'm working as a part-time software engineer and technical writer for an open-source, Berlin-based start-up called Airy and as a peer fellow for the Columbia Writing Center. 
