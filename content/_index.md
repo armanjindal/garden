@@ -40,7 +40,7 @@ Here are some pathways to help get you started.
 
 - Religion, Philosophy & Mysticism
 	- [The Physical World in Ibn Tufayl's Philosophical Tale](digital-garden/Tools/Ibn-Tufayl.md)
-	- [Broken Knowledge: 60 Years Later... On The "Inescapability of Gettier Cases"](digital-garden/Broken%20Knowledge%20-%2060%20Years%20Later...%20On%20The%20"Inescapability%20of%20Gettier%20Cases".md)
+	- [Broken Knowledge: 60 Years Later... On The "Inescapability of Gettier Cases"](digital-garden/60%20Years%20Later...%20On%20The%20"Inescapability%20of%20Gettier%20Cases".md)
 
 - Language, Cognition & (Non)Self
 	- [Language Matters!](digital-garden/Language%20Matters.md)
