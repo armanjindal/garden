@@ -1,3 +1,8 @@
+---
+title: "Broken Knowledge - 60 Years Later... On The "Inescapability of Gettier Cases
+---
+
+
 Prospectus for an independent study 
 Second Reader: Nathaneal Shelley (?)
 
