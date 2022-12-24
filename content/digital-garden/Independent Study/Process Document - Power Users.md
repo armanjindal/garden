@@ -6,17 +6,18 @@ A growing stack on the notes to self from feedback office hours and all the misc
 Related Notes :
 - [The Closed World - Computers and the Politics of Discourse in Cold War America](digital-garden/Book%20Notes/The%20Closed%20World%20-%20Computers%20and%20the%20Politics%20of%20Discourse%20in%20Cold%20War%20America.md)
 
-Note to Self - Be less impressed and more involved. Follow your curiosity here. Make the task something you enjoy doing. Write, even if it just a little every damn day. 
+Note to Self - Be less impressed and more involved. Follow your curiosity here. You love this, and this is you. Make the task something you enjoy doing. Write, even if it is just a little every damn day. 
 
 24/12/22
 TODO Before sending to Matt Jones:
 - [ ] Citations & Bibliography
 - [ ]  Clean up section III summary
 - [ ] Proof Read
-- [ ] Send across to MJ and ask if he'd be interested in 
+- [ ] Send across to MJ and ask if he'd be interested in using Git
 
-Reading List:
+Winter Reading List:
 - [ ] Christopher Kelty - The Participant
+- [ ] Computing Taste 
 - [ ] Foucoult - Sexuality 
 - [ ] Gabriella  - Hacker Politics: Three Ethical Moments in Debian
 
@@ -33,25 +34,17 @@ Suggestion - Application blockchain/crypto. Power users of "Web 3.0"
 
 -  Political:  Construction of Subjectivity through technology → Bewildered Vs. Creative
 
-Reactions: 
+Meeting w/ MJ 16/12/22: 
 -   Different layers of conceptions of users as agents
 -   Limits of the recursive public model - can we still find a promise in the moral and poltiical order of the recursive public. 
--   Apple - Propaganda (would work for creatives) “creatives.” 
--   Power user in the sense you could be a master of the tool. 
--   Power users are “empowered” - in what sense. Key-strokes Vi. Shortcuts. Technically savvy users. Macro languages. 
+-   Apple - Propaganda (would work for creatives) “creatives.” It "just works."
+-   Power user in a sense you could be a master of the tool. 
+-   Power users are “empowered” - in what sense? Key-strokes Vi. Shortcuts. Technically savvy users
+-  Look into Macro languages!
 -   Modding closed-source software. 
--   Given power to do things. 
-
-
--   [https://hackcur.io/](https://hackcur.io/)
--   Exploiting capabilities
-
-Foucault: How does power shape subjectivity? A individuals understanding
-
--   Sexuality 
--   Power is productive of different kinds of subjectivities because it offers us through a collective hermenutical and epistemology (language) to understand ourselves, form indentity and find community around it. 
-- The concepts:
-	- Homosexual vs. Heterosexual - historically recent and contigent cateogries that reflect "powers" ability to shape subjectivity.
+-  Foucault: How does power shape subjectivity? An individuals understanding
+	- Power is productive of different subjectivities because it offers us through a collective hermeneutical and epistemology (language) to understand ourselves, form indentity and find community around it. 
+	- Homosexual vs. Heterosexual - historically recent and contingent categories that reflect "powers" ability to shape subjectivity. The way we understand ourselves. 
 
 Exploratory Reading: 
 -  [ ] https://homepages.cwi.nl/~steven/sigchi/bulletin/1997.4/karn.html 
