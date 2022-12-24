@@ -1,10 +1,33 @@
+A growing stack on the notes to self from feedback office hours and all the miscelaneous shit involved in an independent study/thesis, documented here. These notes are a structured to the degree to which they help me write the actual thing. 
 
-A growing stack on the notes to self from feedback office hours and all the miscelaneous shit involved in an independent study/thesis, documented here. 
+Related Notes :
+- [The Closed World - Computers and the Politics of Discourse in Cold War America](digital-garden/Book%20Notes/The%20Closed%20World%20-%20Computers%20and%20the%20Politics%20of%20Discourse%20in%20Cold%20War%20America.md)
+
+Note to Self - Be less impressed and more involved. Follow your curiosity here. Make the task something you enjoy doing. Write, even if it just a little every damn day. 
+
+24/12/22
+TODO Before sending to Matt Jones:
+- [ ] Citations & Bibliography
+- [ ]  Clean up section III summary
+- [ ] Proof Read
+- [ ] Send across to MJ and ask if he'd be interested in 
+
+Reading List:
+- [ ] Christopher Kelty - The Participant
+- [ ] Foucoult - Sexuality 
+- [ ] Gabriella  - Hacker Politics: Three Ethical Moments in Debian
 
 
+Discussion w/ Sanjay Jindal 21/12/22:
+Suggestion - Application blockchain/crypto. Power users of "Web 3.0"
+- Users - Power User --> Creative User, 
+- Technology 
+- Mythology - of Information Overwhelm
+	- Spotify wants to expose you to ALL 
+- Recommendation algorithms: Tension between exposing you ALL vs. Reenforcing the Existing Tastes (exploit v explore - TODO: Read Nick Seaver more closley)
+	- Relationship - between recommendation to 
+	- Echo Chambers (em)
 
-These notes are an unstructure (a)
-Plan:
 -  Political:  Construction of Subjectivity through technology → Bewildered Vs. Creative
 
 Reactions: 
@@ -16,7 +39,7 @@ Reactions: 
 -   Modding closed-source software. 
 -   Given power to do things. 
 
-Gabriella  - Hacker Politics:  
+
 -   [https://hackcur.io/](https://hackcur.io/)
 -   Exploiting capabilities
 
@@ -26,13 +49,6 @@ Foucault: How does power shape subjectivity? A individuals understanding
 -   Power is productive of different kinds of subjectivities because it offers us through a collective hermenutical and epistemology (language) to understand ourselves, form indentity and find community around it. 
 - The concepts:
 	- Homosexual vs. Heterosexual - historically recent and contigent cateogries that reflect "powers" ability to shape subjectivity.
-
-Future Reading List: 
--   The Participant - Christopher Kelty
--   Three Ethical Moments in Debian - Gabriella Coleman
--   Hackers - Steve Levy 
--   SPAM - Tim Brunton
--   Working in Public: The Making and Maintenance of Open Source Software
 
 Exploratory Reading: 
 -  [ ] https://homepages.cwi.nl/~steven/sigchi/bulletin/1997.4/karn.html 

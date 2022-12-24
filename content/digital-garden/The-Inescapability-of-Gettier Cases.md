@@ -1,5 +1,6 @@
 ---
-title: "Broken Knowledge. 60 Years Later... On The Inescapability of Gettier Cases"
+title: "The Inescapability of Gettier Cases"
+opentoc: true
 ---
 
 Ever since Gettier famously highlighted a fault in the concept of knowledge by showing justified, true, belief (JTB) as jointly insufficient for knowledge, there have been many attempts to fix it. Arguably, none have. In Linda Zagzebski’s paper *The Inescapability of Gettier Problems* she claims that the approach to add or refine the “justification components'' of JTB+/TB+ accounts are doomed to fail. So long as truth is not entailed by justification, which is to say it is possible to have justified *false* beliefs, these approaches will never be immune to Gettier cases. In this essay I reconstruct Zagzebski’s convincing argument and apply it to Nozick's theory of knowledge which claims to have dealt with Gettier cases. I argue that one way to understand Zagzebski’s argument is as manifestation of a broader tension between our fallibility as knowers and our desire for knowledge to infallible. Finally, using ideas developed throughout this essay I suggest ways forward for the field of epistemology as it struggles to define its central object of analysis. 

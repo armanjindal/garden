@@ -1,6 +1,5 @@
 ---
 title: "Find Rhythm. Not Momentum"
-
 ---
 Momentum measures how hard it is to stop something once it is in motion. The metaphor of momentum is used (and abused!) everywhere, from sports and entrepreneurship to habit formation and relationships. Momentum has gone from a descriptive physical quantity to a pervasive mental model we use to conceptualize ourselves in the world. 
 
