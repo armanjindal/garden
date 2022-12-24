@@ -20,7 +20,7 @@ Potential Second Readers:
 > "A power user is a user of computers, software, and other electronic devices who \[...] might not have extensive technical knowledge of the systems they use but is rather characterized by competence or desire to make the most intensive use of computer programs or systems."
 > - [Wikipedia](https://en.wikipedia.org/wiki/Power_user)
 
-*Power users*. We all know them and may consider ourselves one for a specific technology. From graphic designers integrating their IPads into their *Photoshop* workflow to first-year investment bankers analysts using macros to automate their mindnumbingly tedious work in *Excel*, power users span the gambit from technical to non-technical users, using their technology of choice for the most creative to the most mundane business ends. Power use is a term that characterizes a way of *using* a technology. They are nothing new. Arguably they are the first users of any technology, particularly of the early personal computer and the internet, because you *had* to know how to get the most out of your system to do anything remotley useful. Use of the term as we undestand it today peaked in 1990 and has since been declining, according to Google Ngram.[^1] However, this understudied *use* of technology is not a relics of the past or a triviality of today. Power users are resurging in exciting and meaningful ways.
+*Power users*. We all know them and may consider ourselves one for a specific technology. From graphic designers integrating their IPads into their *Photoshop* workflow to first-year investment bankers analysts using macros to automate their mind-numbingly tedious work in *Excel*, power users span the gambit from technical to non-technical users, using their technology of choice for the most creative to the most mundane business ends. Power use is a term that characterizes a way of *using* technology. They are nothing new. Arguably they are the first users of any technology, particularly of the early personal computer and the internet, because you *had* to know how to get the most out of your system to do anything remotley useful. Use of the term as we understand it today peaked in 1990 and has since been declining, according to Google Ngram.[^1] However, this understudied *use* of technology is not a relics of the past or a triviality of today. Power users are resurging in exciting and meaningful ways.
 
 In this study, I aim to understand, locate, and clearly describe the "power" these users have that distinguishes them from other technology users. In the first section, I situate them historically and develop concepts that we will use in later sections. Starting with the free software" geeks" early 90s Christopher Kelty in *Two Bits: The Cultural Significance of Free Software* often associated with "Web 1.0", then hackers of the mid-90s to late 2010s studied by Gabriella Coleman, and finally, more contemporary users of"Web 2.0" such as Instagram, Tik Tok, and Spotify relying on scholarship by Finn Bruton *SPAM: A Shadow History of the Internet* (2014) and Nick Seaver's *Computing Taste: Algorithms and the Makers of Music Recommendation.* (2022). I use these different kinds of users to draw out relevant distinctions and similarities they have with Power User to argue for the need to conceive of them as distinct and help explore the implications of this kind of use. Understanding the power of this user not only helps to understand the history and future of computing and technology, but can also help develop normative standards to understand our increasing reliance on technologies to form identity, express ourselves and form community, online. 
 
@@ -48,14 +48,17 @@ Scholarship that examines how media use shapes the identity and self-understandi
 
 ## Outline 
 
->!NOTE This is going to constantly be changing. More so than the broader structure of the 
+>[!WARN]
+> This is under development and will be changing as I read more. For a sense of timeline and road map you can see [Process Document - Power Users](digital-garden/Independent%20Study/Process%20Document%20-%20Power%20Users.md)
 
 ### **Section I: Power Use in History**
 
-My goal in the first section is to develop concepts and analysis centered around three distinct aspects of Power Users by situating them in the history of computer and internet use. Specifically by comparing power users to these groups' relationship with technology :
-1. Freesoftware "geeks" 
-2. Hackers
-3. 
+In the first section, I aim to develop concepts and analysis centered around three distinct aspects of Power Users by situating them in the history of computer and internet use. Specifically, by comparing power users with:
+1. Freesoftware "geeks." 
+2. Hackers.
+3. "Web 2.0"
+	- Content-Creators
+	- Passive Users
 
 #### 1.1 User/Producer Relationship: 
 
@@ -65,7 +68,13 @@ At the same time, they do not want to give them access to the source code necess
 
 Unlike hackers whose adversarial relationship with the software they are "hacking," power users are in constant dialog and cooperation with the producers of the technology they power use. 
 
-#### 1.2 Collaboration & Community: 
+### 1.2 Tool First, Purpose Driven
+
+Power users clearly understand their technology as a tool. 
+
+There is deeper truth expressed when we might say power users know the "ins and outs" of their tools. They often know how to pipe in inputs and pipe out outputs from their tool. In this way power users often stich together tools
+
+#### 1.3 Collaboration & Community: 
 
 A common feature of power user native software is active discussion forums. They often form communities to support one another as they learn the technology. A vibrant community of power users often creates educational content and contributes plug-ins. Running code is a form of argumentation. In this way, strong communities of power users are similar to the "recursive publics" of the freesoftware "geeks."
 
@@ -74,7 +83,7 @@ However, unlike them, they are immediately concerned with the infrastrastructure
 
 #### 1.3 Identity & Agency:
 
-As a result power users feel a sense of agency in shaping technology for their use by negotiating with its producers (1.1). At the same time 
+As a result power users feel a sense of agency in shaping technology for their use by negotiating with its producers (1.1). At the same time there is a structured response to complexity, and community that general transmits knowledge. (1.2 & 1.3)
 
 Power user are more intimatley aware of the limitations of the technology they use. As such, they are more aware of the impact on their indentity. 
 
@@ -91,20 +100,16 @@ One of the most distinct and interesting aspects of power users is power user na
 ### Batteries Included
 Power users and software designed for them however present lower technical barriers to entry. You get a lot out of the box, and power users tend to work at a higher level of abstraction than at the lower levels of infrastructure. Since they are guided primarily by instrumental use not infrastructure, they manage complexity better than the "recursive publics" Kelty discusses in *Two Bits*. 
 
-### Local First - Data Sovereignty 
+### Plug Ins & User Modificaton
+
 -  Portability: Open Standards for File Format:
 - Markdown (History) - Blending the right amount of structure and flexibility of human radable and machine-processable.
 
-### Plug Ins & User Modificaton
-
-- The distinction between infrastructure and tooling. 
-
 - A essential  condition for plug-ins is the standardized markdown file format.  An existing body of code has worked with reading in markdown, as well as tools designed for building applications on top of allow us to leverage existing "infrastructure"
-- Higher Level of Abstraction than Open Source:
-	-   APIs 
+- Structured response to complexity. 
+	-   Expose what is useful through well defined APIs. 
 	-   Data Access / “Local First”  over cloud
 	-   The decision as to why they are NOT open source. 
-
 -   Compare Notion and the community of Notion to Obsidian. 
 
 
@@ -137,10 +142,15 @@ Engender a different relationship to complexity and creation
 
 - This is an interesting counterargument. 
 - But why do we think of social media as platforms rather than tools? 
-- By positioning themselves as a platform they obfuscate the fact they are a tool. Or at least, should be. They 
-- Phrases like "platform" for "user-generated content" are language associated with a discourse of version rather than of use. 
+- By positioning themselves as a platform they obfuscate the fact they are a tool. Tools that can be evaluated on the basis of their performance in accomplishing a function. 
+- Platforms are ballooned amalagmations of tools. 
+- We remind ourselves of the technologies encouraging passive use less as platforms and more as tools. Use 
+- But what about the network? Twitter vs. Mastadon 
+- Phrases like "platform" for "user-generated content" are language associated with a discourse of version rather than  use. 
 
 ### Bibliography / Works Cited
 
+
+Related: [Process Document - Power Users](digital-garden/Independent%20Study/Process%20Document%20-%20Power%20Users.md)
 
 [^1]: [Google Ngram Search: power user](https://books.google.com/ngrams/graph?content=power+user&year_start=1800&year_end=2019&corpus=26&smoothing=3&case_insensitive=true) ![google-ngram-power-user](digital-garden/Independent%20Study/google-ngram-power-user.png)
