@@ -1,4 +1,6 @@
-
+---
+title: "Obsidian Tips and Tricks"
+---
 - Foot notes:
 ``` 
 text that has the footnote[^FN_NAME]

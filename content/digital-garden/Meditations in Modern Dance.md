@@ -1,4 +1,6 @@
-
+---
+title: "Modern Dance Meditations - Physicality & Self Expression"
+---
 *Ongoing reflections of a first time dancer on an introductory course in Modern dance,* 
 
 One of the best parts about being an undergraduate is the introductory classes in fields. You are taught by masters of the craft. This has no relation to their ability to teach, but there are the few, who are both. They are golden. A few I've been privelleged to be taught have changed my life.

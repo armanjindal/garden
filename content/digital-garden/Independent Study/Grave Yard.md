@@ -1,4 +1,6 @@
-
+---
+title: "Independent Study Writing Grave Yard"
+---
 Snippets of writing that I wanted to hold on to: 
 
 - Power users do not necessarily need to be able to "code," although many might learn snippets if they need.  Some require more effective technical skills than others. The distinguishing feature of this kind of user and their use of the software is a feeling of comfort and agency to shape it for their needs. Power users are the ones who have mastered keyboard shortcuts. They know how to install or build plugins to extend functionality and stitch it into their workflow with other tools. 
