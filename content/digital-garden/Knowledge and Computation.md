@@ -1,5 +1,7 @@
-This course of study has emerged as I've followed my interest and professors that ignite that. 
+>[!WARN]
+>Under development. 
 
+This course of study has emerged as I've followed interest and professors that ignited something in me, tempered by pragmatism and the constraints of being a person. 
 
 It was first proposed in my junior year where I combined my interest in language, formal semantics and Natural Language processing, but has changed every semester as my interest shifted and I responded to the quality of professors teaching the class. 
 
