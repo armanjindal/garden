@@ -1,9 +1,10 @@
 ---
 title: "Find Rhythm. Not Momentum"
 ---
+
 Momentum measures how hard it is to stop something once it is in motion. The metaphor of momentum is used (and abused!) everywhere, from sports and entrepreneurship to habit formation and relationships. Momentum has gone from a descriptive physical quantity to a pervasive mental model we use to conceptualize ourselves in the world. 
 
-I've always had a toxic relationship with momentum. Momentum can work for you as much as it can against you. To quote a Nike commercial that used to be my alarm clock at a particularly "grindset" moment in my past life, ["momentum is a cruel mistress. It will turn on you in a dime."](https://www.youtube.com/watch?v=OmkNKEHC8Pg)
+I've always had a toxic relationship with momentum. Momentum can work for you as much as it can against you. To quote a Nike commercial that used to be my alarm clock at a particularly "grindset" moment in my past life as an athelete, ["momentum is a cruel mistress. It will turn on you in a dime."](https://www.youtube.com/watch?v=OmkNKEHC8Pg)
 
 When you've got "momentum," you feel invincible. The "weight" of the previous productive days or previous workouts helps "push" you through the one in front of you. The feeling of momentum often comes with improvement. Don't break the streak is a powerful motivator. When you've got it, it feels great. At one point, I used to equate momentum with success. 
 
@@ -13,7 +14,7 @@ The other side, however, is equally cruel. Because eventually, life happens. A f
 
 Now, metaphors are never perfect. But I've got a better one. *Rhythm*. 
 
-Everyone needs to find their own, and this can change with time. Losing your rhythm is quite different from losing your momentum. As an overly enthusiastic [beginner modern dancer](digital-garden/Meditations%20in%20Modern%20Dance.md), I know you can recover it as quickly as you lost it. The best way to do that is the get back to the present moment. Open yourself up, get out of your head about it, and let the music wash over you. 
+Everyone needs to find their own, and this can change with time. Losing your rhythm is quite different from losing your momentum. As an overly enthusiastic [beginner modern dancer](digital-garden/Meditations%20on%20Modern%20Dance.md), I know you can recover it as quickly as you lost it. The best way to do that is the get back to the present moment. Open yourself up, get out of your head about it, and let the music wash over you. 
 
 Once you've found a rhythm, it becomes easier to stay in it. So in this way, it captures the same phenomena of "weight" that pushes forward, but unlike momentum (which goes to 0 the moment you stop), rhythm has a funny way of getting into your bones. At some point, it becomes who you are. Yet it remains intensely flexible. How delightful to remind yourself that you can change instantly. There are some incredible implications for the Buddhist ideas of non-self.
 

@@ -3,7 +3,9 @@ title: "Independent Study Writing Grave Yard"
 ---
 Snippets of writing that I wanted to hold on to: 
 
-- Power users do not necessarily need to be able to "code," although many might learn snippets if they need.  Some require more effective technical skills than others. The distinguishing feature of this kind of user and their use of the software is a feeling of comfort and agency to shape it for their needs. Power users are the ones who have mastered keyboard shortcuts. They know how to install or build plugins to extend functionality and stitch it into their workflow with other tools. 
+- Power users do not necessarily need to be able to "code," although many might learn if they need. Their desire to get technical or into the infrastructure is secondary to a higher order goal. Namely they are task focused rather than tech focused. Instead of seeking to understand the internals of their tool, they are interested in learning enough about it to use it better. As such, power users benefit from an anchor in a sea of complexity. This might seem trivial, but its a strategy developers often use when learning a codebase. This kind of approach to complexity is both supported and cultivated by power user native softwares and communities of power users. 
+
+- Some require more effective technical skills than others. The distinguishing feature of this kind of user and their use of the software is a feeling of comfort and agency to shape it for their needs. Power users are the ones who have mastered keyboard shortcuts. They know how to install or build plugins to extend functionality and stitch it into their workflow with other tools. 
 - I am also seeking to understand the implications of this distinct kind of use. The majority of work in this prospectus will focus on the definition of the concept and make an argument for its conceptual use to better understand the descriptive and normative implications of this unique and politically compelling relationship with technology. 
 
 

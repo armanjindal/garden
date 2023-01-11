@@ -12,8 +12,8 @@ Books are magical. You can communicate with the past and glimpse a life and inne
 
 Books are not bounded by the author's intention. To some, this is the first step into crass interpretive relativism. Instead, I see this as liberating. Books, like "history," are tools we can use marshall to create life and society — not trophies on a wall. There are a few books that are alive with me. I've found myself coming back to, rethinking, and re-reading. I want to capture that process here.
 
-* [4000 Weeks - Time Management For Mortals](digital-garden/Book%20Commentaries/4000%20Weeks%20-%20Time%20Management%20For%20Mortals.md)
-* [Non Violent Communication - A Language of Life](digital-garden/Book%20Commentaries/Non%20Violent%20Communication%20-%20A%20Language%20of%20Life.md)
+* [4000 Weeks - Time Management For Mortals](digital-garden/Reading%20&%20Books/Living%20Book%20Commentaries/4000%20Weeks%20-%20Time%20Management%20For%20Mortals.md)
+* [Non Violent Communication - A Language of Life](digital-garden/Reading%20&%20Books/Living%20Book%20Commentaries/Non%20Violent%20Communication%20-%20A%20Language%20of%20Life.md)
 
 
 ## Reading 

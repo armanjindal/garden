@@ -2,7 +2,7 @@
 title: "The Political Programmer"
 opentoc: true
 ---
-*An Analysis of the Modern Means of Producing Technology based on Walter Benjamin's Theory of Art and Artist*
+*A Political Analysis of the Modern Means of Producing Technology based on Walter Benjamin's Theory of Art and Artist*
   
 >[!Note]
 > This is a work in progress. I am actively and substantially revising the argument and the structure. But if you have any suggestions or thoughts, please [email me](mailto:arman.jindal@columbia.edu). Even better, [create an issue](https://github.com/armanjindal/armanjindal.github.io/issues/new?assignees=&labels=&template=suggestions_report.md&title=) on GitHub of this repository. 
@@ -11,7 +11,7 @@ opentoc: true
 Feedback - Be more concrete. Idea - start with narrative:
 - Code that has been written for one use, and used for something entirley diffferent. Anecdote about the guy who pulled his package that broke the internet. 
 
-***Tech for good*.** You'll see it on shirts, on LinkedIn headlines, and on social media posts.  At first sight, around my freshman year in college, it struck me as another banal, virtue-signaling slogan. Classifying tech as "good" or "bad" was straightforward. I was wrong. 
+***Tech for good*.** You'll see it on shirts, on LinkedIn headlines, and on social media posts.  At first sight, around my freshman year in college, it struck me as another banal, virtue-signaling slogan. Classifying tech as "good" or "bad" was pretty straightforward, I thought. It isn't. It gets even more complicated when you look at the decison engineers face when deciding where to work. How do we understand individual responsibility of individuals creators in the complex, and overwhelmingly world. 
 
 The difficulty comes partly from the historical fact that intentions (un)fortunately don't count. Gene editing is a technology that could save us from world hunger or be used to manufacture deadly viruses. Today's most important technologies — flight, radio, the computer, the internet — began as military projects, yet could be the foundations of utopia.
 
@@ -74,7 +74,7 @@ Open Source was once the dominant way all software was produced, but it solidifi
 The technique of Open Source is progressive since it empowers users by turning them from isolated passive individuals into a community of active technology producers. Open Source, by its nature, is has an existential need for collaboration and community.  If it is too difficult to use, or to contribute to the project dies by neglect —the fate of 99.9% of open source projects. As such this existential need for community impacts everything from the kind of programmers it attracts to the quality of the code; from the tech stack used and its architecture to the tutorials and documentation on using it. Making the technology understandable and possible to contribute to impacts everything about the creation process, and what even gets made. By recruiting its users to producers Open Source does what Benjamin praises the Soviet press for; it weakens the distinction between reader and author. In Benjamin's analogous analysis of the newspaper, he writes:
 
 
-"For as literature gains in breadth what it loses in depth, so the distinction between author and public, which the bourgeois press maintains by artificial means, is beginning to disappear in the Soviet press. [...] The vast melting-down process of which I spoke [...] questions even the separation between author and reader. The press is the most decisive point of reference for this process [...]" For, as we know, the newspaper in Western Europe does not yet represent a valid instrument of production in the writer's hands. It still belongs to capital." (Benjamin, pg 90) 
+> "For as literature gains in breadth what it loses in depth, so the distinction between author and public, which the bourgeois press maintains by artificial means, is beginning to disappear in the Soviet press. \[...] The vast melting-down process of which I spoke \[...] questions even the separation between author and reader. The press is the most decisive point of reference for this process \[...]" For, as we know, the newspaper in Western Europe does not yet represent a valid instrument of production in the writer's hands. It still belongs to capital." (Benjamin, pg 90) 
 
 
 The Soviet press, which Benjamin saw as filled with emancipatory promise, enabled the worker to go from a passive reader to an active writer. The technique of its production empowered the proletariat as a community to shape the forces that shaped them. Uncannily, Open Source does the same. It bonds users and producers together, through forums and discussion boards to collectively shape the technology that shapes them. These active developer communities — armies of volunteer contributors — who flag bugs, test features, write documentation, and build useful features are the envy of Big Tech companies. 
@@ -126,7 +126,6 @@ The material conditions have changed and we must change with them. There is no g
 Unless you live alone under a literal rock, you, my reader, most definitely interact with technology. It can often feel like the forces that govern technology are out of your control. This is not true. Remember, "all that is solid melts into air." You must demand of your technology what you want. Do not throw your hands up in frustration the moment things get technical. I am not advocating you go back to school and get a degree in Computer Science, or even learn to code. I am advocating to Know Thy Tools. If you use a piece of software regularly, learn it. Learn the shortcuts, and learn where and how you can customize it to do what you want. If you find that you cannot customize it, take the time to research other tools you can. Many of these will be Open Source or use its technique. Choose to use Open Source projects with vibrant communities even if they are rougher around the edges. Join their community Slack or Discord, and voice your frustrations. Talk to the programmers creating these products because they, unlike the programmers at Apple, or Google, will likely listen. In doing so, you are becoming empowered as a producer of technology. Your digital tools are as much a part of you as your limbs. They are the digital nervous system that allows you to shape the world and the people in it.  Invest in learning them. More often than not, technical jargon and claims of "complexity," especially by those in Big Tech, are meant to keep you as a passive user. They have a vested interest in keeping you from building technology. Their individual pay is economic power under Big Tech is based on scarcity and homogeneity. Above all, they want you to forget that technology is meant for human flourishing — not capital. 
 
   
-
 Source:
 
 Benjamin, W. (1966). The Author as Producer. Understanding Brecht, ISBN 1-85984-814-1 ​​
@@ -135,12 +134,9 @@ Jan Sieber, “Walter Benjamin's Concept of Technique”, Anthropology & Materia
 
   
   
-  
-  
+
 
 GRAVEYARD:
-
-  
 
 [https://en.wikipedia.org/wiki/Art_in_Nazi_Germany](https://en.wikipedia.org/wiki/Art_in_Nazi_Germany)
 

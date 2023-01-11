@@ -20,20 +20,21 @@ Potential Second Readers:
 > "A power user is a user of computers, software, and other electronic devices who \[...] might not have extensive technical knowledge of the systems they use but is rather characterized by competence or desire to make the most intensive use of computer programs or systems."
 > - [Wikipedia](https://en.wikipedia.org/wiki/Power_user)
 
-*Power users*. We all know them and may consider ourselves one for a specific technology. From graphic designers integrating their IPads into their *Photoshop* workflow to first-year investment bankers analysts using macros to automate their mind-numbingly tedious work in *Excel*, power users span the gambit from technical to non-technical users, using their technology of choice for the most creative to the most mundane business ends. Power use is a term that characterizes a way of *using* technology. They are nothing new. Arguably they are the first users of any technology, particularly of the early personal computer and the internet, because you *had* to know how to get the most out of your system to do anything remotley useful. Use of the term as we understand it today peaked in 1990 and has since been declining, according to Google Ngram.[^1] However, this understudied *use* of technology is not a relics of the past or a triviality of today. Power users are resurging in exciting and meaningful ways.
+*Power users*. We all know them and may consider ourselves one for a specific technology. From graphic designers integrating their IPads into their *Photoshop* workflow to first-year investment bankers analysts using macros to automate their mind-numbingly tedious work in *Excel*, power users span the gambit from technical to non-technical users, using their technology of choice for the most creative to the most mundane business ends. Power use is a term that characterizes a way of *using* technology. They are nothing new. Arguably they are the first users of any technology, particularly of the early personal computer and the internet, because you *had* to know how to get the most out of your system to do anything remotley useful. Use of the term as we understand it today peaked in 1990 and has since been declining, according to Google Ngram.[^1] However, this understudied *use* of technology is not a relics of the past or a trivial fad. Power users are resurging in exciting and meaningful ways.
 
 In this study, I aim to understand, locate, and clearly describe the "power" these users have that distinguishes them from other technology users. In the first section, I situate them historically and develop concepts that we will use in later sections. Starting with the free software" geeks" early 90s Christopher Kelty in *Two Bits: The Cultural Significance of Free Software* often associated with "Web 1.0", then hackers of the mid-90s to late 2010s studied by Gabriella Coleman, and finally, more contemporary users of"Web 2.0" such as Instagram, Tik Tok, and Spotify relying on scholarship by Finn Bruton *SPAM: A Shadow History of the Internet* (2014) and Nick Seaver's *Computing Taste: Algorithms and the Makers of Music Recommendation.* (2022). I use these different kinds of users to draw out relevant distinctions and similarities they have with Power User to argue for the need to conceive of them as distinct and help explore the implications of this kind of use. Understanding the power of this user not only helps to understand the history and future of computing and technology, but can also help develop normative standards to understand our increasing reliance on technologies to form identity, express ourselves and form community, online. 
 
 This approach focused on use is informed by Matthew Allen's claim that a better way to do history of the internet is in a discourse of *use* rather than one *version*. I use Web 1.0/2.0/3.0 reluctantly because, as Allen convincingly argues in (FIND ARTICLE), the versions are contested, revisionist, and often the product of marketing. Which aspects of the "Web" remain continuous and which change between versions depends on what story you are trying to tell. As such, I only use them insofar as they help me explain a particular kind of *use*. Once we have pinned down the use, I will refer to that use and user group  — not to the "version" of the "Web" we take to symbolize a particular kind of use. 
 
-As we increasingly rely and become more competent on specific technologies for work, life, and creative expression, producers are recognizing that some users might want to modify and extend their tools to do things creators didn't anticipate. There is a rise technology, in particualr software applications, that are designed to encourage precisley this. I will refer to these as "power user technology." 
+As we increasingly rely and become more competent on specific technologies for work, life, and creative expression, producers recognize that some users might want to modify and extend their tools to do things creators didn't anticipate. There is a rising technology, in particular software applications, that are designed to encourage precisely this. I will refer to these as "power user technology." 
 
-In general, the second section aims to clarify the concepts of a power user and a power user native technology by grounding it in a concrete example of a "power user technology." . 
+A distinct and relevant distinct feature of power users, both software and community, is the unique way complexity is managed. Power users also do not necessarily need to be able to "code," although many might learn if they need. Their desire to get technical or into the infrastructure is secondary to a higher-order goal. Namely, they are task-focused rather than tech focused. Instead of seeking to understand the internals of their tool, they are interested in learning enough about it to use it better. As such, power users benefit from an anchor in a sea of complexity. This might seem trivial, but it's a strategy developers often use when learning a codebase. This approach to complexity is supported and cultivated by power user native software and communities of power users. I will develop throughout this study. 
 
+The second section aims to clarify the concepts of a power user and a power user native technology by grounding it in a concrete example of a "power user technology."  
 
-The second section is a case study of personal knowledge management (PKM), note-taking software called *Obsidian*. Obsidian is designed to encourage power use. It is an illustrative example of a *power user native technology*. Obsidian has a vibrant community, quick forum support, a burgeoning ecosystem of plug-ins, and lots of user-generated educational material,  even though it is primarily built and maintained by two developers. Obsidian has a unique user base within a crowded field of PKM and note taking. Obsidian then distinguishes itself from its competitors, such as Notion, OneNote, and Evernote, by appealing more to power users. It does this by offering key features that appeal to a user more likely to become power users, such as a local first markdown file format and exposing a framework and API to build and use plug-ins easily. 
+The second section is centered on a case study of personal knowledge management (PKM), note-taking software called *Obsidian*. Obsidian is designed to encourage power use. It is an illustrative example of a *power user native technology*. Obsidian has a vibrant community, quick forum support, a burgeoning ecosystem of plug-ins, and lots of user-generated educational material,  even though it is primarily built and maintained by two developers. Obsidian has a unique user base within a crowded field of PKM and note taking. Obsidian then distinguishes itself from its competitors, such as Notion, OneNote, and Evernote, by appealing more to power users. It does this by offering key features that appeal to a user more likely to become power users, such as a local first markdown file format and exposing a framework and API to build and use plug-ins easily. 
 
-Methodologically I will rely on my experience as an early user and my use of it for . During the course of the study I will create a plug-in, develop myself as a power user, and interact with the community through the forum and Discord channels. By activley participating in the community, and getting a sense of what it is and isn't, I hope to avoid the grand, theoretical claims that sound very compelling on the page but have little grounding in reality. 
+Methodologically I will rely on my experience as an early user and my use of it for . During the course of the study I will create a plug-in and interact with the power user community through the [forum](https://forum.obsidian.md/) and [Discord](https://discord.com/invite/JVv55gu6?utm_source=Discord%20Widget&utm_medium=Connect) channels. By activley participating in the community, and getting a sense of what it is and isn't, I hope to avoid compelling theory detatched from reality.
 
 The end of this section will revist some of the claims the identity-forming capacity of technology in light of this case study. I will write about the impact on digital identity formation and community finding of Obsidian power users who demonstrate agency and understand themselves as able to shape the technology, through interviews. Finally I end this section by contrasting Obsidian (a company of less than five peolpe) technology and community of users with Notion, a more popular note taking app, with over (FIND) emplyees and funding (FIND)
 
@@ -72,7 +73,7 @@ Unlike hackers whose adversarial relationship with the software they are "hackin
 
 Power users clearly understand their technology as a tool. 
 
-There is deeper truth expressed when we might say power users know the "ins and outs" of their tools. They often know how to pipe in inputs and pipe out outputs from their tool. In this way power users often stich together tools
+There is deeper truth expressed when we might say power users know the "ins and outs" of their tools. They often know how to pipe in inputs and pipe out outputs from their tool. In this way power users often stich together tools together. Capturing some of the early UNIX philosophy. 
 
 #### 1.3 Collaboration & Community: 
 
@@ -88,7 +89,6 @@ As a result power users feel a sense of agency in shaping technology for their u
 Power user are more intimatley aware of the limitations of the technology they use. As such, they are more aware of the impact on their indentity. 
 
 Passive users, view technology as necessary and not contingent. 
-
 
 
 ## Section II: Case Study - Obsidian & Power User Software
@@ -125,7 +125,6 @@ They provide a fascinating window into how design not only drives use but also c
 -   This awareness distinguishes them from other user groups. 
     
 
-
 - Producers give power to users, exposing complexity in a more structured and less overwheliming way, so cultive a Creative rather than Bewildered subject. 
 
 
@@ -138,15 +137,19 @@ Collaboratively enabled by producers who have opened the software to be modified
 
 Engender a different relationship to complexity and creation 
 
+Other Interesting Examples of Power User Native Software - Retool, Salesforce. Secondary market for consulting? 
+
 **Counter Argument: Comparing Social Media to a tool like Photoshop or Obsidian doesn't work because platform and the other tool**.
 
 - This is an interesting counterargument. 
 - But why do we think of social media as platforms rather than tools? 
+- What is the distinction between "infrastructure" (often associated with Free/Open Source Software), 
 - By positioning themselves as a platform they obfuscate the fact they are a tool. Tools that can be evaluated on the basis of their performance in accomplishing a function. 
 - Platforms are ballooned amalagmations of tools. 
 - We remind ourselves of the technologies encouraging passive use less as platforms and more as tools. Use 
 - But what about the network? Twitter vs. Mastadon 
 - Phrases like "platform" for "user-generated content" are language associated with a discourse of version rather than  use. 
+
 
 ### Bibliography / Works Cited
 
