@@ -14,9 +14,6 @@ Here are some links to get started. You can also check out the graph view at the
 -  [technē (art) & technik (technology)](https://en.wikipedia.org/wiki/Techne)
 	-  [The Political Programmer - From Walter Benjamin's Theory of Art & Artist](digital-garden/The-Political-Programmer.md) 
 	-  [Beneath Form and Content - Epistemology in the Interpretation of Art](digital-garden/Beyond-Form-Content.md)
-	-  [Power & Power User - Prospectus for an Independent Study](digital-garden/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md)
-	- Research:
-		- [[Three Ethical Moments in Debian]]
 
 - Philosophy / [Darshana](https://en.wikipedia.org/wiki/Hindu_philosophy#:~:text=In%20Indian%20tradition%2C%20the%20word,authoritative%2C%20important%20source%20of%20knowledge.) (Etymology - Sanksrit "drish," meaning to see/experience)
 	- [The Physical World in Ibn Tufayl's Philosophical Tale](digital-garden/Ibn-Tufayl.md)
@@ -29,7 +26,10 @@ Here are some links to get started. You can also check out the graph view at the
 	- [Non Violent Communication - A Language of Life](digital-garden/Reading%20&%20Books/Living%20Book%20Commentaries/Non%20Violent%20Communication%20-%20A%20Language%20of%20Life.md)
 	- [The Closed World - Computers and the Politics of Discourse in Cold War America](digital-garden/Reading%20&%20Books/Book%20Notes/The%20Closed%20World%20-%20Computers%20and%20the%20Politics%20of%20Discourse%20in%20Cold%20War%20America.md)
 
-
+-  [Power & Power User - Prospectus for an Independent Study](digital-garden/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md)
+	- [[Three Ethical Moments in Debian]]
+	- [The Participant](The%20Participant.md)
+	- [The Closed World - Computers and the Politics of Discourse in Cold War America](digital-garden/Reading%20&%20Books/Book%20Notes/The%20Closed%20World%20-%20Computers%20and%20the%20Politics%20of%20Discourse%20in%20Cold%20War%20America.md)
 
 ## 🪴 The Garden Metaphor 
 
@@ -79,18 +79,16 @@ I work as a peer writing fellow at the [Columbia University Writing Center](http
 
 I graduate in May of 2023. I am looking for a full-time position to build technology with incredible people who value learning, writing, empowering its users, and growth. We have a social and moral obligation to shape technology so as to increase user agency rather than diminish it.  Professionally, I value "People, Ideas, and Things" in that order. I worked as a software engineer at [Airy](https://airy.co/), an open-source Berlin-based company, over the summer of 2022. I am particularly passionate about working to bring about the political "reorientation of power and knowledge" that animated the early communities and programmers of free and open-source software. 
 
-Please [get in touch](mailto:arman.jindal@columbia.edu) if you have an opportunity or want to chat. I can't promise much in return right now except enduring gratitude and that I will pay it forward through mentorship and advice when I'm further on in life and my career.
+Please [get in touch](mailto:arman.jindal@hey.com) at arman.jindal@hey.com if you have an opportunity or want to chat. I can't promise much in return right now except enduring gratitude and that I will pay it forward through mentorship and advice when I'm further on in life and my career.
 
-[Github](https://github.com/armanjindal/) |  [LinkedIn](https://www.linkedin.com/in/arman-jindal-650a8616b/)
-
-Personally, I enjoy dancing and working out(doors). I need to read, write and exercise every day. I strive to open myself to being moved by people, experiences, and art. I love to travel, ideally light, cheap, and with a friend.  I've played [squash competitively](https://www.youtube.com/watch?v=BZ3n9XHfAy8&t=1575s) and [climbed a mountain](https://adventure-pulse.com/mountaineering/kang-yatse-2)in Leh, India. Parts of my heart are in the Himalayas, underwater, and with my family and closest friends who inspire me every day.  I meditate, move, converse, program, and write about all of that here. I believe in an epistemology of experience, inspired by the ideas of [Simone Weil](https://en.wikipedia.org/wiki/Simone_Weil).
+Personally, I enjoy dancing and working out(doors). I need to read, write and exercise every day. I strive to open myself to being moved by people, experiences, and art. I love to travel, ideally light, cheap, and with a friend.  I've played [squash competitively](https://www.youtube.com/watch?v=BZ3n9XHfAy8&t=1575s) and [climbed a mountain](https://adventure-pulse.com/mountaineering/kang-yatse-2)in Leh, India. Parts of my heart are in the Himalayas, underwater, and with my family and closest friends who inspire me every day.  I meditate, move, converse, program, and write about all of that here. My favorite philosopher right now is [Simone Weil](https://en.wikipedia.org/wiki/Simone_Weil).
 
 
 
 ![](Kang%20Yatse.jpg)
-Third from the left: With my crew on top of Kang Yatse 2 during my first mountaineering expedition in Leh, India, in August 2021,  led by [Samir Patham](https://adventure-pulse.com/)
+August 2021. Third from the left: With my crew on top of Kang Yatse 2 in Leh, India led by incredible [Samir Patham and his team](https://adventure-pulse.com/)
 
-Here are some of my personal writing:
+This is some of my more personal writing. It is still very much in development. 
 
 - [Meditations in Modern Dance](digital-garden/Meditations%20on%20Modern%20Dance.md)
 - [My Rules for Sanity & Happiness](private/My%20Rules%20for%20Sanity%20&%20Happiness.md)
