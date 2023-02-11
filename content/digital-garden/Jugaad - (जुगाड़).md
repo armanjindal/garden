@@ -5,7 +5,7 @@ While I am not convinced of the truth of Wittgenstein's  "the limits of my langu
 
 So often, I ask friends who speak a language other than English: what is your favorite word from your language that you feel loses much of its essence when translated into English? 
 
-I recently asked this to a half Russian 
+
 
 > “Toska - noun /ˈtō-skə/ - Russian word roughly translated as sadness, melancholia, lugubriousness.  
 > 

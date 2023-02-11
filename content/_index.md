@@ -92,6 +92,6 @@ This is some of my more personal writing. It is still very much in development.
 
 - [Meditations in Modern Dance](digital-garden/Meditations%20on%20Modern%20Dance.md)
 - [My Rules for Sanity & Happiness](private/My%20Rules%20for%20Sanity%20&%20Happiness.md)
-- [23](digital-garden/Personal/23.md)
+- [23](private/23.md)
 - [Travel](Travel)
 
