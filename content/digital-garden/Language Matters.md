@@ -4,7 +4,7 @@ title: "Language Matters"
 
 Because it does, and my dear friend [Isabelle Pride]() says so. Jokes. 
 
-But it does. Most fundamentally. Language is how we construct reality and our self-concept. Using it well, in full recognition of its expressive limitations, is an excercise agency in constructing reality.  
+But it does. Most fundamentally. Language is how we construct reality and our self-concept. Using it well, in full recognition of its expressive limitations, is an exercise of agency in constructing reality.  
 
 I don't have a coherent theory of cognition and language, and there is plenty of crazy dense philosophical and psychological work on this topic. I am not going to summarize it or even explain it. My goal here is to make a case for its **intentional use.** 
 
@@ -18,7 +18,6 @@ Whether it is a predisposition to apologize when it isn't your fault, or a categ
 2. [[private/Don't Apologize]]
 
 
-[[The Limits of my Language Are Not the Limits of My World]]
 
 
 Thoughts on Words:

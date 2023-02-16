@@ -4,7 +4,7 @@ title: "Living Book Commentaries"
 ---
 We've all been told and, in turn, tell ourselves to "read more." I'm skeptical. 
 
-We've all met people who have (claimed to) read everything. They've got long Goodreads lists to back it up. I'm a little jealous. But like most of my "inadequacies," I've found that I am grateful that I am not one of these people.  While I've been tempted to create a list of what I've read 
+We also know people who have (claimed to) read everything. They've got long Goodreads lists to back it up. I'm a little jealous. But like most of my "inadequacies," I've found that I am grateful that I am not one of these people.  While I've been tempted to create a list of what I've read 
 
 When reading becomes **too** instrumental, books become checkboxes. Reading becomes stultifying. Authors' names become black box elusive figures of "authority" and, most perniciously, intellectual crutches. 
 

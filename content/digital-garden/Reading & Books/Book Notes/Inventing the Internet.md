@@ -1,4 +1,5 @@
 Janet Abette
+
 Key Ideas: 
 - Both an experiemental project in packet switching technology + practical resource sharing endevor with implications of a "survivable" communication network. 
 - Layering/Abstraction: 
