@@ -1,4 +1,6 @@
-
+---
+title: "My Rules for Sanity & Happiness"
+---
 I have always had a fraught relationship with rules. So as a rule I include in any list of rules,  with  famous Orwellian caviat from his rules six rules of writing:
 
 > ["Break any of these rules sooner than say \[or do!\] anything outright barbarous."](https://infusion.media/blog/george-orwells-six-rules-for-writing/)
@@ -26,11 +28,11 @@ Rules:
 
  8. Apologize when it matters, not as a reflex or to pass on the emotional labor to the person you wronged. 
 
- Case 1. You actually something wrong. 
- - Apologize as soon and precisley as possble. Take responsibility, learn, communicate and move on. 
+ Case 1. You actually did something wrong. 
+ - Apologize as soon and precisely as possble. Take responsibility, learn, communicate and move on. 
  
-Case 2. Life happened and it isn't your fault. 
-- Instead of a reflexive, I'm sorry respond rather with a compassionate, collective sense of 'we are all in this together. Rather than one rooted in blame and guilt detached from reality. There isn't enough space on the subway. So we bump into eachother. Smile. Joke. Shrug your shoulders. But don't apologize. It isn't your fault. Thank someone for their patience if you are late. Ideally, don't be late. 
+Case 2. Life happened, and it isn't your fault. 
+- Instead of a reflexive, I'm sorry respond rather with a compassionate, collective sense of 'we are all in this together. Rather than one rooted in blame and guilt detached from reality. There isn't enough space on the subway. So we bump into each other. Smile. Joke. Shrug your shoulders. But don't apologize. It isn't your fault. Thank someone for their patience if you are late. Ideally, don't be late. 
 
 9. Sleep. When you don't know what to do next, you probably need to sleep. Before you get all "grindset' and cut down on sleep, eliminate everything stopping you from sleeping that you shouldn't. Especially [sleep procrastination]. You aren't even close to the point where sleeping less would make you more productive. Get the lower-hanging fruit. Workout are better, writing is better, you are happier, healthier, more creative, and open to enjoy the incredible people you are so lucky to be around. 
 
