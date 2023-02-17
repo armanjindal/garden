@@ -1,5 +1,6 @@
 - At what point are the conceptual frameworks we use to understand ourselves, others and our interactions with them, helpful and harmful. 
 - Essentiall the question: when do stories (tropes/archetypes) etc. 
+- Post modern idea of intertextuality - we are bound together by media. 
 
 The personal expereience theat motivates this question
 

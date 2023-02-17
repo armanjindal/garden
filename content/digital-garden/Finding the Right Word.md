@@ -1,7 +1,9 @@
 
-The right word. Finding it is thrilling. It's an unconscious chase we are always on. Even if we don't realize it. Culture, media, conversations, lyrics, poems, and life constantly provide us with concepts and words to understand and communicate our experiences. 
+The right word. Finding it is thrilling. It's an unconscious chase we are always on. Even if we don't realize it. Searching for and finding it matter.
 
-The right word is not merely a better sign, it fundamentally changes the experience it points to. You become more attuned to it, more aware of its contours and shades. You're better able to articulate it, in doing so, understand it. 
+The right word is not merely a better sign to more accuractl fundamentally changes the experience it points to. You become more attuned to it, more aware of its contours and shades. You're better able to articulate it, in doing so, understand it. 
+
+Culture, media, conversations, lyrics, poems, and life constantly provide us with concepts and words to understand and communicate our experiences. 
 
 Searching for the "right word" isn't just some tortured writer thing or puritanical academic obtuse nerdiness. Lacking a word or a concept, a gap in our shared conceptual resources can cause immense harm. In her work *Epistemic Injustice* the philosopher Miranda Fricker looks to understand how power and knowledge interact, specifically in cases of injustice. In chapter on Hermeneutical Injustice, 
 
