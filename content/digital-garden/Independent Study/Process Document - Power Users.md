@@ -42,7 +42,7 @@ Meeting w/ MJ 16/12/22: 
 -   Power users are “empowered” - in what sense? Key-strokes Vi. Shortcuts. Technically savvy users
 -  Look into Macro languages!
 -   Modding closed-source software. 
--  Foucault: How does power shape subjectivity? An individuals understanding
+-  Foucault: How does power shape subjectivity? An individual understanding
 	- Power is productive of different subjectivities because it offers us through a collective hermeneutical and epistemology (language) to understand ourselves, form indentity and find community around it. 
 	- Homosexual vs. Heterosexual - historically recent and contingent categories that reflect "powers" ability to shape subjectivity. The way we understand ourselves. 
 

@@ -1,5 +1,5 @@
 
-The right word. Finding it is thrilling. It's an unconscious chase we are always on. Even if we don't realize it. Searching for and finding it matter.
+The right word. Finding it is thrilling. It's an unconscious chase we are always on. Even if we don't realize it. Searching for and finding it matters.
 
 The right word is not merely a better sign to more accuractl fundamentally changes the experience it points to. You become more attuned to it, more aware of its contours and shades. You're better able to articulate it, in doing so, understand it. 
 
