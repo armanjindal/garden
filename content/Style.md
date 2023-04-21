@@ -1,3 +1,7 @@
+---
+title: "Style"
+opentoc: true
+---
 - Called to emulate - 
 
 - Style - something with the choices the writer maA

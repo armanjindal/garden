@@ -1,4 +1,7 @@
-
+---
+title: "Hacker, Hoaxer, Whistleblower, Spy - The Many Faces of Anonymous"
+opentoc: true
+---
 
 Coleman traces the origins of the hacker collective Anonymous from "trolls" on 
 

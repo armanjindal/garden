@@ -1,3 +1,8 @@
+---
+title: "The Bhagavad-Gita"
+opentoc: true
+---
+
 Translation: Barbara Stoler-Miller
 
 Bhagavad-Gita - Chapter 2, pg 42
