@@ -20,5 +20,5 @@ When he renounces all desires
 and **acts** without craving, 
 possessiveness
 or **individuality**, he finds peace.
-
+abjsbs
 Q: What does it mean to act without individuality?

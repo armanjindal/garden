@@ -15,6 +15,11 @@ Potential Second Readers:
 
 (?) => I need to check if they would be open. 
 
+Reading:
+* [[Three Ethical Moments in Debian]]
+* [The Participant](The%20Participant.md)
+* [The Closed World - Computers and the Politics of Discourse in Cold War America](digital-garden/Reading%20&%20Books/Book%20Notes/The%20Closed%20World%20-%20Computers%20and%20the%20Politics%20of%20Discourse%20in%20Cold%20War%20America.md)
+
 ## Introduction: Power-User
 
 > "A power user is a user of computers, software, and other electronic devices who \[...] might not have extensive technical knowledge of the systems they use but is rather characterized by competence or desire to make the most intensive use of computer programs or systems."
