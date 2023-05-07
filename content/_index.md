@@ -14,22 +14,17 @@ Here are some paths to get you started. You can navigate via links, a graph (on 
 -  [technē (art) & technik (technology)](https://en.wikipedia.org/wiki/Techne)
 	-  [The Political Programmer - From Walter Benjamin's Theory of Art & Artist](digital-garden/The-Political-Programmer.md) 
 	-  [Beneath Form and Content - Epistemology in the Interpretation of Art](digital-garden/Beyond-Form-Content.md)
+	- [Power & Power User - An Ongoing Independent Study on the Realationship between Users and the Creators of Technology](digital-garden/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md)
 
-- Philosophy / [Darshana](https://en.wikipedia.org/wiki/Hindu_philosophy#:~:text=In%20Indian%20tradition%2C%20the%20word,authoritative%2C%20important%20source%20of%20knowledge.) (Etymology - Sanksrit "drish," meaning to see/experience)
+-  [Darshana](https://en.wikipedia.org/wiki/Hindu_philosophy#:~:text=In%20Indian%20tradition%2C%20the%20word,authoritative%2C%20important%20source%20of%20knowledge.) (Translatation – "Philosophy"; Etymology - Sanksrit "drish," to see/experience)
 	- [The Physical World in Ibn Tufayl's Philosophical Tale](digital-garden/Ibn-Tufayl.md)
 	- [Almost 60 Years On... The Inescapability of Gettier Cases and a Broken Concept of Knowledge](digital-garden/The-Inescapability-of-Gettier%20Cases.md)
 	- [Language Matters!](digital-garden/Language%20Matters.md)
 		- [Find Rhythm. Not Momentum](digital-garden/Rhythm-Not-Momentum.md)
-
 - [Reading](digital-garden/Reading%20&%20Books/Philosophy%20of%20Reading.md)
-	- [4000 Weeks - Time Management For Mortals](digital-garden/Reading%20&%20Books/Living%20Book%20Commentaries/4000%20Weeks%20-%20Time%20Management%20For%20Mortals.md)
-	- [Non Violent Communication - A Language of Life](digital-garden/Reading%20&%20Books/Living%20Book%20Commentaries/Non%20Violent%20Communication%20-%20A%20Language%20of%20Life.md)
-	- [The Closed World - Computers and the Politics of Discourse in Cold War America](digital-garden/Reading%20&%20Books/Book%20Notes/The%20Closed%20World%20-%20Computers%20and%20the%20Politics%20of%20Discourse%20in%20Cold%20War%20America.md)
 
--  [Power & Power User - Prospectus for an Independent Study](digital-garden/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md)
-	- [[Three Ethical Moments in Debian]]
-	- [The Participant](The%20Participant.md)
-	- [The Closed World - Computers and the Politics of Discourse in Cold War America](digital-garden/Reading%20&%20Books/Book%20Notes/The%20Closed%20World%20-%20Computers%20and%20the%20Politics%20of%20Discourse%20in%20Cold%20War%20America.md)
+
+Here is a growing list of [questions](digital-garden/Questions.md) that I have.
 
 ## 🪴 The Garden Metaphor 
 
