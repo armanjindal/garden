@@ -3,7 +3,7 @@ title: "Power & Power User"
 opentoc: true
 ---
 
-A Prospectus for an independent study and thesis for my senior year, originating from an incredible seminar on [Information—Computing—Infrastructure](http://www.columbia.edu/cu/bulletin/uwb/#/cu/bulletin/uwb/subj/HIST/GR8479-20223-001)(History GR8479) taught by Professor Matthew Jones in the Fall, of 2022.
+A Prospectus for an independent study and thesis for my senior year, originating from an incredible seminar on [Information—Computing—Infrastructure](http://www.columbia.edu/cu/bulletin/uwb/#/cu/bulletin/uwb/subj/HIST/GR8479-20223-001)(History GR8479) taught by Professor Matthew Jones in the Fall of 2022.
 
 Primary Supervisor: Professor Matthew Jones
 
@@ -15,10 +15,15 @@ Potential Second Readers:
 
 (?) => I need to check if they would be open. 
 
+
 Reading:
-* [[Three Ethical Moments in Debian]]
-* [The Participant](The%20Participant.md)
-* [The Closed World - Computers and the Politics of Discourse in Cold War America](digital-garden/Reading%20&%20Books/Book%20Notes/The%20Closed%20World%20-%20Computers%20and%20the%20Politics%20of%20Discourse%20in%20Cold%20War%20America.md)
+* [Computing Tastes - Algorithms and the Makers of Music Recommendation](digital-garden/Independent%20Study/book-notes/Computing%20Tastes%20-%20Algorithms%20and%20the%20Makers%20of%20Music%20Recommendation.md) by Nick Seaver
+* [The Participant](digital-garden/Independent%20Study/book-notes/The%20Participant.md) by Christopher Kelty
+* [Three Ethical Moments in Debian](digital-garden/Independent%20Study/book-notes/Three%20Ethical%20Moments%20in%20Debian.md) by Gabriella Coleman
+* [The Closed World - Computers and the Politics of Discourse in Cold War America](digital-garden/Independent%20Study/book-notes/The%20Closed%20World%20-%20Computers%20and%20the%20Politics%20of%20Discourse%20in%20Cold%20War%20America.md)
+* [Hacker, Hoaxer, Whistleblower, Spy - The Many Faces of Anonymous](digital-garden/Independent%20Study/book-notes/Hacker,%20Hoaxer,%20Whistleblower,%20Spy%20-%20The%20Many%20Faces%20of%20Anonymous.md) by Paul Edwards 
+* [Inventing the Internet](digital-garden/Independent%20Study/book-notes/Inventing%20the%20Internet.md) by Janet Abbate 
+
 
 ## Introduction: Power-User
 

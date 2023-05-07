@@ -9,14 +9,14 @@ Hello, you! Welcome to my garden 🪴
 
 Here, you will find what I'm thinking, reading, writing, and doing. Decidedly this is not a blog. You can read more about the *meta*(phor) below.  
 
-Here are some paths to get you started. You can navigate via links, a graph (on the bottom), and the shortcut Ctr/Cmd + K to search by text. Don't feel obliged to finish, the idea is to jump around and read with impunity.
+Here are some paths to get you started. You can navigate via links, a graph (on the bottom), and the shortcut Ctr/Cmd + K to search by text. Don't feel obliged to finish; the idea is to jump around and read with impunity.
 
 -  [technē (art) & technik (technology)](https://en.wikipedia.org/wiki/Techne)
 	-  [The Political Programmer - From Walter Benjamin's Theory of Art & Artist](digital-garden/The-Political-Programmer.md) 
 	-  [Beneath Form and Content - Epistemology in the Interpretation of Art](digital-garden/Beyond-Form-Content.md)
-	- [Power & Power User - An Ongoing Independent Study on the Realationship between Users and the Creators of Technology](digital-garden/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md)
+	- [Power & Power Use(rs) - An (Ongoing) Study on the Relationship between Users and the Creators of Technology](digital-garden/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md)
 
--  [Darshana](https://en.wikipedia.org/wiki/Hindu_philosophy#:~:text=In%20Indian%20tradition%2C%20the%20word,authoritative%2C%20important%20source%20of%20knowledge.) (Translatation – "Philosophy"; Etymology - Sanksrit "drish," to see/experience)
+-  [Darshana](https://en.wikipedia.org/wiki/Hindu_philosophy#:~:text=In%20Indian%20tradition%2C%20the%20word,authoritative%2C%20important%20source%20of%20knowledge.) (Transl.  "Philosophy"; Etymology - Sanskrit *drish*, meaning to see/experience)
 	- [The Physical World in Ibn Tufayl's Philosophical Tale](digital-garden/Ibn-Tufayl.md)
 	- [Almost 60 Years On... The Inescapability of Gettier Cases and a Broken Concept of Knowledge](digital-garden/The-Inescapability-of-Gettier%20Cases.md)
 	- [Language Matters!](digital-garden/Language%20Matters.md)
