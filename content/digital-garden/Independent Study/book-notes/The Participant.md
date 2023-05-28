@@ -32,3 +32,7 @@ The discourse of Use is a different lens than that of participation. Use is focu
 ## Participant, Experienced 
 
 "A richer concept of participation will be of use in explaining how participation today should be considered not only as a concept or as a procedure, but also an experience" (pg54)
+
+
+## Participant, Employed
+"The story of workplace participation is also one story o the development of contributory autonomy: the replacement of individuals whose personhood is a feature of the groups they experience with individuals whose personhood is expected to create those collectives through contribution." (pg 96)
