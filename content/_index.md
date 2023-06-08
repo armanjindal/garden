@@ -80,8 +80,8 @@ Please get in touch with me at arman.jindal@hey.com if you have an opportunity o
 
 Personally, I enjoy dancing and working out(doors). I need to exercise, read and write every day. I strive to open myself to being moved by people, experiences, and art. I love to travel light, cheap, and with a friend. I've played [squash competitively](https://www.youtube.com/watch?v=BZ3n9XHfAy8&t=1575s) and [climbed a mountain](https://adventure-pulse.com/mountaineering/kang-yatse-2)in Leh, India. Parts of my me are in the Himalayas, on a squash court, underwater, and with my family and closest friends who inspire me every day.  I meditate, move, converse, program, and write about all of that here. My favorite philosopher right now is [Simone Weil](https://en.wikipedia.org/wiki/Simone_Weil).
 
+![[Kang Yatse.jpg]]
 
-![](Kang%20Yatse.jpg)
 August 2021. Third from the left: With my crew on top of Kang Yatse 2 in Leh, India led by incredible [Samir Patham and his team](https://adventure-pulse.com/)
 
 This is some of my more personal writing. It is still very much in development. 
