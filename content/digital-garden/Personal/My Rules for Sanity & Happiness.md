@@ -15,7 +15,7 @@ Rules:
 
 2. Care for and love your body. It is your only true home. "Spend not one more second doing anything but loving it." Be thankful for its functioning. The one thing you can be sure of is that your body will deteriorate, and in a moment, the functions that you rely on every day could disappear.
 
-3. Plan your day. As a day you want to have, not one you feel you feel you should want to. Plan to the degree that you do not need to bring your phone. Even if you know it will change. Its a recognition of your limited time and energy within the 24 hours that make up the day.
+3. Plan your day. An day you want to have, not one you feel you feel you ought. Or worse *ought* to want to. Plan to the degree that you do not need to bring your phone. Even if you know it will change. Its a recognition of your limited time and energy within the 24 hours that make up the day. Bloody 2FA is making that hard, but I'm setting it up on my IPad.
 
 4. Maintain a DONE list of everything you accomplished. It's easy to lose sight of everything you do and get down on yourself.  
 

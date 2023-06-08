@@ -4,7 +4,7 @@ title: "Find Rhythm. Not Momentum"
 
 Momentum measures how hard it is to stop something once it is in motion. The metaphor of momentum is used (and abused!) everywhere, from sports and entrepreneurship to habit formation and relationships. Momentum has gone from a descriptive physical quantity to a pervasive mental model we use to conceptualize ourselves in the world. 
 
-I've always had a toxic relationship with momentum. Momentum can work for you as much as it can against you. To quote a Nike commercial that used to be my alarm clock at a particularly "grindset" moment in my past life as an athelete, ["momentum is a cruel mistress. It will turn on you in a dime."](https://www.youtube.com/watch?v=OmkNKEHC8Pg)
+I've always had a toxic relationship with momentum. Momentum can work for you as much as it can against you. To quote a Nike commercial that used to be my alarm clock at a particularly "grindset" moment in my past life as an athlete, ["momentum is a cruel mistress. It will turn on you in a dime."](https://www.youtube.com/watch?v=OmkNKEHC8Pg)
 
 When you've got "momentum," you feel invincible. The "weight" of the previous productive days or previous workouts helps "push" you through the one in front of you. The feeling of momentum often comes with improvement. Don't break the streak is a powerful motivator. When you've got it, it feels great. At one point, I used to equate momentum with success. 
 
