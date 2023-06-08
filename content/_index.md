@@ -19,7 +19,7 @@ Here are some paths to get you started. You can navigate via links, a graph (on 
 -  [Darshana](https://en.wikipedia.org/wiki/Hindu_philosophy#:~:text=In%20Indian%20tradition%2C%20the%20word,authoritative%2C%20important%20source%20of%20knowledge.) (Transl.  "Philosophy"; Etymology - Sanskrit *drish*, meaning to see/experience)
 	- [The Physical World in Ibn Tufayl's Philosophical Tale](digital-garden/Ibn-Tufayl.md)
 	- [Almost 60 Years On... The Inescapability of Gettier Cases and a Broken Concept of Knowledge](digital-garden/The-Inescapability-of-Gettier%20Cases.md)
-	- [[Language Matters]]
+	- [Language Matters](digital-garden/Language-Matters)
 		- [Find Rhythm. Not Momentum](digital-garden/Rhythm-Not-Momentum.md)
 - [Reading](digital-garden/Reading%20&%20Books/Philosophy%20of%20Reading.md)
 
