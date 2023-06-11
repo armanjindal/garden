@@ -9,9 +9,9 @@ opentoc: true
  
 
 Feedback - Be more concrete. Idea - start with narrative:
-- Code that has been written for one use, and used for something entirley diffferent. Anecdote about the guy who pulled his package that broke the internet. 
+- Code that has been written for one use, and used for something entirely different. Anecdote about the guy who pulled his package that broke the internet. 
 
-***Tech for good*.** You'll see it on shirts, on LinkedIn headlines, and on social media posts.  At first sight, around my freshman year in college, it struck me as another banal, virtue-signaling slogan. Classifying tech as "good" or "bad" was pretty straightforward, I thought. It isn't. It gets even more complicated when you look at the decison engineers face when deciding where to work. How do we understand individual responsibility of individuals creators in the complex, and overwhelmingly world. 
+***Tech for good*.** You'll see it on shirts, on LinkedIn headlines, and on social media posts.  At first sight, around my freshman year in college, it struck me as another banal, virtue-signaling slogan. Classifying tech as "good" or "bad" was pretty straightforward, I thought. It isn't. It gets even more complicated when you look at the decision engineers face when deciding where to work. How do we understand individual responsibility of individuals creators in the complex, and overwhelmingly world. 
 
 The difficulty comes partly from the historical fact that intentions (un)fortunately don't count. Gene editing is a technology that could save us from world hunger or be used to manufacture deadly viruses. Today's most important technologies — flight, radio, the computer, the internet — began as military projects, yet could be the foundations of utopia.
 

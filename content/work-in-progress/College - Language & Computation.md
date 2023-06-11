@@ -22,11 +22,9 @@ This course of study has emerged as I've followed interests and professors that 
 
 It was first proposed in my junior year where I combined my interest in language, formal semantics and Natural Language processing, but has changed every semester as my interest shifted and I responded to the quality of professors teaching the class. 
 
-One piece of advice I give anyone entering college is to get clear on what's really valuable about the expereince. Colleges have a narrative about what they are for. Its mostly bullshit and doesn't foreground your interests.  Rather in the overly quantified period of time we live in, push toward quick metrics such as starting salaries, and graduation rates. There's a reason (elite) colleges don't do a happiness index on their graduating students. 
+One piece of advice I give anyone entering college is to get clear on what's really valuable about the experience. Colleges have a narrative about what they are for. Its mostly bullshit and doesn't foreground your interests.  Rather in the overly quantified period of time we live in, push toward quick metrics such as starting salaries, and graduation rates. There's a reason (elite) colleges don't do a happiness index on their graduating students. 
 
-- Professor Nathaneal Shelley: 
-
-- I am shamelessly ruthless when it comes to professors. If I get a bad vibe, or poor pedagogy, I'm out. College is too short to suffer though bad professors, and it is a unique opportunity to find mentors and masters to inititate you into a field.
+I am shamelessly ruthless when it comes to professors. If I get a bad vibe, or poor pedagogy, I'm out. College is too short to suffer though bad professors, and it is a unique opportunity to find mentors and masters to inititate you into a field.
 
 - Learn from a place, what it can best teach you:
 Learning how to program and build tech is best learnt on the job, not in a class. Reading timeless texts, and talking and writing about other people is invaluable. So is being introduced to disciplines by masters of the craft. 
@@ -45,7 +43,7 @@ Below are the courses I've taken with special mention to how they have and conti
 
 ## **Influential Courses:**
 
-I found these courses by talking to friends, compulsivley searching for courses and reading reviews, and the relentless vibe check.
+I found these courses by talking to friends, compulsivley searching for courses and reading reviews, and of course relentless vibe check at the beginning of the semester. Take classes in what you are interested in but know that great teachers can make you interested in what they are teaching. 
 
 - Colloquium on Major Works out of India and the Middle East - Professor Nathaneal Shelley
 - Philosophy of Literature - Professor Lydia Goehr

@@ -9,10 +9,12 @@ Hello, you! Welcome to my garden 🪴
 
 Here, you will find what I'm thinking, reading, writing, and doing. Decidedly this is not a blog. You can read more about the *meta*(phor) below.  
 
-Here are some paths to get you started. You can navigate via links, a graph (on the bottom), and the shortcut Ctr/Cmd + K to search by text. Don't feel obliged to finish; the idea is to jump around and read with impunity.
+Here are some paths to get you started. You can navigate via links, a graph (on the bottom), and the shortcut Ctr/Cmd + K to search by text. Don't feel obliged to finish, many notes here aren't; the idea is to jump around and read with impunity.
 
+- [Reading](digital-garden/Reading%20&%20Books/Philosophy%20of%20Reading.md)
+	- [The Bhagavad-Gita](digital-garden/Reading%20&%20Books/Living%20Book%20Commentaries/The%20Bhagavad-Gita.md)
 -  [technē (art) & technik (technology)](https://en.wikipedia.org/wiki/Techne)
-	-  [The Political Programmer - From Walter Benjamin's Theory of Art & Artist](digital-garden/The-Political-Programmer.md) 
+	-  [The Political Programmer - From Walter Benjamin's Theory of Art & Artist](work-in-progress/The-Political-Programmer.md) 
 	-  [Beneath Form and Content - Epistemology in the Interpretation of Art](digital-garden/Beyond-Form-Content.md)
 	- [Power & Power Use(rs) - An (Ongoing) Study on the Relationship between Users and the Creators of Technology](digital-garden/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md)
 
@@ -21,7 +23,6 @@ Here are some paths to get you started. You can navigate via links, a graph (on 
 	- [Almost 60 Years On... The Inescapability of Gettier Cases and a Broken Concept of Knowledge](digital-garden/The-Inescapability-of-Gettier%20Cases.md)
 	- [Language Matters](digital-garden/Language-Matters)
 		- [Find Rhythm. Not Momentum](digital-garden/Rhythm-Not-Momentum.md)
-- [Reading](digital-garden/Reading%20&%20Books/Philosophy%20of%20Reading.md)
 
 
 Here is a growing list of [questions](digital-garden/Questions.md) that I have.
@@ -70,7 +71,7 @@ Right now, I expect it will be friends and mentors who I will pester to contribu
 
 ## 🧐 [Who Am I?](https://youtu.be/fR5-x7v7UkE?t=37) 
 
-My name is Arman Jindal. I was born in Los Angeles, USA in the last month of millenia and moved to Pune, India, when I was seven. I was educated in Pune, in the International Baccalaureate (IB), until I moved to New York for college in 2018. I am in the final semester of my undergraduate at Columbia College, studying a combination track of Computer Science (CS) & Philosophy. I built my major through the CS department, joining several classes from philosophy, computer science, formal linguistics, and the history of science and technology, around the theme which I have retroactivley come to understand as the relationship between [Language & Computation](digital-garden/College%20-%20Language%20&%20Computation.md). I modified my major (much to the annoyance but kindness of my academic advisor) semester since junior year in response to changing interests and to take the best classes professors were offering that semester. 
+My name is Arman Jindal. I was born in Los Angeles, USA in the last month of millenia and moved to Pune, India, when I was seven. I was educated in Pune, in the International Baccalaureate (IB), until I moved to New York for college in 2018. I am in the final semester of my undergraduate at Columbia College, studying a combination track of Computer Science (CS) & Philosophy. I built my major through the CS department, joining several classes from philosophy, computer science, formal linguistics, and the history of science and technology, around the theme which I have retroactivley come to understand as the relationship between [Language & Computation](work-in-progress/College%20-%20Language%20&%20Computation.md). I modified my major (much to the annoyance but kindness of my academic advisor) semester since junior year in response to changing interests and to take the best classes professors were offering that semester. 
 
 I work as a Peer Writing Fellow at the [Columbia University Writing Center](https://www.college.columbia.edu/core/node/4083), where I work one-on-one in hour long sessions with writers from the Columbia community. Working on a single piece of writing, we try to help move writers to the next stage in their writing process and develop them as writers using research-based methods. I am not an authority but an attentive and curious reader. I am amazed by the incredible work of my peers and am thrilled to be a small part of bringing their ideas to life. Finding [the right words](digital-garden/Jugaad%20and%20the%20Power%20of%20the%20Right%20Word.md) to express yourself is both empowering and world shaping. Being a part of this incredible community of writers and teachers is one of the highlights of my undergraduate experience (shout out to the best bosses: [Sue Mendelsohn](https://english.columbia.edu/content/sue-mendelsohn) and [Jason Ueda](https://www.college.columbia.edu/core/uwp/writing-center/consultants#JasonU)and my incredible friend, who introduced me to this world [Isabelle Pride](https://www.linkedin.com/in/isabellepride/)).
 
@@ -80,7 +81,7 @@ Please get in touch with me at arman.jindal@hey.com if you have an opportunity o
 
 Personally, I enjoy dancing and working out(doors). I need to exercise, read and write every day. I strive to open myself to being moved by people, experiences, and art. I love to travel light, cheap, and with a friend. I've played [squash competitively](https://www.youtube.com/watch?v=BZ3n9XHfAy8&t=1575s) and [climbed a mountain](https://adventure-pulse.com/mountaineering/kang-yatse-2)in Leh, India. Parts of my me are in the Himalayas, on a squash court, underwater, and with my family and closest friends who inspire me every day.  I meditate, move, converse, program, and write about all of that here. My favorite philosopher right now is [Simone Weil](https://en.wikipedia.org/wiki/Simone_Weil).
 
-![[Kang Yatse.jpg]]
+![](digital-garden/Images/pictures/Kang%20Yatse.jpg)
 
 August 2021. Third from the left: With my crew on top of Kang Yatse 2 in Leh, India led by incredible [Samir Patham and his team](https://adventure-pulse.com/)
 
