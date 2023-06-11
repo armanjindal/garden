@@ -1,4 +1,10 @@
 
+
+> “Toska - noun /ˈtō-skə/ - Russian word roughly translated as sadness, melancholia, lugubriousness.  
+> 
+  "No single word in English renders all the shades of toska. At its deepest and most painful, it is a sensation of great spiritual anguish, often without any specific cause. At less morbid levels it is a dull ache of the soul, a longing with nothing to long for, a sick pining, a vague restlessness, mental throes, yearning. In particular cases, it may be the desire for somebody of something specific, nostalgia, love-sickness. At the lowest level it grades into ennui, boredom.”
+  ― Vladimir Nabokov
+
 The right word. Finding it is thrilling. It's an unconscious chase we are always on. Even if we don't realize it. Searching for and finding it matters.
 
 The right word is not merely a better sign to more accuractl fundamentally changes the experience it points to. You become more attuned to it, more aware of its contours and shades. You're better able to articulate it, in doing so, understand it. 
@@ -39,10 +45,6 @@ So often, I ask friends who speak a language other than English: what is your fa
 
 
 
-> “Toska - noun /ˈtō-skə/ - Russian word roughly translated as sadness, melancholia, lugubriousness.  
-> 
-  "No single word in English renders all the shades of toska. At its deepest and most painful, it is a sensation of great spiritual anguish, often without any specific cause. At less morbid levels it is a dull ache of the soul, a longing with nothing to long for, a sick pining, a vague restlessness, mental throes, yearning. In particular cases, it may be the desire for somebody of something specific, nostalgia, love-sickness. At the lowest level it grades into ennui, boredom.”
-  ― Vladimir Nabokov
 
 
 The "shades of meaning" are only real in context. 

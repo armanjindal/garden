@@ -26,8 +26,6 @@ One piece of advice I give anyone entering college is to get clear on what's rea
 
 - Professor Nathaneal Shelley: 
 
-
-
 - I am shamelessly ruthless when it comes to professors. If I get a bad vibe, or poor pedagogy, I'm out. College is too short to suffer though bad professors, and it is a unique opportunity to find mentors and masters to inititate you into a field.
 
 - Learn from a place, what it can best teach you:

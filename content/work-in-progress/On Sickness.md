@@ -1,4 +1,4 @@
-Falling sick is like taking a shit. We all do it. We don't talk about it. We sequester those 
+Falling sick is like taking a shit. We all do it. We don't talk about it. We sequester those kinds of things to the bathroom (or hospital)
 
 Though the former is well discussed especially among my sisters and their friends who went to boarding school, the taboo of the sickness and our lack  consequences of a former 
 
