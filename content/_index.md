@@ -1,5 +1,5 @@
 ---
-title: "🪴 A Wild Garden"
+title: "🪴 Arman's (Wild) Digital Garden"
 opentoc: true
 ---
 
@@ -13,12 +13,12 @@ Here are some paths to get you started. You can navigate via links, a graph (on 
 
 - [Reading](digital-garden/Reading%20&%20Books/Philosophy%20of%20Reading.md)
 	- [The Bhagavad-Gita](digital-garden/Reading%20&%20Books/Living%20Book%20Commentaries/The%20Bhagavad-Gita.md)
--  [technē (art) & technik (technology)](https://en.wikipedia.org/wiki/Techne)
+- Learning Projects:
+	-  [Ruby (On Rails)](digital-garden/Ruby.md) 
+-  Writing on technē (art), technik (technology) & Philosophy
 	-  [The Political Programmer - From Walter Benjamin's Theory of Art & Artist](work-in-progress/The-Political-Programmer.md) 
 	-  [Beneath Form and Content - Epistemology in the Interpretation of Art](digital-garden/Beyond-Form-Content.md)
 	- [Power & Power Use(rs) - An (Ongoing) Study on the Relationship between Users and the Creators of Technology](digital-garden/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md)
-
--  [Darshana](https://en.wikipedia.org/wiki/Hindu_philosophy#:~:text=In%20Indian%20tradition%2C%20the%20word,authoritative%2C%20important%20source%20of%20knowledge.) (Transl.  "Philosophy"; Etymology - Sanskrit *drish*, meaning to see/experience)
 	- [The Physical World in Ibn Tufayl's Philosophical Tale](digital-garden/Ibn-Tufayl.md)
 	- [Almost 60 Years On... The Inescapability of Gettier Cases and a Broken Concept of Knowledge](digital-garden/The-Inescapability-of-Gettier%20Cases.md)
 	- [Language Matters](digital-garden/Language-Matters)
@@ -31,7 +31,7 @@ Here is a growing list of [questions](digital-garden/Questions.md) that I have.
 
 Maggie Appleton defines a digital garden in [A Brief History and Ethos of the Digital Garden](https://maggieappleton.com/garden-history):
 
-> A garden is a collection of evolving ideas that aren't strictly organised by their publication date. They're inherently exploratory – notes are linked through contextual associations. They aren't refined or complete - notes are published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal websites we're used to seeing.
+> A garden is a collection of evolving ideas that aren't strictly organized by their publication date. They're inherently exploratory – notes are linked through contextual associations. They aren't refined or complete - notes are published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal websites we're used to seeing.
 
 While this is a good starting point, I find the metaphor of "garden" is much richer.
 
@@ -49,11 +49,11 @@ Through consistent *gardening*, I hope to plant a few solid trees, nourished by 
 
 > [ "Il faut cultiver notre jardin."](https://www.theschooloflife.com/article/cultivate-own-garden-voltaire/)  — Voltaire
 
-Cultivating this garden by writing every day grounds me in this Voltairian wisdom. This garden — the few thoughts, ideas, books, and media I've decided to care about — is my response to an overwhelming infinity of information, suffering, and possibility.
+This garden — the few thoughts, ideas, books, and media I've decided to care about — is my response to an overwhelming infinity of information, suffering, and possibility.
 
-This garden is my earnest love letter to ideas that *perfect is the enemy of the good*, the *[unreasonable effectiveness of showing up every day](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/)*, and the approach to creativity that begins with unabashed unoriginal work by [stealing like an artist](https://en.wikipedia.org/wiki/Steal_Like_an_Artist). It is a living polemic against finality, the static and passive. Cultivating this garden is an affirmation of my limited agency, and through it I seek to share what I find beautiful, inspiring, and interesting with people in my life. 
+Its my earnest love letter to ideas to a limit embracing life, that *perfect is the enemy of the good*, the, *[unreasonable effectiveness of showing up every day](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/)*, and the approach to creativity that begins with unabashed unoriginal work by [stealing like an artist](https://en.wikipedia.org/wiki/Steal_Like_an_Artist). It is a living polemic against finality. Cultivating this garden is an affirmation of my limited agency, and through it I seek to share what I find beautiful, inspiring, and interesting with people in my life. 
 
-The writing here, the plants growing in this garden, are not isolated, but neither are they neatly connected. They exist rooted in soil, connect by by a rhizome — a tangled mass of subterrean  roots. My goal is to make connections between writing as explicit as possible: tracing the genealogy, connections, and changes to my writing over time is quite selfishly a fascinating project of self-examination.
+The writing here, the plants growing in this garden, are not isolated, but neither are they neatly connected. They exist rooted in soil, connect by by a rhizome — a tangled mass of subterranean  roots. My goal is to make connections between writing as explicit as possible: tracing the genealogy, connections, and changes to my writing over time is quite selfishly a fascinating project of self-examination.
 
 To support this lofty goal, I chose an opinionated, open-source tech stack to build this site. I use [Obsidian](https://obsidian.md/) to write — a [power user native](digital-garden/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md), personal knowledge management note editor with a graph view displaying the 'links' between pages. I publish this site using an open source built by [Jacky Zhao](https://jzhao.xyz/) called [Quartz](https://github.com/jackyzha0/quartz#quartz) which compiles my local Obsidian vault into a Hugo site. All the pages are in `markdown` and versioned on GitHub, so there is a permanent, timestamped, line-by-line record of every change. I hope to look back at the commit histories to understand how my thinking changes. These tools help me produce an expanding network of thoughts, which ultimately help me shape, affirm and faithfully **live** a narrative of my creation. 
 
@@ -71,7 +71,7 @@ Right now, I expect it will be friends and mentors who I will pester to contribu
 
 ## 🧐 [Who Am I?](https://youtu.be/fR5-x7v7UkE?t=37) 
 
-My name is Arman Jindal. I was born in Los Angeles, USA in the last month of millenia and moved to Pune, India, when I was seven. I was educated in Pune, in the International Baccalaureate (IB), until I moved to New York for college in 2018. I am in the final semester of my undergraduate at Columbia College, studying a combination track of Computer Science (CS) & Philosophy. I built my major through the CS department, joining several classes from philosophy, computer science, formal linguistics, and the history of science and technology, around the theme which I have retroactivley come to understand as the relationship between [Language & Computation](work-in-progress/College%20-%20Language%20&%20Computation.md). I modified my major (much to the annoyance but kindness of my academic advisor) semester since junior year in response to changing interests and to take the best classes professors were offering that semester. 
+My name is Arman Jindal. I was born in Los Angeles, USA in the last month of millenia and moved to Pune, India, when I was seven. I was educated in Pune, in the International Baccalaureate (IB), until I moved to New York for college in 2018. I am in the final semester of my undergraduate at Columbia College, studying a combination track of Computer Science (CS) & Philosophy. I built my major through the CS department, joining several classes from philosophy, computer science, formal linguistics, and the history of science and technology, around the theme which I have retroactively come to understand as the relationship between [Language & Computation](work-in-progress/College%20-%20Language%20&%20Computation.md). I modified my major (much to the annoyance but kindness of my academic advisor) semester since junior year in response to changing interests and to take the best classes professors were offering that semester. 
 
 I work as a Peer Writing Fellow at the [Columbia University Writing Center](https://www.college.columbia.edu/core/node/4083), where I work one-on-one in hour long sessions with writers from the Columbia community. Working on a single piece of writing, we try to help move writers to the next stage in their writing process and develop them as writers using research-based methods. I am not an authority but an attentive and curious reader. I am amazed by the incredible work of my peers and am thrilled to be a small part of bringing their ideas to life. Finding [the right words](digital-garden/Jugaad%20and%20the%20Power%20of%20the%20Right%20Word.md) to express yourself is both empowering and world shaping. Being a part of this incredible community of writers and teachers is one of the highlights of my undergraduate experience (shout out to the best bosses: [Sue Mendelsohn](https://english.columbia.edu/content/sue-mendelsohn) and [Jason Ueda](https://www.college.columbia.edu/core/uwp/writing-center/consultants#JasonU)and my incredible friend, who introduced me to this world [Isabelle Pride](https://www.linkedin.com/in/isabellepride/)).
 
