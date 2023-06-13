@@ -1,3 +1,6 @@
+---
+title: "Ruby"
+---
 I am in the unique and incredibly lucky position to be an intern at 37signals. Formerly known as Basecamp, this tech company which is neither a start up (its been around for 25 years) or big-tech, is where Ruby on Rails, the popular web development framework was developed by the CTO and is everywhere in this company. These are an ongoing note on my experience learning Ruby and the Rails framework from scratch. I am fascinated by this tool for thinking and am looking forward to going deep into it from many angles learning from the best. 
 
 Source: Rails Guides
