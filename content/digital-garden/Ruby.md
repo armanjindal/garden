@@ -17,7 +17,7 @@ Learning Plan:
 1. Crash Course in Rails Syntax
 2. The Ruby Programming Language
 
-Concurrently Learn Rails - The Web App Development Framework
+Concurrently Learn Rails - The Ruby Web App Development Framework
 1. Rails Guides
 2. Capistrano
 3. MRSK Deployment Tool 
@@ -36,7 +36,6 @@ Rails:
 	- **Model** - Represents the dynamic data of a site. For Rails and Django, this is often the applications database.
 	- **Controllers**  - Receives user input and converts it to commands for the Model.
 	- **View** - In charge of rendering the object to the User. In Rails often an HTML Template. 
-
 
 - A different kind of *Model* - A ruby class used to represent data. Also interacts with app db through *Active Record.* They are the templates of a single record in a database (this is why it is always SINGULAR)
 
@@ -64,3 +63,4 @@ end
 
 
 
+- A concern is only responsible for a focused subset of the model's responsibility; the methods in our concern will all be related to the visibility of a model.
