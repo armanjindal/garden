@@ -11,7 +11,8 @@ Facing up to the shared limits of our physical, base existence is something we'v
 
 - I just recovered from 
 - Metaphor, 
-- What if 
+- What if we always treated ourselves as if we were sick? 
+
 
 
 - When we are ill we are intimately aware of our finitude, mortality and feebleness to control what happens in the world. 
