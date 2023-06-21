@@ -16,8 +16,9 @@ Here are some paths to get you started. You can navigate via links, a graph (on 
 - Learning Projects:
 	-  [Ruby (On Rails)](digital-garden/Ruby.md) 
 -  Writing on technē (art), technik (technology) & Philosophy
-	-  [The Political Programmer - From Walter Benjamin's Theory of Art & Artist](work-in-progress/The-Political-Programmer.md) 
-	-  [Beneath Form and Content - Epistemology in the Interpretation of Art](digital-garden/Beyond-Form-Content.md)
+	-  [The Political Programmer - From Walter Benjamin's Theory of Art & Artist](work-in-progress/The-Political-Programmer.md)
+	- [Beneath Form and Content - Epistemology in the Interpretation of Art](digital-garden/Beyond-Form-Content.md)
+	- [Eternal Spring — A Formal Analysis of Rodin's Iconic Sculpture ](digital-garden/Rodin/Eternal%20Spring%20—%20A%20Formal%20Analysis%20of%20Rodin.md)
 	- [Power & Power Use(rs) - An (Ongoing) Study on the Relationship between Users and the Creators of Technology](digital-garden/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md)
 	- [The Physical World in Ibn Tufayl's Philosophical Tale](digital-garden/Ibn-Tufayl.md)
 	- [Almost 60 Years On... The Inescapability of Gettier Cases and a Broken Concept of Knowledge](digital-garden/The-Inescapability-of-Gettier%20Cases.md)
