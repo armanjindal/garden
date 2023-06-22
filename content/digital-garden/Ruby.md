@@ -11,9 +11,9 @@ title: "Ruby"
 — why the lucky stiff
 
 
-I am in the unique and incredibly lucky position to be an intern at 37signals. Formerly known as Basecamp, this tech company — neither a start up (its been around for 25 years) or big-tech (80 people) — is where Ruby on Rails, the popular web development framework was developed. Ruby and Ruby on Rails is the language and I get to learn it from people who are heavily involved in its production. 
+I am in the unique and incredibly lucky position to be an intern at 37signals. Formerly known as Basecamp, this tech company — neither a start up (its been around for 25 years) or big-tech (80 people) — is where Ruby on Rails, the popular web development framework was developed. The company is steeped in Ruby and Ruby on Rails is the language. I want to get in on it and learn from the people who developed it to make their lives easier. 
 
-These are an ongoing note on my experience learning Ruby and the Rails framework from scratch. This is my first time really learning a web-app development framework, and my first time going deep on a language. I plan to add a little bit everyday and then after the internship turn this into something more readable. Right now it is what it is. 
+These are an ongoing note on my experience learning Ruby and the Rails framework from scratch. This is my first time really learning a web-app development framework, and my first time going deep on a language. I plan to add a little bit everyday and then after the internship turn this into something more readable. Right now it is what it is an evolving note, filled with quirky reminders about the language . 
 
 Learning Plan:
 1. Crash Course in Rails Syntax ✅
@@ -28,7 +28,10 @@ Concurrently Learn Rails - The Ruby Web App Development Framework
 Resources:
 - [Ruby Toolbox](https://www.ruby-toolbox.com/) - Overview of open source libraries that solve common problems for Ruby users
 
-Rails:
+## Ruby: 
+
+
+## Rails:
 - A webapp development framework written in Ruby
 - Assumes what every developer needs therefore allows you to do a lot with a little code. 
 - Rails Way:

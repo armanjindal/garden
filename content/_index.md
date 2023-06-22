@@ -13,18 +13,18 @@ Here are some paths to get you started. You can navigate via links, a graph (on 
 
 - [Reading](digital-garden/Reading%20&%20Books/Philosophy%20of%20Reading.md)
 	- [The Bhagavad-Gita](digital-garden/Reading%20&%20Books/Living%20Book%20Commentaries/The%20Bhagavad-Gita.md)
-- Learning Projects:
-	-  [Ruby (On Rails)](digital-garden/Ruby.md) 
--  Writing on technē (art), technik (technology) & Philosophy
-	-  [The Political Programmer - From Walter Benjamin's Theory of Art & Artist](work-in-progress/The-Political-Programmer.md)
+
+-  Writing on *technē* (art), *technik* (technology) & *darśana* (philosophy)
 	- [Beneath Form and Content - Epistemology in the Interpretation of Art](digital-garden/Beyond-Form-Content.md)
 	- [Eternal Spring — A Formal Analysis of Rodin's Iconic Sculpture ](digital-garden/Rodin/Eternal%20Spring%20—%20A%20Formal%20Analysis%20of%20Rodin.md)
-	- [Power & Power Use(rs) - An (Ongoing) Study on the Relationship between Users and the Creators of Technology](digital-garden/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md)
 	- [The Physical World in Ibn Tufayl's Philosophical Tale](digital-garden/Ibn-Tufayl.md)
 	- [Almost 60 Years On... The Inescapability of Gettier Cases and a Broken Concept of Knowledge](digital-garden/The-Inescapability-of-Gettier%20Cases.md)
 	- [Language Matters](digital-garden/Language-Matters)
 		- [Find Rhythm. Not Momentum](digital-garden/Rhythm-Not-Momentum.md)
-
+- Ongoing Writing Projects:
+	-  [Learning Ruby (On Rails)](digital-garden/Ruby.md) 
+	- [Power & Power Use(rs) - On the Relationship between Users and Producers of Technology](digital-garden/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md)
+	-  [The Political Programmer - A Politics of Programming based on Walter Benjamin's Theory of Art & Artist](work-in-progress/The-Political-Programmer.md)
 
 Here is a growing list of [questions](digital-garden/Questions.md) that I have.
 
@@ -36,9 +36,9 @@ Maggie Appleton defines a digital garden in [A Brief History and Ethos of the Di
 
 While this is a good starting point, I find the metaphor of "garden" is much richer.
 
-Gardens have this primordial association as a place of *creation*. Unlike blogs which are comprised of distinct, complete, static, and organized entities, gardens are comprised of a growing network of plants connected in soil. Thinking of writing as gardening helps me conceptualize the act of writing as a radically incremental one. **It isn't heroic or final.**  One is never *done* working on their garden. That would be ridiculous. 
+Gardens are, primordially, a place of *creation*. Unlike blogs which are comprised of distinct, complete, static, and organized entities, gardens are comprised of a growing network of living entities that are responding to the environment. Like the act of gardening, writing is radically incremental one. **It isn't heroic or final.**  One is never *done* working on their garden. That would be ridiculous. 
 
-It is my hope to create something that is *alive*. The best gardens have "life." Call it vibes, a feeling, energy, juju: it is that intangible but real feeling we get from certain  places, people things. "Life" emerges at an untraceable point in the development of a system. Interestingly its presence isn't always recognized, but its absence is. 
+It is my hope to create something that is *alive*. The best gardens have "life." (TODO: Add reference to the timeless way of building). Call it vibes, a feeling, energy, juju: it is that intangible but real feeling we get from certain  places, people things. "Life" emerges at an untraceable point in the development of a system. Interestingly its presence isn't always recognized, but its absence is. 
 
 To be clear, I know there isn't much of that here *yet*. This is early. Most of my pieces are *saplings.* Expect some typos, incomplete sentences, and notes with little structure. The writing here isn't my considered "final" opinion. In fact, I expect over the course of my life, most pages will die. This is good. 
 
