@@ -11,7 +11,7 @@ title: "Ruby"
 — why the lucky stiff
 
 
-I am in the unique and incredibly lucky position to be an intern at 37signals. Formerly known as Basecamp, this tech company — neither a start up (its been around for 25 years) or big-tech (80 people) — is where Ruby on Rails, the popular web development framework was developed. The company is steeped in Ruby and Ruby on Rails is the language. I want to get in on it and learn from the people who developed it to make their lives easier. 
+I am in the unique and incredibly lucky position to be an intern at 37signals. Formerly known as Basecamp, this tech company — neither a start up (its been around for 25 years) or big-tech (80 people) — is where **Ruby on Rails**, the popular web development framework was developed. The CTO, David Hannimier HansonThe company is steeped in Ruby and Ruby on Rails is the language. I want to get in on it and learn from the people who developed it to make their lives easier. 
 
 These are an ongoing note on my experience learning Ruby and the Rails framework from scratch. This is my first time really learning a web-app development framework, and my first time going deep on a language. I plan to add a little bit everyday and then after the internship turn this into something more readable. Right now it is what it is an evolving note, filled with quirky reminders about the language . 
 
@@ -21,8 +21,8 @@ Learning Plan:
 
 Concurrently Learn Rails - The Ruby Web App Development Framework
 1. Rails Guide
-2. DHH's famous blog walkthrough
-3. Capistrano
+2. DHH's famous blog walkthrough ✅
+3. Capistrano 
 4. MRSK Deployment Tool 
 
 Resources:
@@ -31,7 +31,9 @@ Resources:
 ## Ruby: 
 
 
-## Rails:
+## Rails Guide:
+
+## High Level Overview
 - A webapp development framework written in Ruby
 - Assumes what every developer needs therefore allows you to do a lot with a little code. 
 - Rails Way:
@@ -46,6 +48,8 @@ Resources:
 	- **View** - In charge of rendering the object to the User. In Rails often an HTML Template. 
 
 - A different kind of *Model* - A ruby class used to represent data. Also interacts with app db through *Active Record.* They are the templates of a single record in a database (this is why it is always SINGULAR)
+
+
 
 - In the Article controller in the index method, we set @articles = Article.all. The instance variable of the controller holds the record of all the articles from the database. Then in the `app/view/articles/index.html.erb` we can access the `@arrticles` variable.
 - ERB - Ruby templating file, that allows you to mix 

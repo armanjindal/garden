@@ -5,6 +5,38 @@ opentoc: true
 
 Translation: [Barbara Stoler-Miller](https://en.wikipedia.org/wiki/Barbara_Stoler_Miller) (BM)
 
+The Second Teaching: Philosophy and Spiritual Discipline
+
+Page 37, Verse 39-40
+> No effort in this world 
+> is lost or wasted;
+> a fragment of sacred duty 
+> saves you from great
+> 
+> This understanding is unique
+> in its innercore of resolve; 
+> \[  ... \] 
+> diffuse and pointless are the ways 
+> irresolute men understand
+
+Page 42, Verse 70-72
+
+> As the mountainous depths
+> of the ocean
+> are unmoved when waters 
+> rush into it, 
+> so the man unmoved
+> when desires enter him
+> attains a peace that eludes
+> the man **of** many desires 
+
+> When he renounces all desires
+> and **acts** without craving, 
+> possessiveness
+> or **individuality**, he finds peace.
+
+Q: What does it mean to act without individuality?
+
 
 The Fourth Teaching — Knowledge (BM)
 Page: 53-54
@@ -54,24 +86,5 @@ Q: What is the relationship between knowledge and action? On one end, knowledge 
 > impartial to failure and success, 
 > he is not bound even when he acts.
 
-
-Bhagavad-Gita - Chapter 2, pg 42
-
-As the mountainous depths
-of the ocean
-are unmoved when waters 
-rush into it, 
-so the man unmoved 
-when desires enter him
-attains a peace that eludes
-the man **of** many desires 
-
-When he renounces all desires
-and **acts** without craving, 
-possessiveness
-or **individuality**, he finds peace.
-
-
-Q: What does it mean to act without individuality?
 
 

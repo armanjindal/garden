@@ -7,13 +7,12 @@ opentoc: true
 
 Hello, you! Welcome to my garden 🪴 
 
-Here, you will find what I'm thinking, reading, writing, and doing. Decidedly this is not a blog. You can read more about the *meta*(phor) below.  
+Here, you will find what I'm thinking, reading, writing, and doing. Decidedly this is not a blog. You can read more about the *meta*(phor) below.  [This](digital-garden/Personal/now.md) is what I am doing [now](digital-garden/Personal/now.md).
 
-Here are some paths to get you started. You can navigate via links, a graph (on the bottom), and the shortcut Ctr/Cmd + K to search by text. Don't feel obliged to finish, many notes here aren't; the idea is to jump around and read with impunity.
+### Getting Started
+Click around with impunity. Some notes aren't done, others are in the middle of being revised. I explain the meta below. Ctr/Cmd K for key word search. 
 
 - [Reading](digital-garden/Reading%20&%20Books/Philosophy%20of%20Reading.md)
-	- [The Bhagavad-Gita](digital-garden/Reading%20&%20Books/Living%20Book%20Commentaries/The%20Bhagavad-Gita.md)
-
 -  Writing on *technē* (art), *technik* (technology) & *darśana* (philosophy)
 	- [Beneath Form and Content - Epistemology in the Interpretation of Art](digital-garden/Beyond-Form-Content.md)
 	- [Eternal Spring — A Formal Analysis of Rodin's Iconic Sculpture ](digital-garden/Rodin/Eternal%20Spring%20—%20A%20Formal%20Analysis%20of%20Rodin.md)
@@ -21,12 +20,14 @@ Here are some paths to get you started. You can navigate via links, a graph (on 
 	- [Almost 60 Years On... The Inescapability of Gettier Cases and a Broken Concept of Knowledge](digital-garden/The-Inescapability-of-Gettier%20Cases.md)
 	- [Language Matters](digital-garden/Language-Matters)
 		- [Find Rhythm. Not Momentum](digital-garden/Rhythm-Not-Momentum.md)
-- Ongoing Writing Projects:
+
+- Ongoing Learning/Writing Projects:
 	-  [Learning Ruby (On Rails)](digital-garden/Ruby.md) 
 	- [Power & Power Use(rs) - On the Relationship between Users and Producers of Technology](digital-garden/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md)
 	-  [The Political Programmer - A Politics of Programming based on Walter Benjamin's Theory of Art & Artist](work-in-progress/The-Political-Programmer.md)
 
 Here is a growing list of [questions](digital-garden/Questions.md) that I have.
+
 
 ## 🪴 The Garden Metaphor 
 
@@ -46,17 +47,18 @@ Ideas are helpful insofar as they lead to **life**: action, community, flourishi
 
 I haven't started this garden to be *right*. It is an elaborate forcing mechanism to work in public, build a second brain, and write.  It's a long-term project to reap the compounding benefits of knowledge, form and find community, and a platform to express myself with greater control of the medium than social media. 
 
-Through consistent *gardening*, I hope to plant a few solid trees, nourished by the sunlight and the scrutiny of my readers. In the face of the confusing, contingent, and cruelly indifferent world, I believe that Voltaire offers a compelling response in the pithy concluding line of *Candide*: 
+Through consistent *gardening*, I hope to plant a few solid trees, nourished by the sunlight and the scrutiny of my readers. In the face of the confusing, contingent, and cruelly indifferent world, I believe that Voltaire offers a compelling response in the pithy concluding line of *Candide*:
 
 > [ "Il faut cultiver notre jardin."](https://www.theschooloflife.com/article/cultivate-own-garden-voltaire/)  — Voltaire
 
-This garden — the few thoughts, ideas, books, and media I've decided to care about — is my response to an overwhelming infinity of information, suffering, and possibility.
+This garden — the few thoughts, ideas, books, and media I've decided to care about — is my response to an overwhelming infinity of information, suffering, and possibility. Its my earnest love letter to ideas:
+- to a limit embracing life, that *perfect is the enemy of the good*, the, *[unreasonable effectiveness of showing up every day](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/)*, and the approach to creativity that begins with unabashed unoriginal work by [stealing like an artist](https://en.wikipedia.org/wiki/Steal_Like_an_Artist). 
 
-Its my earnest love letter to ideas to a limit embracing life, that *perfect is the enemy of the good*, the, *[unreasonable effectiveness of showing up every day](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/)*, and the approach to creativity that begins with unabashed unoriginal work by [stealing like an artist](https://en.wikipedia.org/wiki/Steal_Like_an_Artist). It is a living polemic against finality. Cultivating this garden is an affirmation of my limited agency, and through it I seek to share what I find beautiful, inspiring, and interesting with people in my life. 
+It is a living polemic against finality. Cultivating this garden is an affirmation of my limited agency, and through it I seek to share what I find beautiful, inspiring, and interesting with people in my life. 
 
-The writing here, the plants growing in this garden, are not isolated, but neither are they neatly connected. They exist rooted in soil, connect by by a rhizome — a tangled mass of subterranean  roots. My goal is to make connections between writing as explicit as possible: tracing the genealogy, connections, and changes to my writing over time is quite selfishly a fascinating project of self-examination.
+The writing here, the plants growing in this garden, are not isolated, but neither are they neatly connected. They exist rooted in soil, connect by by a rhizome — a tangled mass of roots. Tracing the genealogy of my thinking over time is a fascinating project in self-examination.
 
-To support this lofty goal, I chose an opinionated, open-source tech stack to build this site. I use [Obsidian](https://obsidian.md/) to write — a [power user native](digital-garden/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md), personal knowledge management note editor with a graph view displaying the 'links' between pages. I publish this site using an open source built by [Jacky Zhao](https://jzhao.xyz/) called [Quartz](https://github.com/jackyzha0/quartz#quartz) which compiles my local Obsidian vault into a Hugo site. All the pages are in `markdown` and versioned on GitHub, so there is a permanent, timestamped, line-by-line record of every change. I hope to look back at the commit histories to understand how my thinking changes. These tools help me produce an expanding network of thoughts, which ultimately help me shape, affirm and faithfully **live** a narrative of my creation. 
+To support this lofty goal, I chose an opinionated, open-source tech stack to build this site. I use [Obsidian](https://obsidian.md/) to write — a [power user native](digital-garden/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md), personal knowledge management note editor with a graph view displaying the 'links' between pages. I publish this site using an open source built by [Jacky Zhao](https://jzhao.xyz/) called [Quartz](https://github.com/jackyzha0/quartz#quartz) which compiles the `markdown` files in my local Obsidian vault into static HTML through the Hugo static site generator. All pages are versioned controlled on [GitHub](https://github.com/armanjindal/armanjindal.github.io/commit/hugo), so there is a permanent, timestamped, line-by-line record of every change. I hope to look back at the commit histories to understand how my thinking changes. These tools help me produce an expanding network of thoughts, which ultimately help me shape, affirm and faithfully **live** a narrative of my creation. 
 
 
 ## 🚀 Community 
@@ -72,24 +74,27 @@ Right now, I expect it will be friends and mentors who I will pester to contribu
 
 ## 🧐 [Who Am I?](https://youtu.be/fR5-x7v7UkE?t=37) 
 
-My name is Arman Jindal. I was born in Los Angeles, USA in the last month of millenia and moved to Pune, India, when I was seven. I was educated in Pune, in the International Baccalaureate (IB), until I moved to New York for college in 2018. I am in the final semester of my undergraduate at Columbia College, studying a combination track of Computer Science (CS) & Philosophy. I built my major through the CS department, joining several classes from philosophy, computer science, formal linguistics, and the history of science and technology, around the theme which I have retroactively come to understand as the relationship between [Language & Computation](work-in-progress/College%20-%20Language%20&%20Computation.md). I modified my major (much to the annoyance but kindness of my academic advisor) semester since junior year in response to changing interests and to take the best classes professors were offering that semester. 
+My name is Arman Jindal. I was born in Los Angeles, USA in the last month of millenia. I moved to Pune, India, when I was seven. I was educated in Pune, in the International Baccalaureate (IB), until I moved to New York for college in 2018. I am in the final semester of my undergraduate at Columbia College, studying a combination track of Computer Science (CS) & Philosophy. I built my major through the CS department, joining several classes from philosophy, computer science, formal linguistics, and the history of science and technology, around the theme which I have retroactively come to understand as the relationship between [Language & Computation](work-in-progress/College%20-%20Language%20&%20Computation.md). I modified my major (much to the annoyance but kindness of my academic advisor) semester since junior year in response to changing interests and to study with the best professors who were teaching that semester. 
 
 I work as a Peer Writing Fellow at the [Columbia University Writing Center](https://www.college.columbia.edu/core/node/4083), where I work one-on-one in hour long sessions with writers from the Columbia community. Working on a single piece of writing, we try to help move writers to the next stage in their writing process and develop them as writers using research-based methods. I am not an authority but an attentive and curious reader. I am amazed by the incredible work of my peers and am thrilled to be a small part of bringing their ideas to life. Finding [the right words](digital-garden/Jugaad%20and%20the%20Power%20of%20the%20Right%20Word.md) to express yourself is both empowering and world shaping. Being a part of this incredible community of writers and teachers is one of the highlights of my undergraduate experience (shout out to the best bosses: [Sue Mendelsohn](https://english.columbia.edu/content/sue-mendelsohn) and [Jason Ueda](https://www.college.columbia.edu/core/uwp/writing-center/consultants#JasonU)and my incredible friend, who introduced me to this world [Isabelle Pride](https://www.linkedin.com/in/isabellepride/)).
 
-I graduate in May of 2023. I am looking to build technology with incredible people who value learning, writing, empowering its users, and growth. We have a social and moral obligation to shape technology so as to increase user agency rather than diminish it.  Professionally, I value "People, Ideas, and Things" in that order. I worked as a software engineer at [Airy](https://airy.co/), an open-source Berlin-based company, over the summer of 2022. You can see more about I did there on my Github, [here](https://github.com/airyhq/airy/pulls?q=is%3Aclosed+author%3Aarmanjindal). 
+I graduated in May of 2023. I am looking to build technology with incredible people who value learning, writing, empowering its users, and growth. We have a social and moral obligation to shape technology so as to increase user agency rather than diminish it.  
 
-Please get in touch with me at arman.jindal@hey.com if you have an opportunity or want to chat. 
+Professionally, I value "People, Ideas, and Things" in that order. I worked as a software engineer at [Airy](https://airy.co/), an open-source Berlin-based company, over the summer of 2022. You can see more about I did there on my Github, [here](https://github.com/airyhq/airy/pulls?q=is%3Aclosed+author%3Aarmanjindal). I am currently an intern on the DevOps team at [37signals](https://37signals.com/), the makers of [Basecamp](https://basecamp.com/)
 
-Personally, I enjoy dancing and working out(doors). I need to exercise, read and write every day. I strive to open myself to being moved by people, experiences, and art. I love to travel light, cheap, and with a friend. I've played [squash competitively](https://www.youtube.com/watch?v=BZ3n9XHfAy8&t=1575s) and [climbed a mountain](https://adventure-pulse.com/mountaineering/kang-yatse-2)in Leh, India. Parts of my me are in the Himalayas, on a squash court, underwater, and with my family and closest friends who inspire me every day.  I meditate, move, converse, program, and write about all of that here. My favorite philosopher right now is [Simone Weil](https://en.wikipedia.org/wiki/Simone_Weil).
+Please get in touch with me at arman.jindal@hey.com if you have an opportunity or want to chat. All I can promise is genuine curiosity, and that I will not forget to pay it forward.
+
+Personally, I enjoy dancing and working out(doors). I need to exercise, read and write every day. I strive to open myself to being moved by people, experiences, and art. I love to travel light, cheap, and with a friend. I've played [squash competitively](https://www.youtube.com/watch?v=BZ3n9XHfAy8&t=1575s) and [climbed a mountain](https://adventure-pulse.com/mountaineering/kang-yatse-2)in Leh, India. Parts of me are are always in the Himalayas, on a squash court, underwater, and with my family and closest friends who inspire me every day.  I meditate, move, converse, program, and write about all of that here. My favorite philosopher right now is [Simone Weil](https://en.wikipedia.org/wiki/Simone_Weil) and I am enjoying some of Borges' short stories. 
 
 ![](digital-garden/Images/pictures/Kang%20Yatse.jpg)
 
 August 2021. Third from the left: With my crew on top of Kang Yatse 2 in Leh, India led by incredible [Samir Patham and his team](https://adventure-pulse.com/)
 
 This is some of my more personal writing. It is still very much in development. 
-
+- [now](digital-garden/Personal/now.md)
 - [Meditations in Modern Dance](digital-garden/Meditations%20on%20Modern%20Dance.md)
 - [My Rules for Sanity & Happiness](digital-garden/Personal/My%20Rules%20for%20Sanity%20&%20Happiness.md)
 - [23](private/23.md)
 - [Travel Journal](Travel)
+
 
