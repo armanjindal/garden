@@ -11,24 +11,23 @@ title: "Ruby"
 — why the lucky stiff
 
 
-I am in the unique and incredibly lucky position to be an intern at 37signals. Formerly known as Basecamp, this tech company — neither a start up (its been around for 25 years) or big-tech (80 people) — is where **Ruby on Rails**, the popular web development framework was developed. The CTO, David Hannimier HansonThe company is steeped in Ruby and Ruby on Rails is the language. I want to get in on it and learn from the people who developed it to make their lives easier. 
+I am in the unique and excellent position of DevOps intern at 37signals. Formerly known as Basecamp, this tech company — neither a start up (its been around for 25 years) or big-tech (~70 people) — is where **Ruby on Rails**, the popular web development framework was developed. The CTO, David Hannimier Hanson (DHH) as he is known on the internet is the frameworks original creator. Though many think it is dead, that doesn't seem to be true, and though it is not the newest or sexiest framework, it is designed intentionally. Its taste network — the people who love it — are often people I am inspired by. It is also a question of place. I so happen to be at the Rails mecca. The company is steeped in Ruby and Ruby on Rails is the language. I want to get in on it and learn from the people who developed it to make their lives easier. 
 
-These are an ongoing note on my experience learning Ruby and the Rails framework from scratch. This is my first time really learning a web-app development framework, and my first time going deep on a language. I plan to add a little bit everyday and then after the internship turn this into something more readable. Right now it is what it is an evolving note, filled with quirky reminders about the language . 
+These are an ongoing note on my experience learning Ruby and the Rails framework from scratch. This is my first time really learning a web-app development framework, and my first time going deep on a language. I plan to add a little bit everyday and then after the internship turn this into something more readable. Right now it is what it is an evolving note, filled with quirky reminders about the language. Its also my crash course as I begin to program in it at work and dive deeper into the language and community. I will be at RailsWorld October 5th-6th, 2023 in Amsterdam, so I got to ask some good questions! 
 
 Learning Plan:
 1. Crash Course in Rails Syntax ✅
 2. The Ruby Programming Language — slow burn (Chapter 5.3, pg 140)
 
 Concurrently Learn Rails - The Ruby Web App Development Framework
-1. Rails Guide
+1. Rails Guide ✅
 2. DHH's famous blog walkthrough ✅
-3. Capistrano 
-4. MRSK Deployment Tool 
+3. Pragmatic Studios - Rails 7 Tutorial
+4. Capistrano 
+5. MRSK Deployment Tool 
 
 Resources:
-- [Ruby Toolbox](https://www.ruby-toolbox.com/) - Overview of open source libraries that solve common problems for Ruby users
-
-## Ruby: 
+- [Ruby Toolbox](https://www.ruby-toolbox.com/) - Overview of open source libraries that solve common problems for Ruby 
 
 
 ## Rails Guide:
