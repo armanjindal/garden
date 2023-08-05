@@ -21,3 +21,7 @@ Thoughts on Words:
 > — Finn Brunton [[SPAM - A Shadow History of the Internet]] Chapter 1 *Ready for the Next Messsage* pg.7
 
 - Kind of like the word "American." Its a place where discourse can happen. A conceptual point in space which people can approach and move given their unique experiences and identity. 
+
+
+Fun World Expanding Words:
+- fingerspitzengefühl
