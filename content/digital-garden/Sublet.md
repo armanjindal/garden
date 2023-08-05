@@ -2,7 +2,7 @@
 title: "Apartment Sublet - September - December/January, 2023"
 ---
 
-I am subletting my room in a three bedroom apartment in 515 West, 110th Street. It is between Broadway and Amsterdam, a few mins walk from Columbia and right off the 1. The C train is a 8 min walk away, and the building, which is filled with Barnard/Columbia students, is between 
+I am subletting my room in a three bedroom apartment in 515 West, 110th Street. 
 
 I LOVE this room, apartment, and area. I am looking for someone who will fit in here and enjoy living here while I backpack and hunt for a job. Ideally, it is for a whole semester. I am flexible on dates, but at minimum three months. Open to discuss an exact day and pro-rate accordingly. 
 
@@ -13,6 +13,7 @@ I LOVE this room, apartment, and area. I am looking for someone who will fit in 
 - Private bathroom in the room. 
 - Lots of storage (two full cupboards)
 - Price: $1950/Month (not including utilities and WiFi)
+- Dates: September - January 
 
 Let me know if you're interested — arman.jindal@hey.com — or through whoever sent this to you. I'll take this down when its filled. 
 
