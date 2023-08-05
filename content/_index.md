@@ -7,24 +7,24 @@ opentoc: true
 
 Hello, you! Welcome to my garden 🪴 
 
-Here, you will find what I'm thinking, reading, writing, and doing. Decidedly this is not a blog. You can read more about the *meta*(phor) below.  [This](digital-garden/Personal/now.md) is what I am doing [now](digital-garden/Personal/now.md).
+Here, you will find what I'm thinking, reading, writing, and doing. Here is what I am doing [now, now, now](digital-garden/Personal/now.md).  Decidedly this is not a blog. You can read more about the *meta*(phor) below. 
 
 ### Getting Started
 Click around with impunity. Some notes aren't done, others are in the middle of being revised. I explain the meta below. Ctr/Cmd K for key word search. 
 
-- [Reading](digital-garden/Reading%20&%20Books/Philosophy%20of%20Reading.md)
--  Writing on *technē* (art), *technik* (technology) & *darśana* (philosophy)
-	- [Beneath Form and Content - Epistemology in the Interpretation of Art](digital-garden/Beyond-Form-Content.md)
-	- [Eternal Spring — A Formal Analysis of Rodin's Iconic Sculpture ](digital-garden/Rodin/Eternal%20Spring%20—%20A%20Formal%20Analysis%20of%20Rodin.md)
-	- [The Physical World in Ibn Tufayl's Philosophical Tale](digital-garden/Ibn-Tufayl.md)
-	- [Almost 60 Years On... The Inescapability of Gettier Cases and a Broken Concept of Knowledge](digital-garden/The-Inescapability-of-Gettier%20Cases.md)
-	- [Language Matters](digital-garden/Language-Matters)
-		- [Find Rhythm. Not Momentum](digital-garden/Rhythm-Not-Momentum.md)
+#### Writing on *technē* (art), *technik* (technology) & *darśana* (philosophy)
+- [Beneath Form and Content - Epistemology in the Interpretation of Art](digital-garden/Beyond-Form-Content.md)
+- [Eternal Spring — A Formal Analysis of Rodin's Iconic Sculpture ](digital-garden/Rodin/Eternal%20Spring%20—%20A%20Formal%20Analysis%20of%20Rodin.md)
+- [The Physical World in Ibn Tufayl's Philosophical Tale](digital-garden/Ibn-Tufayl.md)
+- [Almost 60 Years On... The Inescapability of Gettier Cases and a Broken Concept of Knowledge](digital-garden/The-Inescapability-of-Gettier%20Cases.md)
+- [Language Matters](digital-garden/Language-Matters)
+	- [Find Rhythm. Not Momentum](digital-garden/Rhythm-Not-Momentum.md)
 
-- Ongoing Learning/Writing Projects:
-	-  [Learning Ruby (On Rails)](digital-garden/Ruby.md) 
-	- [Power & Power Use(rs) - On the Relationship between Users and Producers of Technology](digital-garden/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md)
-	-  [The Political Programmer - A Politics of Programming based on Walter Benjamin's Theory of Art & Artist](work-in-progress/The-Political-Programmer.md)
+#### Projects: 
+-  [Reading](digital-garden/Reading%20&%20Books/Philosophy%20of%20Reading.md)
+-  [Learning Ruby (On Rails)](digital-garden/Ruby.md) 
+- [Power & Power Use(rs) - On the Relationship between Users and Producers of Technology](digital-garden/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md)
+-  [The Political Programmer - A Politics of Programming based on Walter Benjamin's Theory of Art & Artist](work-in-progress/The-Political-Programmer.md)
 
 Here is a growing list of [questions](digital-garden/Questions.md) that I have.
 
@@ -72,19 +72,22 @@ Right now, there are two ways:
 Right now, I expect it will be friends and mentors who I will pester to contribute, but I hope to have a broader audience of contributors as this grows. GitHub is immensely powerful, and I will try to use it to "cultivate my garden" best I can. 🪴
 
 
-## 🧐 [Who Am I?](https://youtu.be/fR5-x7v7UkE?t=37) 
+## 🧐 Who Am I?
 
-My name is Arman Jindal. I was born in Los Angeles, USA in the last month of millenia. I moved to Pune, India, when I was seven. I was educated in Pune, in the International Baccalaureate (IB), until I moved to New York for college in 2018. I am in the final semester of my undergraduate at Columbia College, studying a combination track of Computer Science (CS) & Philosophy. I built my major through the CS department, joining several classes from philosophy, computer science, formal linguistics, and the history of science and technology, around the theme which I have retroactively come to understand as the relationship between [Language & Computation](work-in-progress/College%20-%20Language%20&%20Computation.md). I modified my major (much to the annoyance but kindness of my academic advisor) semester since junior year in response to changing interests and to study with the best professors who were teaching that semester. 
+[Do you mean...](https://youtu.be/fR5-x7v7UkE?t=37) (Sens8 by the Wachowski Sisters)
 
-I work as a Peer Writing Fellow at the [Columbia University Writing Center](https://www.college.columbia.edu/core/node/4083), where I work one-on-one in hour long sessions with writers from the Columbia community. Working on a single piece of writing, we try to help move writers to the next stage in their writing process and develop them as writers using research-based methods. I am not an authority but an attentive and curious reader. I am amazed by the incredible work of my peers and am thrilled to be a small part of bringing their ideas to life. Finding [the right words](digital-garden/Jugaad%20and%20the%20Power%20of%20the%20Right%20Word.md) to express yourself is both empowering and world shaping. Being a part of this incredible community of writers and teachers is one of the highlights of my undergraduate experience (shout out to the best bosses: [Sue Mendelsohn](https://english.columbia.edu/content/sue-mendelsohn) and [Jason Ueda](https://www.college.columbia.edu/core/uwp/writing-center/consultants#JasonU)and my incredible friend, who introduced me to this world [Isabelle Pride](https://www.linkedin.com/in/isabellepride/)).
 
-I graduated in May of 2023. I am looking to build technology with incredible people who value learning, writing, empowering its users, and growth. We have a social and moral obligation to shape technology so as to increase user agency rather than diminish it.  
+My name is Arman Jindal. I was born in Los Angeles, USA in the last month of millenia. I moved to Pune, India, when I was seven and attended a few International Baccalaureate (IB) schools until I moved to New York for college in 2018. I graduated from Columbia College, with a joint major of Computer Science & Philosophy. I built my major through the CS department, joining several classes from philosophy, computer science, formal linguistics, and the history of science and technology, around the theme which I have retroactively come to understand as the relationship between [Language & Computation](work-in-progress/College%20-%20Language%20&%20Computation.md). I modified my major (much to the annoyance but kindness of my academic advisor) every semester since junior year in response to changing interests and to study with the best professors who were teaching that semester. 
 
-Professionally, I value "People, Ideas, and Things" in that order. I worked as a software engineer at [Airy](https://airy.co/), an open-source Berlin-based company, over the summer of 2022. You can see more about I did there on my Github, [here](https://github.com/airyhq/airy/pulls?q=is%3Aclosed+author%3Aarmanjindal). I am currently an intern on the DevOps team at [37signals](https://37signals.com/), the makers of [Basecamp](https://basecamp.com/)
+I worked as a Peer Writing Fellow at the [Columbia University Writing Center](https://www.college.columbia.edu/core/node/4083), where I work one-on-one in hour long sessions with writers from the Columbia community. Working on a single piece of writing, we try to help move writers to the next stage in their writing process and develop them as writers using research-based methods. I am not an authority but an attentive and curious reader. I am amazed by the incredible work of my peers and am thrilled to be a small part of bringing their ideas to life. Finding [the right words](digital-garden/Jugaad%20and%20the%20Power%20of%20the%20Right%20Word.md) to express yourself is both empowering and world shaping. Being a part of this incredible community of writers and teachers is one of the highlights of my undergraduate experience (shout out to the best bosses: [Sue Mendelsohn](https://english.columbia.edu/content/sue-mendelsohn) and [Jason Ueda](https://www.college.columbia.edu/core/uwp/writing-center/consultants#JasonU)and my incredible friend, who introduced me to this world [Isabelle Pride](https://www.linkedin.com/in/isabellepride/)).
+
+I am looking to build technology with incredible people who value learning, writing, empowering its users, and growth. We have a social and moral obligation to shape technology so as to increase user agency rather than diminish it.  
+
+Professionally, I value "People, Ideas, and Things" in that order. I worked as a software engineer at [Airy](https://airy.co/), an open-source Berlin-based company, over the summer of 2022. You my contributions on Github, [here](https://github.com/airyhq/airy/pulls?q=is%3Aclosed+author%3Aarmanjindal). I am currently an intern on the DevOps team at [37signals](https://37signals.com/), the makers of [Basecamp](https://basecamp.com/) and [Hey](https://www.hey.com/) Email, during their exciting transition off the cloud to on-prem. I've learned so much from the incredible people there who I am proud to call my mentors. 
 
 Please get in touch with me at arman.jindal@hey.com if you have an opportunity or want to chat. All I can promise is genuine curiosity, and that I will not forget to pay it forward.
 
-Personally, I enjoy dancing and working out(doors). I need to exercise, read and write every day. I strive to open myself to being moved by people, experiences, and art. I love to travel light, cheap, and with a friend. I've played [squash competitively](https://www.youtube.com/watch?v=BZ3n9XHfAy8&t=1575s) and [climbed a mountain](https://adventure-pulse.com/mountaineering/kang-yatse-2)in Leh, India. Parts of me are are always in the Himalayas, on a squash court, underwater, and with my family and closest friends who inspire me every day.  I meditate, move, converse, program, and write about all of that here. My favorite philosopher right now is [Simone Weil](https://en.wikipedia.org/wiki/Simone_Weil) and I am enjoying some of Borges' short stories. 
+Personally, I enjoy dancing and working out(doors). I need to exercise, read and write every day. I strive to open myself to being moved by people, experiences, and art. I love to travel light, cheap, and with a friend. I've played [squash competitively](https://www.youtube.com/watch?v=BZ3n9XHfAy8&t=1575s) and [climbed a mountain](https://adventure-pulse.com/mountaineering/kang-yatse-2)in Leh, India. Parts of me are are always in the Himalayas, on a squash court, underwater, and with my family and closest friends who inspire me every day.  I meditate, move, converse, program, and write about all of that here. My favorite philosopher right now is [Simone Weil](https://en.wikipedia.org/wiki/Simone_Weil) I am enjoying some of Borges' short stories, and learning a lot from [Derek Siver](https://sive.rs/).
 
 ![](digital-garden/Images/pictures/Kang%20Yatse.jpg)
 
