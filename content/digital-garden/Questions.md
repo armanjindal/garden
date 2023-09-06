@@ -1,7 +1,6 @@
 ---
 title: Questions 
 ---
-
 - **What makes some a "*mystic*"?**
 
 Walter Benjamin, Simone Weil, philosophers, thinkers, and writers I love who are often labeled as "mystics."? How? Can I become one? I'm so far from being mystical, though! Is it because the ideas they are expressing are **inexpressible** (which is to say require direct experience)? 
@@ -10,7 +9,7 @@ If that's the case, then underlying our unease with the term is the assumption t
 1. Language is sufficient to capture and convey all experiences (!)
 2. Therefore we think we can "read" ourselves to Enlightenment (!)
 
-What a terribly stultifying and wrong assumptions. Then we could just hook ourselves up to an IV drip of information. What about wordless wisdom? Wisdom you see people embody through action and life. Or concepts for which we merely lack the conceptual and actual apparatus to measure and understand. Its the ultimate confusion of the map with the territory. Words are map. Life is territory. 
+What terribly stultifying and wrong assumptions. If only the solution were to just hook ourselves up to an IV drip of information. There are too many examples of smart people whose intelligence has only made their wickedness a more potent evilness. What about wordless wisdom? Experiences that transcend words and underly action? A loving embrace and feeling of connection to other people and nature. Its the kind of thing you see people embody through action and life. Its not their "words". It's the ultimate confusion of the map with the territory. Words are map. Life is territory. 
 
 - "**What's your type?**"
 

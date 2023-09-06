@@ -1,6 +1,9 @@
 
 
+
 > “Toska - noun /ˈtō-skə/ - Russian word roughly translated as sadness, melancholia, lugubriousness.  
+
+
 > 
   "No single word in English renders all the shades of toska. At its deepest and most painful, it is a sensation of great spiritual anguish, often without any specific cause. At less morbid levels it is a dull ache of the soul, a longing with nothing to long for, a sick pining, a vague restlessness, mental throes, yearning. In particular cases, it may be the desire for somebody of something specific, nostalgia, love-sickness. At the lowest level it grades into ennui, boredom.”
   ― Vladimir Nabokov
