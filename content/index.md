@@ -7,7 +7,7 @@ opentoc: true
 
 Hello, you! Welcome to my garden 🪴 
 
-Here, you will find what I'm thinking, reading, writing, and doing. Here is what I am doing [now, now, now](digital-garden/Personal/now.md).  Decidedly this is not a blog. You can read more about the *meta*(phor) below. 
+Here, you will find what I'm thinking, reading, writing, and doing. Here is what I am doing [now](digital-garden/Personal/now.md).  Decidedly this is not a blog. You can read more about what that means and the *meta*(phor) below. 
 #### Writing on *technē* (art), *technik* (technology) & *darśana* (philosophy)
 - [Beneath Form and Content - Epistemology in the Interpretation of Art](digital-garden/Beyond-Form-Content.md)
 - [Eternal Spring — A Formal Analysis of Rodin's Iconic Sculpture ](digital-garden/Rodin/Eternal%20Spring%20—%20A%20Formal%20Analysis%20of%20Rodin.md)
