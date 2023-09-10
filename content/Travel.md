@@ -1,7 +1,0 @@
-
-Upcoming: Colorado
-
-
-
-Philadelphia
-

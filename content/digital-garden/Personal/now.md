@@ -1,14 +1,7 @@
 Updated September, 8th 2023:
 
-I finished out an incredible internship at 37signals, the makers of Basecamp and Hey. I published a post on their dev blog [here](https://dev.37signals.com/leaning-imperative/) which captures some of my work and learning. 
-
-I've become interested in bring my writing skills and the empathy it requires, along my interest in design (a la Edward Tufte) to work in a more user facing direction. I am looking for a job starting in January, ideally with offices in NYC. 
-
-Here's what I am up to now:
-
--  Starting a four month (post-grduation) sabbaticat (September — January). 
-- Writing a lot here. 
-- Going on a YouTube fast. 0 minutes. The site has introduced the TikTok like shorts and man are they addictive. In an effort to cultivate my deep attention and be more intentional I am cutting out all YouTube for the month of September.
+-  Starting a four month (post-garduation) sabbatical (September — January). 
+- Going on a YouTube fast. 0 minutes. The site has introduced TikTok like shorts and man are they addictive. Though there is a wealth of resources In an effort to cultivate my deep attention and be more intentional I am cutting out all YouTube for the month of September.
 
 Upcoming:
 -  3-day Dhamma service followed by a 10-day Vipassana meditation in Shelburne Falls, Massachusetts (September 17th - October 1st)
@@ -26,4 +19,4 @@ Learning:
 
 Page Inspired by [Derek Sivers](https://sive.rs/)
 
-Here what I [was](digital-garden/Personal/was.md) doing (a log of all my updates to the now page)
+Here what I [was](digital-garden/personal/was.md) doing (a log of all my updates to the now page)

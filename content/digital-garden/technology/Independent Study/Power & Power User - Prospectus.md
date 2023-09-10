@@ -17,12 +17,12 @@ Potential Second Readers:
 
 
 Reading:
-* [Computing Tastes - Algorithms and the Makers of Music Recommendation](digital-garden/Independent%20Study/book-notes/Computing%20Tastes%20-%20Algorithms%20and%20the%20Makers%20of%20Music%20Recommendation.md) by Nick Seaver
-* [The Participant](digital-garden/Independent%20Study/book-notes/The%20Participant.md) by Christopher Kelty
-* [Three Ethical Moments in Debian](digital-garden/Independent%20Study/book-notes/Three%20Ethical%20Moments%20in%20Debian.md) by Gabriella Coleman
-* [The Closed World - Computers and the Politics of Discourse in Cold War America](digital-garden/Independent%20Study/book-notes/The%20Closed%20World%20-%20Computers%20and%20the%20Politics%20of%20Discourse%20in%20Cold%20War%20America.md)
-* [Hacker, Hoaxer, Whistleblower, Spy - The Many Faces of Anonymous](digital-garden/Independent%20Study/book-notes/Hacker,%20Hoaxer,%20Whistleblower,%20Spy%20-%20The%20Many%20Faces%20of%20Anonymous.md) by Paul Edwards 
-* [Inventing the Internet](digital-garden/Independent%20Study/book-notes/Inventing%20the%20Internet.md) by Janet Abbate 
+* [Computing Tastes - Algorithms and the Makers of Music Recommendation](digital-garden/technology/Independent%20Study/book-notes/Computing%20Tastes%20-%20Algorithms%20and%20the%20Makers%20of%20Music%20Recommendation.md) by Nick Seaver
+* [The Participant](digital-garden/technology/Independent%20Study/book-notes/The%20Participant.md) by Christopher Kelty
+* [Three Ethical Moments in Debian](digital-garden/technology/Independent%20Study/book-notes/Three%20Ethical%20Moments%20in%20Debian.md) by Gabriella Coleman
+* [The Closed World - Computers and the Politics of Discourse in Cold War America](digital-garden/technology/Independent%20Study/book-notes/The%20Closed%20World%20-%20Computers%20and%20the%20Politics%20of%20Discourse%20in%20Cold%20War%20America.md)
+* [Hacker, Hoaxer, Whistleblower, Spy - The Many Faces of Anonymous](digital-garden/technology/Independent%20Study/book-notes/Hacker,%20Hoaxer,%20Whistleblower,%20Spy%20-%20The%20Many%20Faces%20of%20Anonymous.md) by Paul Edwards 
+* [Inventing the Internet](digital-garden/technology/Independent%20Study/book-notes/Inventing%20the%20Internet.md) by Janet Abbate 
 
 
 ## Introduction: Power-User
@@ -63,7 +63,7 @@ Scholarship that examines how media use shapes the identity and self-understandi
 ## Outline 
 
 >[!WARN]
-> This is under development and will be changing as I read more. For a sense of timeline and road map you can see [Process Document - Power Users](digital-garden/Independent%20Study/Process%20Document%20-%20Power%20Users.md)
+> This is under development and will be changing as I read more. For a sense of timeline and road map you can see [Process Document - Power Users](digital-garden/technology/Independent%20Study/Process%20Document%20-%20Power%20Users.md)
 
 ### **Section I: Power Use in History**
 
@@ -168,6 +168,6 @@ Other Interesting Examples of Power User Native Software - Retool, Salesforce. S
 ### Bibliography / Works Cited
 
 
-Related: [Process Document - Power Users](digital-garden/Independent%20Study/Process%20Document%20-%20Power%20Users.md)
+Related: [Process Document - Power Users](digital-garden/technology/Independent%20Study/Process%20Document%20-%20Power%20Users.md)
 
-[^1]: [Google Ngram Search: power user](https://books.google.com/ngrams/graph?content=power+user&year_start=1800&year_end=2019&corpus=26&smoothing=3&case_insensitive=true) ![google-ngram-power-user](digital-garden/Independent%20Study/google-ngram-power-user.png)
+[^1]: [Google Ngram Search: power user](https://books.google.com/ngrams/graph?content=power+user&year_start=1800&year_end=2019&corpus=26&smoothing=3&case_insensitive=true) ![google-ngram-power-user](digital-garden/technology/Independent%20Study/google-ngram-power-user.png)

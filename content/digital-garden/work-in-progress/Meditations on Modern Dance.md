@@ -20,7 +20,7 @@ Right now, these are pretty raw thoughts. Its a journal. I will turn this into s
 
 
 **Brain-Body**
-Dance transcends the duality of mind-body. A phrase Caitlin uses, that I will shamelessly steal, is "**brain-body**." Why? Because [language matters](Language-Matters.md).
+Dance transcends the duality of mind-body. A phrase Caitlin uses, that I will shamelessly steal, is "**brain-body**." Why? Because [language matters](digital-garden/philosophy/Language-Matters.md).
 
 
 **The Spirituality of Gaze and Leap**

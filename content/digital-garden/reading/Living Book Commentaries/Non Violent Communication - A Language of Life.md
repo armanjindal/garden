@@ -4,7 +4,7 @@ title: "Non-Violent Communication: A Language of Life"
 By: [Marshall Rosenberg ](https://www.goodreads.com/book/show/71730.Nonviolent_Communication)
 First Published January 1st, 1999
 
-A [Living Book Commentary](digital-garden/Reading%20&%20Books/Philosophy%20of%20Reading.md): 
+A [Living Book Commentary](digital-garden/reading/Philosophy%20of%20Reading.md): 
 
 - [Expressing and Receiving Gratitude](https://www.youtube.com/watch?v=DskpPwkE_yw)
 	- Example of lousy gratitude:

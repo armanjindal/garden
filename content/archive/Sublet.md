@@ -16,21 +16,21 @@ I LOVE this room, apartment, my roommates, and area. I am looking for someone wh
 
 Let me know if you're interested at: arman.jindal@hey.com  or via text through whoever sent this to you. I'll take this down when its filled. 
 
-![](digital-garden/Images/sublet/room-entryway-view.jpg)
+![](archive/sublet/room-entryway-view.jpg)
 
-![](digital-garden/Images/sublet/room.jpg)
- ![](digital-garden/Images/sublet/bedroom-2.jpg)
+![](archive/sublet/room.jpg)
+ ![](archive/sublet/bedroom-2.jpg)
  
  Ensuite Bathroom:
-  ![](digital-garden/Images/sublet/bathroom.jpg)
-   ![](digital-garden/Images/sublet/bathroom-1.jpg)
+  ![](archive/sublet/bathroom.jpg)
+   ![](archive/sublet/bathroom-1.jpg)
 
 Kitchen:
-  ![](digital-garden/Images/sublet/kitchen.jpg)
+  ![](archive/sublet/kitchen.jpg)
 
 Common Area:
-  ![](digital-garden/Images/sublet/common-area.jpg)
+  ![](archive/sublet/common-area.jpg)
 Entryway: 
- ![](digital-garden/Images/sublet/entryway.jpg)
+ ![](archive/sublet/entryway.jpg)
  (the sexy bike will be put away in storage and is not included in the sublet ;)
  

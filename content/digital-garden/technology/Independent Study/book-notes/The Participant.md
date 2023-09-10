@@ -2,7 +2,7 @@
 title: The Participant
 ---
 By: [Christopher Kelty](https://press.uchicago.edu/ucp/books/book/chicago/P/bo44520895.html)
-![](Participant-Image.jpeg)
+![](digital-garden/technology/Independent%20Study/Participant-Image.jpeg)
 
 Kelty  — Ongoing Book Notes:
 Participation is a "poorly mapped" territory. Often seen as unquestionably 'good.' Participation spread. Mill viewed participation as a "school of democracy," and Lincoln codified it in the democracy of the late nineteenth century with his "of the people, by the people and for the people." There was an outward expansion of participation as a value in the workforce and Church in the 20th century. 

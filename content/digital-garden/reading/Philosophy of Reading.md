@@ -9,8 +9,8 @@ toc: true
 * [[Getting Real]]
 * [[Shape Up]]
 * [[Food Rules: An Eater's Manual]]
-* [4000 Weeks - Time Management For Mortals](digital-garden/Reading%20&%20Books/Living%20Book%20Commentaries/4000%20Weeks%20-%20Time%20Management%20For%20Mortals.md)
-* [Non Violent Communication - A Language of Life](digital-garden/Reading%20&%20Books/Living%20Book%20Commentaries/Non%20Violent%20Communication%20-%20A%20Language%20of%20Life.md)
+* [4000 Weeks - Time Management For Mortals](digital-garden/reading/Living%20Book%20Commentaries/4000%20Weeks%20-%20Time%20Management%20For%20Mortals.md)
+* [Non Violent Communication - A Language of Life](digital-garden/reading/Living%20Book%20Commentaries/Non%20Violent%20Communication%20-%20A%20Language%20of%20Life.md)
 
 
 ## Living Commentaries
@@ -24,7 +24,7 @@ The author's intention does not constrain books. To some, this is the first step
 
 There are a few books and authors that speak to something  living in me. I've found myself coming back to, rethinking, and re-reading. I want to capture that process here.
 
-* [The Bhagavad-Gita](digital-garden/Reading%20&%20Books/Living%20Book%20Commentaries/The%20Bhagavad-Gita.md)
+* [The Bhagavad-Gita](digital-garden/reading/Living%20Book%20Commentaries/The%20Bhagavad-Gita.md)
 
 ## Meta Notes on Reading 
 
@@ -34,4 +34,4 @@ There are a few books and authors that speak to something  living in me. I've fo
 
 - Treat your to-read list [like a river, not a bucker](https://www.oliverburkeman.com/river).  Or if that analogy doesn't make sense then as a menu instead of a list. We don't expect to capture everything in a flowing river. We dip in and out as it flows. A bucket demands that we empty it before filling it up again. Similarly a list demands everything be crossed off, a menu only a selection based on apetite and mood in the moment. I am guilty of treating my books as todo lists and buckets. 
 
-- Buy books. This may just be my rationalization from my consumerist bibliophilic tendencies, but I love nothing more than remembering through a book purchase. 
+- Buy books. You never know when you might pick it up (or decide to give it as a gift to someone who needs it more!)

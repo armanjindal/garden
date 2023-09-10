@@ -71,4 +71,4 @@ Driving in India feels like juagaad. It is the ability to assess in a moment how
 
 
 
-![](digital-garden/Images/11-untranslatable-words-from-other-cultures_52152bbe65e85_w587.webp)
+![](media/untranslatable-words.webp)

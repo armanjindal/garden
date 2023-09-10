@@ -2,7 +2,7 @@
 >[!WARN]
 >An ongoing note on college, extracting value from an institution whose interests don't always align with yours. Finding what college is actually good for, and the feeling of agency by shaping your course of study within constraints. 
 
-I am graduating in a month. I cannot help but look back over the last few years with an overwhelming sense of gratitude and with the creeping, perhaps self-aggrandizing, feeling that I did college bloody well. This isn't an "advice" page on how you can do the same. 
+I am graduating in a month. I cannot help but look back over the last few years with an overwhelming sense of gratitude and with the creeping, perhaps self-aggrandizing, feeling that I did college well. This isn't an "advice" page on how you can do the same. 
 
 This is a reminder page, of the many answers that I have come up with to the question of "Why am I here?"
 
@@ -13,7 +13,6 @@ The biggest mistake one can make when answering that question is to let someone 
 - Writing and Speaking: The skills of literacy and orality are easy to take for granted. Learning to engage, seriously, with the ideas, texts and therefore, narrative that has shaped is fucking powerful. It's key to shaping your own. 
 - Recognizing the dignity and honor in making yourself teachable. There is a pernicious discourse that speaks of college students as juveniles. This is infantilizing, and self-fulfilling and doesn't speak to the people who are excellent at what they are doing. 
 - Limits of the life of the mind  — you get first-row seats to see the paralyzed, pale, self-hating academic. You always hopefully are exposed to the ones who carry themselves with purpose and power. Who have found in their work or outside of it, sources of meaning that keep them grounded and connected to the world. The academy is a wonderful place, and its mere existence is a testament to the success of society, nothing is more insufferable than academics who forget that. 
-
 
 
 Moves - Creating (and constantly tweaking) a joint Philosophy-Computer Science Major:
