@@ -2,6 +2,9 @@
 title: "Power & Power User"
 opentoc: true
 ---
+> [!warn]
+> A work in progress. Turning this from an academic study in the style of the [Science and Technology Studies](https://sts-program.mit.edu/) to a public essay. 
+
 
 A Prospectus for an independent study and thesis for my senior year, originating from an incredible seminar on [Information—Computing—Infrastructure](http://www.columbia.edu/cu/bulletin/uwb/#/cu/bulletin/uwb/subj/HIST/GR8479-20223-001)(History GR8479) taught by Professor Matthew Jones in the Fall of 2022.
 

@@ -8,7 +8,7 @@ opentoc: true
 > This is a work in progress. I am actively and substantially revising the argument and the structure. But if you have any suggestions or thoughts, please [email me](mailto:arman.jindal@columbia.edu). Even better, [create an issue](https://github.com/armanjindal/armanjindal.github.io/issues/new?assignees=&labels=&template=suggestions_report.md&title=) on GitHub of this repository. 
  
 
-Feedback - Be more concrete. Idea - start with narrative:
+Feedback - Be more concrete. Idea - Start with narrative:
 - Code that has been written for one use, and used for something entirely different. Anecdote about the guy who pulled his package that broke the internet. 
 
 ***Tech for good*.** You'll see it on shirts, on LinkedIn headlines, and on social media posts.  At first sight, around my freshman year in college, it struck me as another banal, virtue-signaling slogan. Classifying tech as "good" or "bad" was pretty straightforward, I thought. It isn't. It gets even more complicated when you look at the decision engineers face when deciding where to work. How do we understand individual responsibility of individuals creators in the complex, and overwhelmingly world. 
