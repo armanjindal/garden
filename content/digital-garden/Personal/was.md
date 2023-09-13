@@ -1,3 +1,6 @@
+---
+title: was
+---
 
 Updated July, 24th 2023:
 Summer in New York: June - September, 2023

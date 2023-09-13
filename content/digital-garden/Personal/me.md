@@ -1,3 +1,7 @@
+---
+title: me
+---
+
 ## 📚 education
 I was born in Los Angeles in the last month of the second millennium. At seven, I moved to Pune, India. I attended an International Baccalaureate (IB) school and played [competitive squash](https://youtu.be/BZ3n9XHfAy8?t=1637) until I moved to New York to attend Columbia University in 2018. 
 

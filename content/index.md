@@ -6,15 +6,15 @@ opentoc: true
 
 Hello, you! Welcome to my garden 🪴
 
-Here, you will find what I'm thinking, reading, writing, and doing. Check out my [now](digital-garden/personal/now.md) page for up-to-date information. Decidedly, this is not a blog. You can read more about what that means and the *meta*(phor) below. Click around to get started. Ctr/Cmd + K to search by text.
+Here, you will find what I'm thinking, reading, writing, and doing. Check out my [now](digital-garden/personal/now.md) page for up-to-date information. This is not a blog. You can read more about what it is and the *meta*(phor) [below](https://armanjindal.github.io/#-the-garden-metaphor). Click around to get started. Ctr/Cmd + K to search by text.
 ####  *Technē* (art), *Technik* (technology) & *Darśana* (philosophy)
 - [Beneath Form and Content - Epistemology in Interpreting Art](digital-garden/philosophy/Beyond-Form-Content.md)
-- [Eternal Spring — Rodin in the Met](digital-garden/art/Rodin/Eternal%20Spring%20—%20A%20Formal%20Analysis%20of%20Rodin.md)
+- [Eternal Spring — Rodin on Creation in the Met](digital-garden/art/Rodin/Eternal%20Spring%20—%20A%20Formal%20Analysis%20of%20Rodin.md)
 - [The Physical World in Ibn Tufayl's Philosophical Tale](digital-garden/philosophy/Ibn-Tufayl.md)
 - [Almost 60 Years On... The Inescapability of Gettier Cases and a Broken Concept of Knowledge](digital-garden/philosophy/The-Inescapability-of-Gettier%20Cases.md)
 - [Language Matters](digital-garden/philosophy/Language-Matters.md)
 	- [Find Rhythm. Not Momentum](digital-garden/philosophy/Rhythm-Not-Momentum.md)
-- [Leaning Imperative](https://dev.37signals.com/leaning-imperative/) - A post the 37signals dev blog about our turn to imperative infrastructure and philosophy based on my experience as a summer intern.
+- [Leaning Imperative](https://dev.37signals.com/leaning-imperative/) - A post I wrote on the 37signals dev blog.
 #### On Going Projects: 
 -  [Reading](digital-garden/reading/Philosophy%20of%20Reading.md)
 -  [Learning Ruby (On Rails)](digital-garden/technology/Ruby.md) 

@@ -1,3 +1,7 @@
+---
+title: tools
+---
+
 Here's a list of things I use. Tools are meant to enhance our powers of shaping the world. I am trying and discarding. By keeping an explicit list, I interrogate if I need something. I need to use less, better. These tools help me create instead of only consume. 
 ## Hardware
 - MacBook 16 inch Pro
