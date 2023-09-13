@@ -6,7 +6,7 @@ opentoc: true
 
 Hello, you! Welcome to my garden 🪴
 
-Here, you will find what I'm thinking, reading, writing, and doing. Check out my [now](digital-garden/personal/now.md) page for up-to-date information. This is not a blog. You can read more about what it is and the *meta*(phor) [below](https://armanjindal.github.io/#-the-garden-metaphor). Click around to get started. Ctr/Cmd + K to search by text.
+Here, you will find what I'm thinking, reading, writing, and doing. Check out my [now](digital-garden/now.md) page for up-to-date information. This is not a blog. You can read more about what it is and the *meta*(phor) [below](https://armanjindal.github.io/#-the-garden-metaphor). Click around to get started. Ctr/Cmd + K to search by text.
 ####  *Technē* (art), *Technik* (technology) & *Darśana* (philosophy)
 - [Beneath Form and Content - Epistemology in Interpreting Art](digital-garden/philosophy/Beyond-Form-Content.md)
 - [Eternal Spring — Rodin on Creation in the Met](digital-garden/art/Rodin/Eternal%20Spring%20—%20A%20Formal%20Analysis%20of%20Rodin.md)
@@ -21,13 +21,13 @@ Here, you will find what I'm thinking, reading, writing, and doing. Check out my
 - [Technical "Power" & Power Use(rs)](digital-garden/technology/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md)
 -  [The Political Programmer - A Politics of Programming based on Walter Benjamin's Theory of Art & Artist](digital-garden/work-in-progress/The-Political-Programmer.md)
 
-Here is a growing list of [questions](digital-garden/personal/Questions.md) that I have. These are the [tools](digital-garden/personal/Tools.md) I use. 
+Here is a growing list of [questions](digital-garden/Questions.md) that I have. These are the [tools](digital-garden/Tools.md) I use. 
 
 ## 🧐 Who Am I?
 
 Perhaps the most philosophically loaded question we answer every day. Identity. Its poignance is captured in one of [my favorite scenes](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be) from [Sense8](https://en.wikipedia.org/wiki/Sense8).
 
-I am a writer, programmer, and builder. For more details check out my [me](digital-garden/personal/me.md) page!
+I am a writer, programmer, and builder. For more details check out my [me](digital-garden/me.md) page!
 ## 🪴 The Garden Metaphor 
 
 Maggie Appleton defines the digital garden in [A Brief History and Ethos of the Digital Garden](https://maggieappleton.com/garden-history):
