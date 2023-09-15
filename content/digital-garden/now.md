@@ -1,11 +1,9 @@
 ---
 title: now
 ---
-
-
 Updated September, 8th 2023:
 
--  Starting a four month (post-garduation) sabbatical (September — January). 
+-  Starting a four-month (post-garduation) sabbatical (September — January) where I will be traveling. Starting in the Netherlands and ending in India. I'll be writing a log [here](digital-garden/travel%20and%20life%20journal/Travel.md). 
 - Going on a YouTube fast. 0 minutes. The site has introduced TikTok like shorts and man are they addictive. Though there is a wealth of resources In an effort to cultivate my deep attention and be more intentional I am cutting out all YouTube for the month of September.
 
 Upcoming:
