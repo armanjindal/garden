@@ -4,9 +4,9 @@ title: now
 Updated September, 8th 2023:
 
 -  Starting a four-month (post-graduation) sabbatical (September — January) where I will be traveling. Starting in the Netherlands and ending in India. I'll be writing a log [here](digital-garden/travel%20and%20life%20journal/Travel.md). 
-- Hacking on a project to enrich Google Maps with events/real-time data. I am treating Google Maps as the "infrastructure" and building on top of it so that when I travel, I can better discover people, places, and events. 
+- Hacking on a project to enrich Google Maps with events/real-time data. I am treating Google Maps as the "infrastructure" and building on top of it to discover people, places, and events on the move. 
 - I write here every day. 
-- Going on a YouTube fast. 0 minutes. The site has introduced TikTok-like shorts, and they are addictive. In an effort to cultivate my deep attention and be more intentional, I am cutting out all YouTube for the sabbatical.
+- I am cutting out all YouTube for the sabbatical to cultivate my deep attention and be more intentional. The site has introduced TikTok-like shorts, and they are addictive. 
 
 Upcoming Events:
 - 10-day Vipassana meditation in Shelburne Falls, Massachusetts (September 20th - October 1st) at [Dhamma Dharā](https://dhara.dhamma.org/)

@@ -17,7 +17,7 @@ Cmd + K to search by keyword 🕵️‍♂️
 #### *Technik* (technology) 
 - [Leaning Imperative](https://dev.37signals.com/leaning-imperative/) - A blog post on [37signals](https://37signals.com/) the philosophy of DevOps infrastructure tools.
 - [Technical "Power" & Power Use(rs)](digital-garden/technology/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md)
--  [The Political Programmer - Drawing on Walter Benjamin's Politics of Art & Artist](digital-garden/work-in-progress/The-Political-Programmer.md)
+-  [The Political Programmer - Drawing on Walter Benjamin's Politics of Art & Artist](digital-garden/technology/The-Political-Programmer.md)
 ####  *Technē* (art)
 - [Beneath Form and Content - Susan Sontag's Epistemology of Interpreting Art](digital-garden/philosophy/Beyond-Form-Content.md)
 - [Eternal Spring — Rodin on Creation in the Met](digital-garden/art/Rodin/Eternal%20Spring%20—%20A%20Formal%20Analysis%20of%20Rodin.md)
