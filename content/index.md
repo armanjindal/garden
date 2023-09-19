@@ -6,14 +6,16 @@ opentoc: true
 
 Hello, you! Welcome to my garden 🪴
 
-Here, you will find writing on what I've thought, built, and done. This is what I am up to [now](digital-garden/now.md). This "garden" is, decidedly, not a blog. You can read more about what it is and the *meta*(phor) [below](https://armanjindal.github.io/#-the-garden-metaphor). Please peruse it at your leisure. Ctr/Cmd + K to search by text.
+Here, you will find writing on what I've thought, built, and done. This is what I am up to [now](digital-garden/now.md).  This "garden" is, decidedly, not a blog. Scroll down to get started, and for more on the [*meta*(phor) of the *garden*](https://armanjindal.github.io/#-the-garden-metaphor),  [me](digital-garden/me.md), and to [connect](https://armanjindal.github.io/#-connect)
+
+Cmd + K to search by keyword 🕵️‍♂️
 ####  *Darśana* (philosophy)
 - [The Physical World in Islamic Philosophy — Ibn Tufayl's Philosophical Tale](digital-garden/philosophy/Ibn-Tufayl.md)
 - [Almost 60 Years On... The Inescapability of Gettier Cases and a Perpetually Broken Concept of Knowledge](digital-garden/philosophy/The-Inescapability-of-Gettier%20Cases.md)
 - [Language Matters](digital-garden/philosophy/Language-Matters.md)
 	- [Find Rhythm. Not Momentum](digital-garden/philosophy/Rhythm-Not-Momentum.md)
 #### *Technik* (technology) 
-- [Leaning Imperative](https://dev.37signals.com/leaning-imperative/) - A post I published on the 37signals dev blog about infrastructure tools.
+- [Leaning Imperative](https://dev.37signals.com/leaning-imperative/) - A blog post on [37signals](https://37signals.com/) the philosophy of DevOps infrastructure tools.
 - [Technical "Power" & Power Use(rs)](digital-garden/technology/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md)
 -  [The Political Programmer - Drawing on Walter Benjamin's Politics of Art & Artist](digital-garden/work-in-progress/The-Political-Programmer.md)
 ####  *Technē* (art)
@@ -21,13 +23,13 @@ Here, you will find writing on what I've thought, built, and done. This is what 
 - [Eternal Spring — Rodin on Creation in the Met](digital-garden/art/Rodin/Eternal%20Spring%20—%20A%20Formal%20Analysis%20of%20Rodin.md)
 - [Imagining Infinity — Gego in the Guggenheim](digital-garden/art/Geggo/Imagining%20Infinity%20—%20Gego.md)
 
-Here is a growing list of [questions](digital-garden/Questions.md) that I have. These are the [tools](digital-garden/Tools.md) I use. 
+This is a growing list of [questions](digital-garden/Questions.md) I have and a (hopefully shrinking!) list of the [tools](digital-garden/Tools.md) I use. 
 
 ## 🧐 Who Am I?
 
 Identity. It's one of the most philosophically loaded questions we answer every day. The poignance and complexity of this question are captured in one of [my favorite scenes from television](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be) in one of my favorite shows, [Sense8](https://en.wikipedia.org/wiki/Sense8).
 
-I am a programmer, writer, mover, and builder. Check out my [me](digital-garden/me.md) page for the longer story. 
+I am a programmer, writer, [mover](https://www.youtube.com/watch?v=HpjVJbGMxaE), and builder. Check out my [me](digital-garden/me.md) page for the longer story. 
 
 ## 🪴 The Garden Metaphor 
 
@@ -58,12 +60,14 @@ Through consistent *gardening*, I hope to plant a few solid trees, nourished by 
 
 The writing here, the plants growing in this garden, are not isolated, but neither are they neatly connected. They are in a "soil" connected by a tangled mass of roots — a rhizome. Tracing the genealogy of my thinking over time is a project in self-examination. 
 
-I chose an opinionated, open-source stack to build this site to support this lofty goal. I use [Obsidian](https://obsidian.md/) to write — a [power user native](digital-garden/technology/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md), markdown note editor.  I publish this site using an open-source tool built by [Jacky Zhao](https://jzhao.xyz/) called [Quartz](https://github.com/jackyzha0/quartz#quartz), which compiles the `markdown` files in my local Obsidian vault into a static HTML site. All pages are versioned on [GitHub](https://github.com/armanjindal/armanjindal.github.io/commit/hugo), so there is a permanent, timestamped, line-by-line record of every change. I hope to look back at the commit histories to understand how my thinking changed. 
+I chose an opinionated, open-source stack to build this site to support this lofty goal. I use [Obsidian](https://obsidian.md/) to write — a [power user native](digital-garden/technology/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md), markdown note editor.  I publish this site using an open-source tool built by [Jacky Zhao](https://jzhao.xyz/) called [Quartz](https://github.com/jackyzha0/quartz#quartz), which compiles the `markdown` files in my local Obsidian vault into a static HTML site. All pages are versioned on [GitHub](https://github.com/armanjindal/armanjindal.github.io/commit/hugo), so there is a permanent, timestamped, line-by-line record of every change. I hope to revisit the commit histories to understand how my thinking changed. 
 
-Writing here, with these tools, helps me produce an expanding network of thoughts to ultimately help me shape, affirm, and **live** a narrative I've shaped. 
+With these tools, writing here helps me produce an expanding network of thoughts to help me shape, affirm, and **live** a narrative I've shaped. 
 ## 🔗 Connect 
 
-I love meeting new people and I will absolutely reply to every email that I get. If you have an opportunity where you think I will be a good fit, please do reach out. All I can promise is genuine curiosity and to pay it forward ☺️
+I love meeting new people, and I will absolutely reply to every email that I get. If you have an opportunity where you think I will be a good fit, please do reach out. All I can promise is genuine curiosity and to pay it forward ☺️
 
-Email: arman.jindal@hey.com 
+Email: arman.jindal@hey.com || arman.jindal@columbia.edu
 GitHub: https://github.com/armanjindal
+LinkedIn: www.linkedin.com/in/arman-jindal
+

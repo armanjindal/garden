@@ -15,7 +15,7 @@ What terribly stultifying and wrong assumptions. If only the solution were to ju
 
 Right now (romantic) relationship are the meat of most conversations. In them this question is often asked. We are expected to give a physical profile and list a few personality traits humorously. Every failed relationship gets us closer to our knowing our "type" until ... happily ever after (of course!)
 
-The honest answer: I don't know. However, underlying this question is an assumption that my "true" personality exists distinctly from theirs. It posits two distinct selves. That's a useful concept to use in most day to day life, but I want to push against in (romantic) relationships. Because it locates the force attraction entirely *in someone else* and ignores the lived reality that I am so different with different people. 
+The honest answer: I don't know. However, underlying this question is an assumption that my "true" personality exists distinctly from theirs. It posits two distinct selves. That's a useful concept to use in most day to day life, but I want to push against it in (romantic) relationships. Because it locates the force attraction entirely *in someone else* and ignores the lived reality that I am so different with different people. 
 
 My cheeky response right now inverts this. My type are people when who when I am around, I turn into a version of myself that I am most attracted to. Sounds pretty narcissistic I know. But I'd argue its *less* narcissistic than the thought that **you** are *not influenced* by the person you are with and the environment you are in. 
 
