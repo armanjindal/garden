@@ -4,11 +4,15 @@ opentoc: true
 ---
 ##  🌊 Welcome 
 
-Hello, you! Welcome to my garden 🪴
+Hello, you! 👋
 
-Here, you will find writing on what I've thought, built, and done. This is what I am up to [now](digital-garden/now.md).  This "garden" is, decidedly, not a blog. Scroll down to get started, and for more on the [*meta*(phor) of the *garden*](https://armanjindal.github.io/#-the-garden-metaphor),  [me](digital-garden/me.md), and to [connect](https://armanjindal.github.io/#-connect)
+Welcome to my garden 🪴
 
-Cmd + K to search by keyword 🕵️‍♂️
+Here, you will find writing on what I've thought, built, and done. This is what I am up to [now](digital-garden/now.md).  I am currently on a four-month sabbatical traveling starting in Amsterdam and ending in India. You can follow along and subscribe to my "muse-letter" [here](https://world.hey.com/arman.jindal/my-travel-muse-letter-afeac6a7). 
+
+This "garden" is, decidedly, not a blog. Please peruse your leisure. Here are links on the [*meta*(phor) of the *garden*](https://armanjindal.github.io/#-the-garden-metaphor),  [me](digital-garden/me.md), and to [connect](https://armanjindal.github.io/#-connect)
+
+Click around. Cmd + K to search by keyword 🕵️‍♂️
 ####  *Darśana* (philosophy)
 - [The Physical World in Islamic Philosophy — Ibn Tufayl's Philosophical Tale](digital-garden/philosophy/Ibn-Tufayl.md)
 - [Almost 60 Years On... The Inescapability of Gettier Cases and a Perpetually Broken Concept of Knowledge](digital-garden/philosophy/The-Inescapability-of-Gettier%20Cases.md)
@@ -27,14 +31,14 @@ This is a growing list of [questions](digital-garden/Questions.md) I have and a 
 
 ## 🧐 Who Am I?
 
-Identity. It's one of the most philosophically loaded questions we answer every day. The poignance and complexity of this question are captured in one of [my favorite scenes from television](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be) in one of my favorite shows, [Sense8](https://en.wikipedia.org/wiki/Sense8).
+Identity. It's one of the most philosophically loaded questions we answer every day. The poignance and complexity of this question are captured in one of [my favorite scenes from television](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be) in one of my favorite shows, [Sense8](https://en.wikipedia.org/wiki/Sense8)— a sci-fi humanist thriller by the Wachowski's.
 
-I am a programmer, writer, [mover](https://www.youtube.com/watch?v=HpjVJbGMxaE), and builder. Check out my [me](digital-garden/me.md) page for the longer story. 
+I am a programmer, writer, [primal mover](https://www.youtube.com/watch?v=HpjVJbGMxaE), and curious builder. Check out my [me](digital-garden/me.md) page for the longer story. 
 
 ## 🪴 The Garden Metaphor 
 
 > [ "Il faut cultiver notre jardin."](https://www.theschooloflife.com/article/cultivate-own-garden-voltaire/)  
-> — Voltaire, the final line of [Candide](https://en.wikipedia.org/wiki/Candide)
+> — Voltaire, [Candide](https://en.wikipedia.org/wiki/Candide)
 
 Maggie Appleton defines the digital garden in [A Brief History and Ethos of the Digital Garden](https://maggieappleton.com/garden-history):
 
@@ -42,9 +46,9 @@ Maggie Appleton defines the digital garden in [A Brief History and Ethos of the 
 
 The metaphor of "garden" is much richer.
 
-Gardens are primordially, a place of *creation*. Unlike blogs which are comprised of distinct, complete, organized writing, gardens are more chaotic. Comprised of a growing network of notes, they are responding to the environment. Like the act of *physically* gardening, writing is radically incremental. **It isn't heroic or final.**  One is never *done* working on their garden. That would be ridiculous. 
+Gardens are a primordial place of *creation*. Unlike blogs which are comprised of distinct, complete, organized writing, gardens are more chaotic. Comprised of a growing network of notes, they respond to the environment. Like the act of *physically* gardening, writing is radically incremental. **It isn't heroic or final.**  One is never *done* working on their garden. That would be ridiculous. 
 
-By gardening here I hope to bring these pages *alive*. The best places have "life" ([Timeless Way of Building](https://en.wikipedia.org/wiki/The_Timeless_Way_of_Building)). Call it vibes, a feeling, energy, juju: life is that intangible but real quality in people, places, and things. "Life" emerges at an untraceable point. Its presence isn't always recognized but its absence is. 
+By gardening here, I hope to bring these pages *alive*. The best places have "life" ([Timeless Way of Building](https://en.wikipedia.org/wiki/The_Timeless_Way_of_Building)). Call it vibes, a feeling, energy, juju: life is that intangible but real quality in people, places, and things. "Life" emerges at an untraceable point. Its presence isn't always recognized but its absence is. 
 
 Most of my pieces are *saplings.* Expect some typos, incomplete sentences, and notes with little structure. The writing here isn't my considered "final" opinion. In fact, I expect over the course of my life, most pages will die. This is good. 
 

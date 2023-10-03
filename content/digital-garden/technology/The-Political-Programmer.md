@@ -8,8 +8,7 @@ opentoc: true
 > This is a work in progress. I am actively and substantially revising the argument and the structure. But if you have any suggestions or thoughts, please [email me](mailto:arman.jindal@columbia.edu). Even better, [create an issue](https://github.com/armanjindal/armanjindal.github.io/issues/new?assignees=&labels=&template=suggestions_report.md&title=) on GitHub of this repository. 
  
 
-
-***Tech for good*.** You'll see it on shirts, on LinkedIn headlines, and social media posts.  At first sight, around my freshman year in college, it struck me as another banal, virtue-signaling slogan. I thought that classifying tech as "good" or "bad" was pretty straightforward. It isn't. It gets even more complicated when you look at the decision engineers face when deciding where to work. How do we understand the individual responsibility of individual creators in the complex and overwhelming world? 
+***Tech for good*.** You'll see it on shirts, on LinkedIn headlines, and social media posts.  At first sight, around my freshman year in college, it struck me as another banal, virtue-signaling slogan. Classifying tech as "good" or "bad" was pretty straightforward. Turns out, It isn't. It gets even more complicated when you look at the decision engineers face when deciding where to work. How do we understand individual creators' individual responsibility in the complex and overwhelming world? 
 
 The difficulty comes partly from the historical fact that intentions (un)fortunately don't count. Gene editing is a technology that could save us from world hunger or be used to manufacture deadly viruses. Today's most important technologies — flight, radio, the computer, the internet — began as military projects yet could be the foundations of utopia.
 
