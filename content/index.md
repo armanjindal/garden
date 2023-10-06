@@ -69,7 +69,7 @@ I chose an opinionated, open-source stack to build this site to support this lof
 With these tools, writing here helps me produce an expanding network of thoughts to help me shape, affirm, and **live** a narrative I've shaped. 
 ## 🔗 Connect 
 
-I love meeting new people, and I will absolutely reply to every email that I get. If you have an opportunity where you think I will be a good fit, please do reach out. All I can promise is genuine curiosity and to pay it forward ☺️
+I love meeting new people, and I will reply to every email that I get. If you have an opportunity where you think I will be a good fit, please do reach out. All I can promise is genuine curiosity and to pay it forward ☺️
 
 Email: arman.jindal@hey.com || arman.jindal@columbia.edu
 GitHub: https://github.com/armanjindal
