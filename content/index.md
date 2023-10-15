@@ -8,37 +8,25 @@ Hello, you! 👋
 
 Welcome to my garden 🪴
 
-Here, you will find writing on what I've thought, built, and done. This is what I am up to [now](digital-garden/now.md).  I am currently on a four-month sabbatical traveling starting in Amsterdam and ending in India. You can follow along and subscribe to my "muse-letter" [here](https://world.hey.com/arman.jindal/my-travel-muse-letter-afeac6a7). 
+This "garden" is, decidedly, not a blog.  Peruse at your leisure to see what that means. Cmd + K to search.Here, you will find writing on what I've thought, built, and done. This is what I am up to [now](digital-garden/now.md).  
 
-This "garden" is, decidedly, not a blog. Please peruse your leisure. Here are links on the [*meta*(phor) of the *garden*](https://armanjindal.github.io/#-the-garden-metaphor),  [me](digital-garden/me.md), and to [connect](https://armanjindal.github.io/#-connect)
-
-Click around. Cmd + K to search by keyword 🕵️‍♂️
-####  *Darśana* (philosophy)
-- [The Physical World in Islamic Philosophy — Ibn Tufayl's Philosophical Tale](digital-garden/philosophy/Ibn-Tufayl.md)
-- [Almost 60 Years On... The Inescapability of Gettier Cases and a Perpetually Broken Concept of Knowledge](digital-garden/philosophy/The-Inescapability-of-Gettier%20Cases.md)
-- [Language Matters](digital-garden/philosophy/Language-Matters.md)
-	- [Find Rhythm. Not Momentum](digital-garden/philosophy/Rhythm-Not-Momentum.md)
-#### *Technik* (technology) 
-- [Leaning Imperative](https://dev.37signals.com/leaning-imperative/) - A blog post on [37signals](https://37signals.com/) the philosophy of DevOps infrastructure tools.
-- [Technical "Power" & Power Use(rs)](digital-garden/technology/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md)
--  [The Political Programmer - Drawing on Walter Benjamin's Politics of Art & Artist](digital-garden/technology/The-Political-Programmer.md)
-####  *Technē* (art)
-- [Beneath Form and Content - Susan Sontag's Epistemology of Interpreting Art](digital-garden/philosophy/Beyond-Form-Content.md)
-- [Eternal Spring — Rodin on Creation in the Met](digital-garden/art/Rodin/Eternal%20Spring%20—%20A%20Formal%20Analysis%20of%20Rodin.md)
-- [Imagining Infinity — Gego in the Guggenheim](digital-garden/art/Geggo/Imagining%20Infinity%20—%20Gego.md)
+I am on a three-month sabbatical independent traveling, writing, and programming trip starting in Amsterdam and ending in India. You can follow along my "muse-letter" [here](https://world.hey.com/arman.jindal/my-travel-muse-letter-afeac6a7) to muse along.
 
 This is a growing list of [questions](digital-garden/Questions.md) I have and a (hopefully shrinking!) list of the [tools](digital-garden/Tools.md) I use. 
-
 ## 🧐 Who Am I?
 
-Identity. It's one of the most philosophically loaded questions we answer every day. The poignance and complexity of this question are captured in one of [my favorite scenes from television](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be) in one of my favorite shows, [Sense8](https://en.wikipedia.org/wiki/Sense8)— a sci-fi humanist thriller by the Wachowski's.
+Identity. It's one of the most philosophically loaded questions we answer every day. One [my favorite scenes from television](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be) captures its poignant complexity. The short version:
 
-I am a programmer, writer, [primal mover](https://www.youtube.com/watch?v=HpjVJbGMxaE), and curious builder. Check out my [me](digital-garden/me.md) page for the longer story. 
+I am a programmer, writer, [primal mover](https://www.youtube.com/watch?v=HpjVJbGMxaE), and curious builder. 
+
+Check out my [me](digital-garden/me.md) page for the longer story. 
 
 ## 🪴 The Garden Metaphor 
 
 > [ "Il faut cultiver notre jardin."](https://www.theschooloflife.com/article/cultivate-own-garden-voltaire/)  
 > — Voltaire, [Candide](https://en.wikipedia.org/wiki/Candide)
+
+I proudly and self-indulgently call this a "garden." Let me explain:
 
 Maggie Appleton defines the digital garden in [A Brief History and Ethos of the Digital Garden](https://maggieappleton.com/garden-history):
 
@@ -75,3 +63,18 @@ Email: arman.jindal@hey.com || arman.jindal@columbia.edu
 GitHub: https://github.com/armanjindal
 LinkedIn: www.linkedin.com/in/arman-jindal
 
+## 🗺️ A Map of the Garden
+
+####  *Darśana* (philosophy)
+- [The Physical World in Islamic Philosophy — Ibn Tufayl's Philosophical Tale](digital-garden/philosophy/Ibn-Tufayl.md)
+- [Almost 60 Years On... The Inescapability of Gettier Cases and a Perpetually Broken Concept of Knowledge](digital-garden/philosophy/The-Inescapability-of-Gettier%20Cases.md)
+- [Language Matters](digital-garden/philosophy/Language-Matters.md)
+	- [Find Rhythm. Not Momentum](digital-garden/philosophy/Rhythm-Not-Momentum.md)
+#### *Technik* (technology) 
+- [Leaning Imperative](https://dev.37signals.com/leaning-imperative/) - A blog post on [37signals](https://37signals.com/) the philosophy of DevOps infrastructure tools.
+- [Technical "Power" & Power Use(rs)](digital-garden/technology/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md)
+-  [The Political Programmer - Drawing on Walter Benjamin's Politics of Art & Artist](digital-garden/technology/The-Political-Programmer.md)
+####  *Technē* (art)
+- [Beneath Form and Content - Susan Sontag's Epistemology of Interpreting Art](digital-garden/philosophy/Beyond-Form-Content.md)
+- [Eternal Spring — Rodin on Creation in the Met](digital-garden/art/Rodin/Eternal%20Spring%20—%20A%20Formal%20Analysis%20of%20Rodin.md)
+- [Imagining Infinity — Gego in the Guggenheim](digital-garden/art/Geggo/Imagining%20Infinity%20—%20Gego.md)

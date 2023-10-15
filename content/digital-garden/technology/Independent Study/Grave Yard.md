@@ -8,18 +8,7 @@ Snippets of writing that I wanted to hold on to:
 - Some require more effective technical skills than others. The distinguishing feature of this kind of user and their use of the software is a feeling of comfort and agency to shape it for their needs. Power users are the ones who have mastered keyboard shortcuts. They know how to install or build plugins to extend functionality and stitch it into their workflow with other tools. 
 - I am also seeking to understand the implications of this distinct kind of use. The majority of work in this prospectus will focus on the definition of the concept and make an argument for its conceptual use to better understand the descriptive and normative implications of this unique and politically compelling relationship with technology. 
 
-
-
-
-
-
-
-
-
-    
-
 -   In his Two Bits Kelty examines the “cultural significance of free software”. In he shows how a “moral and ethical framework” underlie free software as a reorientation in the relationship between knowledge and power enabled by the infrastructure of the internet 
-    
 -   I am also interested in tracing how and why this particular relationship between user and producer of technology emerged. 
     
 -   Power users are similar to the “geeks” of the early Internet,
@@ -31,16 +20,13 @@ Snippets of writing that I wanted to hold on to:
 
 -   Claim:  
 -   Brought to the community through the use of software. 
-    
 
-    
 -   User generated content. 
-    
+
 -   Overcome the incredibly high technical barriers to entry to contribute. Kelty was obsessed with lowest level of infrastructure and placed a lot of importance on the infrastructure as a form of argumentation - but isn’t discord good enough?
     
 -   However, Power User can use running code (which doesn't even have to be code) as a form of argumentation at a level of abstraction above infrastructure, focused output.
     
-  
   
 Section II: Creating Subjects through User Design 
 -   SPAM Reactive Publics and the Creation of the Bewildered Subject - Nick Seaver (Spotify Recommendations) 
