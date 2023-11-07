@@ -6,43 +6,44 @@ opentoc: true
 
 Hello, you! 👋
 
-Welcome to my garden 🪴
+Welcome to my garden 🪴 
 
-This "garden" is, decidedly, not a blog. Here, you will find writing on what I've thought, built, and done. This is what I am up to [now](digital-garden/now.md).  
+Here, you will find writing on what I've thought, made, and done.
 
-Peruse at your leisure. Click around to read, Cmd + K to search.
+Peruse at your leisure. 
 
-I am on a three-month sabbatical traveling, writing, and programming. I started in Amsterdam will end in Pune, India. If you'd like to follow along vicariously, subscribe to my "muse-letter" [here](https://world.hey.com/arman.jindal/my-travel-muse-letter-afeac6a7) and you'll get travel updates in your inbox!
-
-This is a growing list of [questions](digital-garden/Questions.md) I have and a (hopefully shrinking!) list of the [tools](digital-garden/Tools.md) I use. 
+This is what I am up to [now](digital-garden/now.md), and my growing list of [questions](digital-garden/Questions.md)(hopefully shrinking!) list of the [tools](digital-garden/Tools.md)  
 ## 🧐 Who Am I?
 
-We are always answering this question. Identity is fundamental and philosophically loaded. One [my favorite scenes](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be)from Sens8 captures its poignant complexity. In less than 10 words:
+We answer this question, in some form, everyday. From the clothes we wear, to the work we do, the modern human is thrown into explaining themselves to other. But contra Descarte and per Berkley: *to be is to be perceived*.  [My favorite scenes](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be)from one of my favorite shows [Sense8](https://en.wikipedia.org/wiki/Sense8) captures this innocuous questions poignant complexity. T
 
-I am a programmer, writer, maker and [primal mover](https://www.youtube.com/watch?v=HpjVJbGMxaE). 
+That said, this is "who I am" in less than 10 words. 
 
-Click on my [me](digital-garden/me.md) page for the longer story. 
+I am a: **programmer, writer, meditator, [animal](https://www.youtube.com/watch?v=HpjVJbGMxaE), humanist, friend, brother and son** 
 
+Click on my [me](digital-garden/me.md) page for the longer story.  I'd ❤️ to [connect](https://armanjindal.github.io/#-connect) for a conversation to hear yours. 
 ## 🪴 The Garden Metaphor 
 
 > [ "Il faut cultiver notre jardin."](https://www.theschooloflife.com/article/cultivate-own-garden-voltaire/)  
-> — Voltaire, [Candide](https://en.wikipedia.org/wiki/Candide)
+> — Voltaire. The final line of [Candide](https://en.wikipedia.org/wiki/Candide)
 
-I proudly and self-indulgently call this a "garden" — not a blog. Let me explain:
+This is intentionally (and self-indulgently) a "garden" — not a blog. 
 
-Maggie Appleton definition of the digital garden in [A Brief History and Ethos of the Digital Garden](https://maggieappleton.com/garden-history) is a good starting point:
+Maggie Appleton definition in [A Brief History and Ethos of the Digital Garden](https://maggieappleton.com/garden-history) provides a good starting point:
 
 > A garden is a collection of evolving ideas that aren't strictly organized by their publication date. They're inherently exploratory – notes are linked through contextual associations. They aren't refined or complete - notes are published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal websites we're used to seeing.
 
-The metaphor of "garden" is much richer than that. 
+The metaphor of "garden" is much richer. 
 
-Gardens are a primordial place of *creation*. Unlike blogs which are comprised of distinct, complete, organized writing — gardens are chaotic. Comprised of a gradually growing network of notes, they respond to the environment and to the naked eye grow too slow to notice. Like the act of *physically* gardening, writing is radically incremental. **It isn't heroic or final.**  One is never *done* working on their garden. That would be ridiculous. But one day, you see something alive. 
+Gardens are a primordial place of *creation*. Unlike blogs which are comprised of distinct, complete, organized writing — gardens always chaotically grow. Comprised of a network of notes, they responding to the environment, often so slowly that the naked eye notices no difference. Like the act of *physically* gardening, writing here radically incremental. **It isn't heroic or final.**  One is never *done* working on their garden. That would be ridiculous. But one day after a good days work,  you look up (from your laptop) and see something alive. 
 
-By gardening here, I hope to bring these pages *alive*. The best places have "life" ([Timeless Way of Building](https://en.wikipedia.org/wiki/The_Timeless_Way_of_Building)). Call it vibes, a feeling, energy, juju: life is that intangible but real quality in people, places, and things. "Life" emerges at an untraceable point. Its presence isn't always recognized but its absence is. 
+By gardening here, I hope to bring these pages *alive*. The best places have "life"(see:[Timeless Way of Building](https://en.wikipedia.org/wiki/The_Timeless_Way_of_Building)). Call it vibes, a feeling, energy, juju: life is that intangible but real quality in people, places, and things. "Life" emerges at an untraceable point. Its presence isn't always recognized but its absence is. 
 
-Most of my pieces are *saplings.* Expect some typos, incomplete sentences, and notes with little structure. The writing here isn't my considered "final" opinion. In fact, I hope to see it change and die. This is good. 
+Most of my pieces are *saplings.* Expect some typos, incomplete sentences, and notes with little structure. The writing here isn't my considered "final" opinion. In fact, the only thing I am certain of — thing here will change and die. This is good. 
 
-Ideas are helpful insofar as they lead to **life**: action, community, flourishing, and further questions. "Bad ideas" are anything that distracts the energy and attention the "best ideas" demand. I am the measure of"good" and "bad" and I will change over time. Exposing my thoughts on the page as clearly as possible will help me test theory against *reality*, unafraid to modify, discard, and eradicate the bad. Death and the release of resource has always been the nature's way of seeding the new life. 
+Ideas are helpful insofar as they lead to **life**: action, community, flourishing, and further questions. "Bad ideas" are anything that distracts the energy and attention the "best ideas" demand. I am unabashedly the measure of"good" and "bad."  "I" will change over time.
+
+Exposing my thoughts on the page as clearly as possible helps measure theory against *reality*, unafraid to modify, discard, and eradicate the bad. Death  and the release of resource has always been the nature's way of seeding the new life. 
 
 I haven't started this garden to be *right*. It is a place for me to work in public, build a second brain, and write. It's a long-term project to reap the compounding benefits of knowledge, form and find community, and a platform for self-expression without the evils of social media. 
 
@@ -56,17 +57,11 @@ The writing here, the plants growing in this garden, are not isolated, but neith
 
 I chose an opinionated, open-source stack to build this site to support this self-examination. I use [Obsidian](https://obsidian.md/) to write — a [power user native](digital-garden/technology/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md), markdown note editor.  I publish this site using an open-source tool built by [Jacky Zhao](https://jzhao.xyz/) called [Quartz](https://github.com/jackyzha0/quartz#quartz), which compiles the `markdown` files in my local Obsidian vault into a static HTML site. All pages are versioned on [GitHub](https://github.com/armanjindal/armanjindal.github.io/commit/hugo), so there is a permanent, timestamped, line-by-line record of every change. I hope to revisit the commit histories to understand how my thinking changed. 
 
-Writing here, equipped with these power tools, helps me produce an expanding network of thoughts to help me shape, affirm, and **live** a narrative I can mould. 
-## 🔗 Connect 
-
-Please, if you've read till here, send me an email. I love meeting new people, the slowness of email. I will reply to every one that I get. If you have an opportunity where you think I will be a good fit, please do reach out. All I can promise is genuine curiosity, lots of questions, and that I will always pay it forward ☺️
-
-Email: arman.jindal@hey.com || arman.jindal@columbia.edu
-GitHub: https://github.com/armanjindal
-LinkedIn: www.linkedin.com/in/arman-jindal
+Writing here, equipped with these power tools, helps me produce an expanding network of thoughts to help me shape, affirm, and **live** a narrative I am moulding everyday. 
 
 ## 🗺️ A Map of the Garden
 
+> "[The map is not the territory](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)" — [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski "Alfred Korzybski") 
 ####  *Darśana* (philosophy)
 - [The Physical World in Islamic Philosophy — Ibn Tufayl's Philosophical Tale](digital-garden/philosophy/Ibn-Tufayl.md)
 - [Almost 60 Years On... The Inescapability of Gettier Cases and a Perpetually Broken Concept of Knowledge](digital-garden/philosophy/The-Inescapability-of-Gettier%20Cases.md)
@@ -80,3 +75,12 @@ LinkedIn: www.linkedin.com/in/arman-jindal
 - [Beneath Form and Content - Susan Sontag's Epistemology of Interpreting Art](digital-garden/philosophy/Beyond-Form-Content.md)
 - [Eternal Spring — Rodin on Creation in the Met](digital-garden/art/Rodin/Eternal%20Spring%20—%20A%20Formal%20Analysis%20of%20Rodin.md)
 - [Imagining Infinity — Gego in the Guggenheim](digital-garden/art/Geggo/Imagining%20Infinity%20—%20Gego.md)
+
+## 🔗 Connect 
+
+Please send me an email! I love meeting new people and ❤️ email. I will reply to every one that I get. If you have an opportunity where you think I will be a good fit, please do reach out. All I can promise is good questions, genuine curiosity, and that I will always pay it forward ☺️
+
+Email: arman.jindal@hey.com || arman.jindal@columbia.edu
+GitHub: https://github.com/armanjindal
+LinkedIn: www.linkedin.com/in/arman-jindal
+
