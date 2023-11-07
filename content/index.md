@@ -2,17 +2,15 @@
 title: Arman's (Wild) Digital Garden
 opentoc: true
 ---
-##  🌊 Welcome 
-
 Hello, you! 👋
 
 Welcome to my garden 🪴 
 
 Here, you will find writing on what I've thought, made, and done.
 
-Peruse at your leisure. 
+Peruse at your leisure. Here's a [map](#🗺️%20A%20Map). Cmd+K to search. 
 
-This is what I am up to [now](digital-garden/now.md), and my growing list of [questions](digital-garden/Questions.md)(hopefully shrinking!) list of the [tools](digital-garden/Tools.md)  
+This is what I am up to [now](digital-garden/now.md), the [tools](digital-garden/Tools.md) I use, and a growing list of [questions](digital-garden/Questions.md)!
 ## 🧐 Who Am I?
 
 We answer this question, in some form, everyday. From the clothes we wear, to the work we do, the modern human is thrown into explaining themselves to other. But contra Descarte and per Berkley: *to be is to be perceived*.  [My favorite scenes](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be)from one of my favorite shows [Sense8](https://en.wikipedia.org/wiki/Sense8) captures this innocuous questions poignant complexity. T
@@ -59,7 +57,7 @@ I chose an opinionated, open-source stack to build this site to support this sel
 
 Writing here, equipped with these power tools, helps me produce an expanding network of thoughts to help me shape, affirm, and **live** a narrative I am moulding everyday. 
 
-## 🗺️ A Map of the Garden
+## 🗺️ A Map 
 
 > "[The map is not the territory](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)" — [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski "Alfred Korzybski") 
 ####  *Darśana* (philosophy)
