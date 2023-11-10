@@ -8,18 +8,16 @@ Welcome to my garden 🪴
 
 Here, you will find writing on what I've thought, made, and done.
 
-Peruse at your leisure. Here's a [map](#🗺️%20A%20Map). Cmd+K to search. 
+Peruse at your leisure. Here's a [map](#🗺️%20A%20Map). Cmd+K to search. Check out the graph -> 
 
 This is what I am up to [now](digital-garden/now.md), the [tools](digital-garden/Tools.md) I use, and a growing list of [questions](digital-garden/Questions.md)!
 ## 🧐 Who Am I?
 
-We answer this question, in some form, everyday. From the clothes we wear, to the work we do, the modern human is thrown into explaining themselves to other. But contra Descarte and per Berkley: *to be is to be perceived*.  [My favorite scenes](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be)from one of my favorite shows [Sense8](https://en.wikipedia.org/wiki/Sense8) captures this innocuous questions poignant complexity. T
+We answer this question, in some form, everyday. From the clothes we wear, to the work we do, the modern human is thrown into condition where they must explain themselves to the other. We can only truly know ourselves in the act. Contra Descarte and per Berkley: *to be is to be perceived*. [This](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be) scene from [Sense8](https://en.wikipedia.org/wiki/Sense8), one of my favorite shows, captures the innocuous and poignance of the very simple question. 
 
-That said, this is "who I am" in less than 10 words. 
+That said. I am a: **[programmer](https://github.com/armanjindal), writer, meditator, [animal](https://www.youtube.com/watch?v=HpjVJbGMxaE), humanist, friend, brother and son**.
 
-I am a: **programmer, writer, meditator, [animal](https://www.youtube.com/watch?v=HpjVJbGMxaE), humanist, friend, brother and son** 
-
-Click on my [me](digital-garden/me.md) page for the longer story.  I'd ❤️ to [connect](https://armanjindal.github.io/#-connect) for a conversation to hear yours. 
+Click on my [me](digital-garden/me.md) page for the longer story.  I'd ❤️ to [connect](https://armanjindal.github.io/#-connect) and hear yours. 
 ## 🪴 The Garden Metaphor 
 
 > [ "Il faut cultiver notre jardin."](https://www.theschooloflife.com/article/cultivate-own-garden-voltaire/)  
@@ -27,11 +25,10 @@ Click on my [me](digital-garden/me.md) page for the longer story.  I'd ❤️ to
 
 This is intentionally (and self-indulgently) a "garden" — not a blog. 
 
-Maggie Appleton definition in [A Brief History and Ethos of the Digital Garden](https://maggieappleton.com/garden-history) provides a good starting point:
-
 > A garden is a collection of evolving ideas that aren't strictly organized by their publication date. They're inherently exploratory – notes are linked through contextual associations. They aren't refined or complete - notes are published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal websites we're used to seeing.
+> — Maggie Appleton, [A Brief History and Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 
-The metaphor of "garden" is much richer. 
+I find the metaphor of the "garden" much richer. 
 
 Gardens are a primordial place of *creation*. Unlike blogs which are comprised of distinct, complete, organized writing — gardens always chaotically grow. Comprised of a network of notes, they responding to the environment, often so slowly that the naked eye notices no difference. Like the act of *physically* gardening, writing here radically incremental. **It isn't heroic or final.**  One is never *done* working on their garden. That would be ridiculous. But one day after a good days work,  you look up (from your laptop) and see something alive. 
 
