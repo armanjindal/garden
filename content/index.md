@@ -6,18 +6,12 @@ Hello, you! 👋
 
 Welcome to my garden 🪴 
 
-Here, you will find writing on what I've thought, made, and done.
+Here, you will find writing on what I've thought, made, and done. It's all still growing and will never stop.
 
-Peruse at your leisure. Here's a [map](#🗺️%20A%20Map). Cmd+K to search. Check out the graph -> 
+Peruse at your leisure. Below is a [map](#🗺️%20A%20Map). Cmd+K to search. To jump around  -> 
 
-This is what I am up to [now](digital-garden/now.md), the [tools](digital-garden/Tools.md) I use, and a growing list of [questions](digital-garden/Questions.md)!
-## 🧐 Who Am I?
+This is what I am up to [now](digital-garden/now.md), the [tools](digital-garden/Tools.md) I use, and a growing list of [questions](digital-garden/Questions.md) I have. 
 
-We answer this question, in some form, everyday. From the clothes we wear, to the work we do, the modern human is thrown into condition where they must explain themselves to the other. We can only truly know ourselves in the act. Contra Descarte and per Berkley: *to be is to be perceived*. [This](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be) scene from [Sense8](https://en.wikipedia.org/wiki/Sense8), one of my favorite shows, captures the innocuous and poignance of the very simple question. 
-
-That said. I am a: **[programmer](https://github.com/armanjindal), writer, meditator, [animal](https://www.youtube.com/watch?v=HpjVJbGMxaE), humanist, friend, brother and son**.
-
-Click on my [me](digital-garden/me.md) page for the longer story.  I'd ❤️ to [connect](https://armanjindal.github.io/#-connect) and hear yours. 
 ## 🪴 The Garden Metaphor 
 
 > [ "Il faut cultiver notre jardin."](https://www.theschooloflife.com/article/cultivate-own-garden-voltaire/)  
@@ -32,11 +26,11 @@ I find the metaphor of the "garden" much richer.
 
 Gardens are a primordial place of *creation*. Unlike blogs which are comprised of distinct, complete, organized writing — gardens always chaotically grow. Comprised of a network of notes, they responding to the environment, often so slowly that the naked eye notices no difference. Like the act of *physically* gardening, writing here radically incremental. **It isn't heroic or final.**  One is never *done* working on their garden. That would be ridiculous. But one day after a good days work,  you look up (from your laptop) and see something alive. 
 
-By gardening here, I hope to bring these pages *alive*. The best places have "life"(see:[Timeless Way of Building](https://en.wikipedia.org/wiki/The_Timeless_Way_of_Building)). Call it vibes, a feeling, energy, juju: life is that intangible but real quality in people, places, and things. "Life" emerges at an untraceable point. Its presence isn't always recognized but its absence is. 
+By gardening here, I hope to bring these pages *alive*. The best places have "life"(see:[Timeless Way of Building](https://en.wikipedia.org/wiki/The_Timeless_Way_of_Building)). You feel it when you walk in. Call it vibes, a feeling, energy, juju: what I call "life" is that intangible but real quality in people, places, and things. 
 
-Most of my pieces are *saplings.* Expect some typos, incomplete sentences, and notes with little structure. The writing here isn't my considered "final" opinion. In fact, the only thing I am certain of — thing here will change and die. This is good. 
+Most of my pieces are *saplings.* Expect some typos, incomplete sentences, and notes with little structure. The writing here isn't my considered "final" opinion. In fact, the only certainty I have is that much will change and die. This is good. 
 
-Ideas are helpful insofar as they lead to **life**: action, community, flourishing, and further questions. "Bad ideas" are anything that distracts the energy and attention the "best ideas" demand. I am unabashedly the measure of"good" and "bad."  "I" will change over time.
+Ideas are helpful insofar as they lead to **life**: action, community, flourishing, and further questions. "Bad ideas" are anything that distracts the energy and attention the "best ideas" demand. So with that naturalistic picture, death is good. I am unabashedly the measure of"good" and "bad."  "I" will change over time.
 
 Exposing my thoughts on the page as clearly as possible helps measure theory against *reality*, unafraid to modify, discard, and eradicate the bad. Death  and the release of resource has always been the nature's way of seeding the new life. 
 
@@ -71,9 +65,16 @@ Writing here, equipped with these power tools, helps me produce an expanding net
 - [Eternal Spring — Rodin on Creation in the Met](digital-garden/art/Rodin/Eternal%20Spring%20—%20A%20Formal%20Analysis%20of%20Rodin.md)
 - [Imagining Infinity — Gego in the Guggenheim](digital-garden/art/Geggo/Imagining%20Infinity%20—%20Gego.md)
 
+## 🧐 Who Am I?
+
+We answer this question, in some form, everyday. From the clothes we wear to the work we do. The modern human is thrown into condition where we must explain ourself to the other. Contra Descarte and per Berkley: *to be is to be perceived*. Just as "All the worlds a stage" can be a lament, it can be a celebration.  [This](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be) scene from [Sense8](https://en.wikipedia.org/wiki/Sense8), one of my favorite shows, captures the innocuous poignance of that question. 
+
+That said. I am a **[programmer](https://github.com/armanjindal), writer, meditator, [animal](https://www.youtube.com/watch?v=HpjVJbGMxaE), humanist, friend, brother and son**.
+
+Click on my [me](digital-garden/me.md) page for the longer story.  I'd ❤️ to [connect](https://armanjindal.github.io/#-connect) and hear yours. 
 ## 🔗 Connect 
 
-Please send me an email! I love meeting new people and ❤️ email. I will reply to every one that I get. If you have an opportunity where you think I will be a good fit, please do reach out. All I can promise is good questions, genuine curiosity, and that I will always pay it forward ☺️
+Please send me an email! I love meeting new people and ❤️ email. I will reply to every one that I get. If you have an opportunity where you think I will be a good fit, please do reach out. All I can promise is good questions, genuine curiosity, and that I never forget to pay your generosity forward ☺️
 
 Email: arman.jindal@hey.com || arman.jindal@columbia.edu
 GitHub: https://github.com/armanjindal

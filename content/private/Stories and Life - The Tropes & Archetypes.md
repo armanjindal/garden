@@ -4,7 +4,6 @@
 
 The personal expereience theat motivates this question
 
-
 - Underlying this question is a humanist idea that "helpful" means leading to feelings of meaningful connection we all need and find nourishing, and "harmful" is defind in the converse of preventing that. 
 
 - What you did when I was forced to conceptulize myself in terms of the trope or the archetype, is it drained the interaction of all the particular features. 
