@@ -1,15 +1,17 @@
 ---
 title: Questions 
 ---
-- "**Why are some people made more human by studying the 'humanities' and others less?**"
+- "**Why are some people made more human by  the 'humanities' and others less human?**"
 
-Sometimes I come across people whose humanity is both deepend and broadened by their experience of culture. These people to breath and exude wisdom. They often hold the ordinary in reverence.
+Sometimes I come across people whose humanity is both deepend and broadened by engagement with "culture." 
 
-Other times I meet the ivory towered, misanthropic, nihilist, whose so much smarter than you are and read way more then you. Somehow, their consumption of culture makes them see the ordinary with disdain. They are made less human by the humanities. I find these "scholars" intolerable. 
+Other times I meet the ivory towered, misanthropic, nihilist, who've "consumed" culture and are less human for it. They are so much smarter than you are and have read way more then you. They are made less human by the humanities. 
 
 Why is it? 
 
 Is it ego? Internalized objectivity? I think it may be because they sought to use these texts and art, to fill a hole in life. It's a category error to think that these alone nourish the soul. We require friends, recognition, community, to move and breath fresh air, sunlight — not just books and paintings. 
+
+I've noticed that those made humane by the humanities often see the normal, the mundane with reverence. Since it is truly magical (and in many could've been much worse) that the way unfolded as it did. The misanthropic idealist often see the mundane with a bitter contempt. 
 
 - "**What's your type?**"
 

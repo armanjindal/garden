@@ -6,9 +6,27 @@ Hello, you! 👋
 
 Welcome to my garden 🪴 
 
-Here, you will find writing on what I've thought, made, and done. It's all still growing and will never stop. It's more chaotic than a blog. Peruse at your leisure. Below is a [map](#🗺️Map). Cmd+K to search. 
+Here, you will find writing on what I've thought, made, and done. It's all still growing and will never stop. It's more chaotic than a blog. Peruse at your leisure. Cmd+K to search by keyword. Below is a map 🗺️. 
 
 This is what I am up to [now](digital-garden/now.md), the [tools](digital-garden/Tools.md) I use, and a growing list of [questions](digital-garden/Questions.md) I have. 
+
+## 🗺️ Map 
+
+> "[The map is not the territory](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)" — [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski "Alfred Korzybski") 
+####  *Darśana* (philosophy)
+- [The Physical World in Islamic Philosophy — Ibn Tufayl's Philosophical Tale](digital-garden/philosophy/Ibn-Tufayl.md)
+- [Almost 60 Years On... The Inescapability of Gettier Cases and a Perpetually Broken Concept of Knowledge](digital-garden/philosophy/The-Inescapability-of-Gettier%20Cases.md)
+- [Language Matters](digital-garden/philosophy/Language-Matters.md)
+	- [Find Rhythm. Not Momentum](digital-garden/philosophy/Rhythm-Not-Momentum.md)
+#### *Technik* (technology) 
+- [Leaning Imperative](https://dev.37signals.com/leaning-imperative/) - A blog post on [37signals](https://37signals.com/)'s DevOps team contrarian leaning toward 'imperative' infrastructure tools, and it's change on their tooling philosophy as a result of the migration off cloud to on-prem data centers. 
+- Work in Progress... 🌿
+	- ["Power" & Power Use(rs)](digital-garden/technology/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md) 
+	-  [The Political Programmer - Drawing on Walter Benjamin's Politics of Art & Artist](digital-garden/technology/The-Political-Programmer.md)
+####  *Technē* (art)
+- [Beneath Form and Content - Susan Sontag's Epistemology of Interpreting Art](digital-garden/philosophy/Beyond-Form-Content.md)
+- [Eternal Spring — Rodin on Creation in the Met](digital-garden/art/Rodin/Eternal%20Spring%20—%20A%20Formal%20Analysis%20of%20Rodin.md)
+- [Imagining Infinity — Gego in the Guggenheim](digital-garden/art/Geggo/Imagining%20Infinity%20—%20Gego.md)
 
 ## 🪴 The Garden Metaphor 
 
@@ -45,35 +63,16 @@ The writing here, the plants growing in this garden, are not isolated, but neith
 I chose an opinionated, open-source stack to build this site to support this self-examination. I use [Obsidian](https://obsidian.md/) to write — a [power user native](digital-garden/technology/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md), markdown note editor.  I publish this site using an open-source tool built by [Jacky Zhao](https://jzhao.xyz/) called [Quartz](https://github.com/jackyzha0/quartz#quartz), which compiles the `markdown` files in my local Obsidian vault into a static HTML site. All pages are versioned on [GitHub](https://github.com/armanjindal/armanjindal.github.io/commit/hugo), so there is a permanent, timestamped, line-by-line record of every change. I hope to revisit the commit histories to understand how my thinking changed. 
 
 Writing here, equipped with these power tools, helps me produce an expanding network of thoughts to help me shape, affirm, and **live** a narrative I am moulding everyday. 
+## 🧐 Me ?
 
-## 🗺️ Map 
+We answer this question, in some form, everyday. The modern human is thrown into condition where we must constantly explain ourself to the other. I am not  
 
-> "[The map is not the territory](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)" — [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski "Alfred Korzybski") 
-####  *Darśana* (philosophy)
-- [The Physical World in Islamic Philosophy — Ibn Tufayl's Philosophical Tale](digital-garden/philosophy/Ibn-Tufayl.md)
-- [Almost 60 Years On... The Inescapability of Gettier Cases and a Perpetually Broken Concept of Knowledge](digital-garden/philosophy/The-Inescapability-of-Gettier%20Cases.md)
-- [Language Matters](digital-garden/philosophy/Language-Matters.md)
-	- [Find Rhythm. Not Momentum](digital-garden/philosophy/Rhythm-Not-Momentum.md)
-#### *Technik* (technology) 
-- [Leaning Imperative](https://dev.37signals.com/leaning-imperative/) - A blog post on [37signals](https://37signals.com/)'s DevOps team contrarian leaning toward 'imperative' infrastructure tools, and it's change on their tooling philosophy as a result of the migration off cloud to on-prem data centers. 
-- Work in Progress... 🌿
-	- ["Power" & Power Use(rs)](digital-garden/technology/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md) 
-	-  [The Political Programmer - Drawing on Walter Benjamin's Politics of Art & Artist](digital-garden/technology/The-Political-Programmer.md)
-####  *Technē* (art)
-- [Beneath Form and Content - Susan Sontag's Epistemology of Interpreting Art](digital-garden/philosophy/Beyond-Form-Content.md)
-- [Eternal Spring — Rodin on Creation in the Met](digital-garden/art/Rodin/Eternal%20Spring%20—%20A%20Formal%20Analysis%20of%20Rodin.md)
-- [Imagining Infinity — Gego in the Guggenheim](digital-garden/art/Geggo/Imagining%20Infinity%20—%20Gego.md)
-
-## 🧐 Who Am I?
-
-We answer this question, in some form, everyday. From the clothes we wear to the work we do. The modern human is thrown into condition where we must explain ourself to the other. Contra Descarte and per Berkley: *to be is to be perceived*. Just as "All the worlds a stage" can be a lament, it can be a celebration.  [This](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be) scene from [Sense8](https://en.wikipedia.org/wiki/Sense8), one of my favorite shows, captures the innocuous poignance of that question. 
-
-That said. I am a **[programmer](https://github.com/armanjindal), writer, meditator, [animal](https://www.youtube.com/watch?v=HpjVJbGMxaE), humanist, friend, brother and son**.
+"All the worlds a stage" is lament if we cling to this idea stable, "authentic" self. It can be a celebration of the fact that we are socially constructed, and invitation to play and perform.  [This](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be) scene from [Sense8](https://en.wikipedia.org/wiki/Sense8), one of my favorite shows, captures the innocuous poignance of that question. 
 
 Click on my [me](digital-garden/me.md) page for the longer story.  I'd ❤️ to [connect](https://armanjindal.github.io/#-connect) and hear yours. 
 ## 🔗 Connect 
 
-Please send me an email! I love meeting new people and ❤️ email. I will reply to every one that I get. If you have an opportunity where you think I will be a good fit, please do reach out. All I can promise is good questions, genuine curiosity, and that I never forget to pay your generosity forward ☺️
+Please send me an email! I love meeting new people. I will reply to every email I get. If you have an opportunity where you think I will be a good fit, please do reach out. All I can promise is good questions, genuine curiosity, and that I will pay your generosity forward ☺️
 
 Email: arman.jindal@hey.com || arman.jindal@columbia.edu
 GitHub: https://github.com/armanjindal
