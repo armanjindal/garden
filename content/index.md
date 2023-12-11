@@ -6,9 +6,7 @@ Hello, you! 👋
 
 Welcome to my garden 🪴 
 
-Here, you will find writing on what I've thought, made, and done. It's all still growing and will never stop.
-
-Peruse at your leisure. Below is a [map](#🗺️%20A%20Map). Cmd+K to search. To jump around  -> 
+Here, you will find writing on what I've thought, made, and done. It's all still growing and will never stop. It's more chaotic than a blog. Peruse at your leisure. Below is a [map](#🗺️Map). Cmd+K to search. 
 
 This is what I am up to [now](digital-garden/now.md), the [tools](digital-garden/Tools.md) I use, and a growing list of [questions](digital-garden/Questions.md) I have. 
 
@@ -17,7 +15,7 @@ This is what I am up to [now](digital-garden/now.md), the [tools](digital-garden
 > [ "Il faut cultiver notre jardin."](https://www.theschooloflife.com/article/cultivate-own-garden-voltaire/)  
 > — Voltaire. The final line of [Candide](https://en.wikipedia.org/wiki/Candide)
 
-This is intentionally (and self-indulgently) a "garden" — not a blog. 
+This is intentionally (and self-indulgently) called a "garden" — not a blog. 
 
 > A garden is a collection of evolving ideas that aren't strictly organized by their publication date. They're inherently exploratory – notes are linked through contextual associations. They aren't refined or complete - notes are published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal websites we're used to seeing.
 > — Maggie Appleton, [A Brief History and Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
@@ -48,7 +46,7 @@ I chose an opinionated, open-source stack to build this site to support this sel
 
 Writing here, equipped with these power tools, helps me produce an expanding network of thoughts to help me shape, affirm, and **live** a narrative I am moulding everyday. 
 
-## 🗺️ A Map 
+## 🗺️ Map 
 
 > "[The map is not the territory](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)" — [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski "Alfred Korzybski") 
 ####  *Darśana* (philosophy)
