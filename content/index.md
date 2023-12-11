@@ -35,7 +35,7 @@ Exposing my thoughts on the page as clearly as possible helps measure theory aga
 I haven't started this garden to be *right*. It is a place for me to work in public, build a second brain, and write. It's a long-term project to reap the compounding benefits of knowledge, form and find community, and a platform for self-expression without the evils of social media. 
 
 Through consistent *gardening*, I hope to plant a few solid trees, nourished by the sunlight and the scrutiny of my readers. These oaks ground me in an overwhelming, confusing, contingent, and cruelly indifferent world. The few thoughts, ideas, books, and media I've decided to "cultivate" in a Voltarian sense, is my response to an infinity of complexity, suffering, and possibility. It's my earnest love letter to ideas: 
-1. That the good lives comes from [embracing limits](https://www.oliverburkeman.com/the-imperfectionist)
+1. That the "good life" requires us to [embrace limits](https://www.oliverburkeman.com/the-imperfectionist) rather than pretend they don't exist
 2. [Perfect is the enemy of the good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good) 
 3. The [unreasonable effectiveness of showing up every day](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/)
 4. Creativity by unabashedly [stealing like an artist](https://en.wikipedia.org/wiki/Steal_Like_an_Artist)
@@ -55,9 +55,10 @@ Writing here, equipped with these power tools, helps me produce an expanding net
 - [Language Matters](digital-garden/philosophy/Language-Matters.md)
 	- [Find Rhythm. Not Momentum](digital-garden/philosophy/Rhythm-Not-Momentum.md)
 #### *Technik* (technology) 
-- [Leaning Imperative](https://dev.37signals.com/leaning-imperative/) - A blog post on [37signals](https://37signals.com/)'s DevOps team contrarian leaning toward 'imperative' infrastructure tools, and it's change on their tooling philosophy as a result of the migration off cloud to on-prem datacenters. 
-- [Technical "Power" & Power Use(rs)](digital-garden/technology/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md) 
--  [The Political Programmer - Drawing on Walter Benjamin's Politics of Art & Artist](digital-garden/technology/The-Political-Programmer.md)
+- [Leaning Imperative](https://dev.37signals.com/leaning-imperative/) - A blog post on [37signals](https://37signals.com/)'s DevOps team contrarian leaning toward 'imperative' infrastructure tools, and it's change on their tooling philosophy as a result of the migration off cloud to on-prem data centers. 
+- Work in Progress... 🌿
+	- ["Power" & Power Use(rs)](digital-garden/technology/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md) 
+	-  [The Political Programmer - Drawing on Walter Benjamin's Politics of Art & Artist](digital-garden/technology/The-Political-Programmer.md)
 ####  *Technē* (art)
 - [Beneath Form and Content - Susan Sontag's Epistemology of Interpreting Art](digital-garden/philosophy/Beyond-Form-Content.md)
 - [Eternal Spring — Rodin on Creation in the Met](digital-garden/art/Rodin/Eternal%20Spring%20—%20A%20Formal%20Analysis%20of%20Rodin.md)
