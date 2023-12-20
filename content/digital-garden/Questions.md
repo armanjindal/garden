@@ -3,7 +3,7 @@ title: Questions
 ---
 - "**Why are some people made more human by  the 'humanities' and others less human?**"
 
-Sometimes I come across people whose humanity is both deepend and broadened by engagement with "culture." 
+Sometimes I come across people whose humanity is both deepened and broadened by engagement with "culture." 
 
 Other times I meet the ivory towered, misanthropic, nihilist, who've "consumed" culture and are less human for it. They are so much smarter than you are and have read way more then you. They are made less human by the humanities. 
 
