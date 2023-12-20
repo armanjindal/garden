@@ -65,9 +65,9 @@ I chose an opinionated, open-source stack to build this site to support this sel
 Writing here, equipped with these power tools, helps me produce an expanding network of thoughts to help me shape, affirm, and **live** a narrative I am moulding everyday. 
 ## 🧐 Me ?
 
-We answer this question, in some form, everyday. The modern human is thrown into condition where we must constantly explain ourself to the other. I am not  
+We answer this question, in some form, everyday. The modern human is thrown into condition where we must constantly explain ourself to the other. [This](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be) scene from [Sense8](https://en.wikipedia.org/wiki/Sense8), one of my favorite shows, captures the innocuous poignance of that question. 
 
-"All the worlds a stage" is lament if we cling to this idea stable, "authentic" self. It can be a celebration of the fact that we are socially constructed, and invitation to play and perform.  [This](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be) scene from [Sense8](https://en.wikipedia.org/wiki/Sense8), one of my favorite shows, captures the innocuous poignance of that question. 
+In short: I am a programmer, writer, humanist, (primal) mover and friendly human! 
 
 Click on my [me](digital-garden/me.md) page for the longer story.  I'd ❤️ to [connect](https://armanjindal.github.io/#-connect) and hear yours. 
 ## 🔗 Connect 
