@@ -2,23 +2,22 @@
 title: "The Political Programmer"
 opentoc: true
 ---
-## **The Political Programer** 
+> Ongoing revision process from an academic essay written in a Philosophy of Aesthetics and Politics seminar into something more digestible to the public. 
+## **The Political Programmer — Beyond Good & Evil, Into the How
 
-## *Not just what you build, but how you build it* 
+Gone are the days of "don't be evil." Tech companies and the individuals who work in them are realizing that good and evil are a bit harder to distinguish. The primary goal of this essay is to expand our notion of politics and responsibility in tech and to re-integrate this idea into what few have come to see as "apolitical." 
 
-Gone are the days of "don't be evil." Tech companies and the individuals that work in them are r
+Good vs. Evil:
 
-***Tech for good*.** You'll see it on shirts, on LinkedIn headlines, and social media posts.  At first sight, around my freshman year in college, it struck me as rather banal. Classifying tech as "good" or "bad" was pretty straightforward, I thought. Turns out, it isn't. 
-
-The difficulty comes partly from fact that technology isn't limited by its creators' indented use.  Gene editing is a technology that could save us from world hunger or be used to manufacture deadly viruses. Flight, radio, the computer, the internet, began as military projects.
+It's really hard to tell them apart when you discard obviously malicious intent. The difficulty comes partly from the fact that the technology creators' intended use doesn't limit technology.  Gene editing is a technology that could save us from world hunger or be used to manufacture deadly viruses. Flight, radio, the computer, and the internet began as military projects. Further, this is applied to business models, too. The attention economy of persuasive ads may be used for a 'good cause' but nonetheless normalizes a business model that is ultimately ruining individual lives and society. 
 
 No matter how good or bad technology may *seem*, we can never be sure of its impact on society. This might sound theoretical or historical, but for engineers and technologists who see themselves as powerful and their work as political (both of which are true, as I will argue), **nothing is more practical than the questions of what to build and what not to**. 
 
 My goal here is to expand our thinking about the politics of programming. SpecificallyI will not try to answer if technology is "good" or "bad" on the basis of what it immediate consequences. Instead, I will look at how it was made— its "technique." This approach comes from a seemingly unlikely source: a WWII German-Jewish political theorist of art, philosopher, and critic Walter Benjamin. Benjamin, wrote during the rise of fascism in Italy, Nazism in Germany, while Communism and Capitalism. Art, regardless of whether the author intended it, was political. 
 
-An artwork's "technique" is inextricably linked to its social, economic, political, and material conditions. He analyzeses technique to ask a surprisingly subtle question: can art change a society that led to its production? I hope to ask the same about technology.
+An artwork's "technique" is inextricably linked to its social, economic, political, and material conditions. He analyzes techniques to ask a surprisingly subtle question: can art change a society that led to its production? I hope to ask the same about technology.
 
-Through this essay, I will develop a parallel between the 21st-century programmer and the 20th-century artist. Using Benjamin's essay ["The Author as Producer"](https://yaleunion.org/wp-content/uploads/2013/12/Walter_Benjamin_-_The_Author_as_Producer.pdf) I reconstruct some of his critical ideas on the political nature of the artist and his notion of their "technique". Specifically, I conceptualize 'Big Tech' and 'Open Source' as "techniques" for producing technology and then analyze using Benjamin's political framework. This forms the basis of the political programmer, a new way of understanding the individual programmer's role in shaping political reality. 
+Through this essay, I will develop a parallel between the 21st-century programmer and the 20th-century artist. Using Benjamin's essay ["The Author as Producer"](https://yaleunion.org/wp-content/uploads/2013/12/Walter_Benjamin_-_The_Author_as_Producer.pdf) I reconstruct some of his critical ideas on the political nature of the artist and his notion of their "technique". Specifically, I conceptualize 'Big Tech' and 'Open Source' as "techniques" for producing technology and then analyze them using Benjamin's political framework. This forms the basis of the political programmer, a new way of understanding the individual programmer's role in shaping political reality. 
 
 ## Inescapably "Political":  Art & Technology
 

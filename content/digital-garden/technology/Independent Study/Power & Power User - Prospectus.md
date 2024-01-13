@@ -2,11 +2,8 @@
 title: "Power & Power User"
 opentoc: true
 ---
-> [!warn]
-> A work in progress. Turning this from an academic study in the style of the [Science and Technology Studies](https://sts-program.mit.edu/) to a public essay. 
 
-
-A Prospectus for an independent study and thesis for my senior year, originating from an incredible seminar on [Information—Computing—Infrastructure](http://www.columbia.edu/cu/bulletin/uwb/#/cu/bulletin/uwb/subj/HIST/GR8479-20223-001)(History GR8479) taught by Professor Matthew Jones in the Fall of 2022.
+> A work in progress. I am turning this from an academic study in the style of the [Science and Technology Studies](https://sts-program.mit.edu/) to a public essay. Ongoing revision process from an thesis outline written I wrote for an incredible seminar on [Information—Computing—Infrastructure](http://www.columbia.edu/cu/bulletin/uwb/#/cu/bulletin/uwb/subj/HIST/GR8479-20223-001)(History GR8479) taught by Professor Matthew Jones in the Fall of 2022.
 
 Primary Supervisor: Professor Matthew Jones
 
@@ -18,8 +15,7 @@ Potential Second Readers:
 
 (?) => I need to check if they would be open. 
 
-
-Reading:
+Reading List:
 * [Computing Tastes - Algorithms and the Makers of Music Recommendation](digital-garden/technology/Independent%20Study/book-notes/Computing%20Tastes%20-%20Algorithms%20and%20the%20Makers%20of%20Music%20Recommendation.md) by Nick Seaver
 * [The Participant](digital-garden/technology/Independent%20Study/book-notes/The%20Participant.md) by Christopher Kelty
 * [Three Ethical Moments in Debian](digital-garden/technology/Independent%20Study/book-notes/Three%20Ethical%20Moments%20in%20Debian.md) by Gabriella Coleman
