@@ -2,10 +2,15 @@
 title: "The Bhagavad-Gita"
 opentoc: true
 ---
+Unstructured Notes /Commentary on the Bhagavad Gita:
+Last Updated: January, 20th 2024
 
-Translation: [Barbara Stoler-Miller](https://en.wikipedia.org/wiki/Barbara_Stoler_Miller) (BM)
 
-The Second Teaching: Philosophy and Spiritual Discipline
+Translations: 
+- [Barbara Stoler-Miller](https://en.wikipedia.org/wiki/Barbara_Stoler_Miller) (BM)
+- [Laurie L. Patton](https://www.goodreads.com/book/show/463500.The_Bhagavad_Gita) (LP)
+
+Philosophy and Spiritual Discipline
 
 Page 37, Verse 39-40
 > No effort in this world 
@@ -69,17 +74,17 @@ by the fire of knowledge.
 > abandons possession 
 > and performs actions with his body alone
 
-
-Q: Discerning "action" from "inaction" is not trivial. "Acting" does not equaling "doing."
+- Discerning "action" from "inaction" is not trivial. "Acting" does not equal "doing."
 
 Q: Knowledge as "purifier"? 
 
-What is the ontological status of knowledge? What does it mean to be knowledge? In a Western context knowledge always is understood as additive. This idea is embedded into the language. We "gain" and "posses" knowledge as if it were a material quantity stored in our brain, like books on a shelf. Memory is a look up operation on this table. 
+What is the ontological status of knowledge? What does it mean to be knowledgeable? In a Western context, knowledge is always understood as additive. This idea is embedded into the language. We "gain" and "possess" knowledge as if it were a material quantity stored in our brain, like books on a shelf. Memory is a look-up operation on this table. 
 
-Though I do yet posses the language, this seems to refer to knowledge as purifying/subtractive quality. Much like  philosophical role of critique: it is the clearing of false/unhealthy belief.
+However, here, knowledge has a purifying/subtractive quality. Much like the philosophical role of critique, it is the clearing of false/unhealthy beliefs. 
 
-Q: What is the relationship between knowledge and action? On one end, knowledge arises from action, but also directs it.
+In the introductory section, Laurie Patton's section on the *gunas*, the three qualities of the universe *sattva*.  The term isn't just truth but its 'quality.' The quality is one of lightness. This is an interesting contrast where I've heard truth often described as a burdensome weight — something that is crushing. 
 
+Q: What is the relationship between knowledge and action? On one end, knowledge arises from action but also directs it.
 
 > Content with whatever comes by chance, 
 > beyond dualities, free from envy, 

@@ -1,21 +1,19 @@
 ---
-title: Arman's (Wild) Digital Garden
-opentoc: true
+title: Hypertext
+opentoc: false
 ---
 Hello, you! 👋
 
-Welcome to my garden 🪴 
+Welcome to my hyper-text garden 🪴 
 
-It's not a blog or *personal site*. I find [the metaphor of the garden](digital-garden/meta/The-Garden-Metaphor.md) is much richer. 
+This is not a blog or *personal site*. It is a growing mass of interconnected notes to peruse at your leisure. See [the metaphor of the garden](digital-garden/meta/The-Garden-Metaphor.md) for more on this!
 
-Here, you will find writing on what I've thought, made, and done. It's a growing mass of notes for you to peruse at your leisure (or peril!). 
 
-This is what I am up to [now](digital-garden/now.md), the [tools](digital-garden/Tools.md) I use a growing list of [questions](digital-garden/Questions.md) I have. 
-
-Cmd+K to search by keyword. There's also a bi-directional graph too. Here's a map to get started: 
 ## 🗺️ Map 
 
 > "[The map is not the territory](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)" — [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski "Alfred Korzybski") 
+
+This is what I am up to [now](digital-garden/now.md) and the [tools](digital-garden/Tools.md) I use. 
 ####  *Darśana* (philosophy)
 - [The Physical World in Islamic Philosophy — Ibn Tufayl's Philosophical Tale](digital-garden/philosophy/Ibn-Tufayl.md)
 - [Almost 60 Years On... The Inescapability of Gettier Cases and a Perpetually Broken Concept of Knowledge](digital-garden/philosophy/The-Inescapability-of-Gettier%20Cases.md)
@@ -33,9 +31,9 @@ Cmd+K to search by keyword. There's also a bi-directional graph too. Here's a ma
 
 ## 🧐 Who am I?
 
-We answer this question in some form every day. The modern human is thrown into a condition where we constantly explain ourselves to the other.  think it is wonderful, though it can be oppressive. [This](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be) scene from [Sense8](https://en.wikipedia.org/wiki/Sense8)(captures the innocuous poignance of that question. 
+We answer this question in some form every day. The modern human is thrown into a condition where we constantly explain ourselves to the other. This can be wonderful, though sometimes it can be oppressive. [This](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be) scene from [Sense8](https://en.wikipedia.org/wiki/Sense8) captures the innocuous poignance of that question. Philosophical qualifying aside. 
 
-In short, I am a programmer, writer, humanist-technologist, (primal) mover, and friendly human! 
+I am a programmer, writer, humanist-technologist, (primal) mover, and friendly human! 
 
 Click on my [me](digital-garden/meta/me.md) page for the longer story.  I'd ❤️ to [connect](https://armanjindal.github.io/#-connect) and hear yours. 
 ## 🔗 Connect 
@@ -46,4 +44,4 @@ Email: arman.jindal@hey.com || arman.jindal@columbia.edu
 GitHub: https://github.com/armanjindal
 LinkedIn: www.linkedin.com/in/arman-jindal
 
-Last Updated: January 13th, 2024
+Last Updated: January 29th, 2024
