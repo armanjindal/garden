@@ -1,19 +1,16 @@
 ---
 title: Hypertext
-opentoc: false
 ---
 Hello, you! 👋
 
 Welcome to my hyper-text garden 🪴 
 
-This is not a blog or *personal site*. It is a growing mass of interconnected notes to peruse at your leisure. See [the metaphor of the garden](digital-garden/meta/The-Garden-Metaphor.md) for more on this!
+This is not a blog or *personal site*. It is a self-indulgent, growing mass of interconnected notes. Peruse at your peril (or leisure!). See [the metaphor of the garden](digital-garden/meta/The-Garden-Metaphor.md) for more meta behind this Sisyphean endeavor!
 
-
+This is what I am up to [now](digital-garden/now.md) and the [tools](digital-garden/Tools.md) I use. 
 ## 🗺️ Map 
 
 > "[The map is not the territory](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)" — [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski "Alfred Korzybski") 
-
-This is what I am up to [now](digital-garden/now.md) and the [tools](digital-garden/Tools.md) I use. 
 ####  *Darśana* (philosophy)
 - [The Physical World in Islamic Philosophy — Ibn Tufayl's Philosophical Tale](digital-garden/philosophy/Ibn-Tufayl.md)
 - [Almost 60 Years On... The Inescapability of Gettier Cases and a Perpetually Broken Concept of Knowledge](digital-garden/philosophy/The-Inescapability-of-Gettier%20Cases.md)
@@ -31,14 +28,16 @@ This is what I am up to [now](digital-garden/now.md) and the [tools](digital-gar
 
 ## 🧐 Who am I?
 
-We answer this question in some form every day. The modern human is thrown into a condition where we constantly explain ourselves to the other. This can be wonderful, though sometimes it can be oppressive. [This](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be) scene from [Sense8](https://en.wikipedia.org/wiki/Sense8) captures the innocuous poignance of that question. Philosophical qualifying aside. 
-
 I am a programmer, writer, humanist-technologist, (primal) mover, and friendly human! 
+
+Philosophical qualifying: 
+
+We answer the question of identity in some form every day. The modern human is thrown into a condition of constantly explaining ourselves to others. This can be wonderful. It can also sometimes feel terribly oppressive. [This](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be) scene from [Sense8](https://en.wikipedia.org/wiki/Sense8) captures the innocuous poignance of that question. 
 
 Click on my [me](digital-garden/meta/me.md) page for the longer story.  I'd ❤️ to [connect](https://armanjindal.github.io/#-connect) and hear yours. 
 ## 🔗 Connect 
 
-Please send me an email! I love meeting new people. I will reply to every email I get. If you have an opportunity where you think I will be a good fit, please do reach out. All I can promise is good questions, genuine curiosity, and that I will pay your generosity forward ☺️
+Please send me an email! I love meeting new people. I will reply to every email I get. If you have an opportunity where you think I will be a good fit, please do reach out. All I can promise is good questions, genuine curiosity, and that I will pay your generosity forward.  
 
 Email: arman.jindal@hey.com || arman.jindal@columbia.edu
 GitHub: https://github.com/armanjindal
