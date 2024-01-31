@@ -16,6 +16,7 @@ This is what I am up to [now](digital-garden/now.md) and the [tools](digital-gar
 - [Almost 60 Years On... The Inescapability of Gettier Cases and a Perpetually Broken Concept of Knowledge](digital-garden/philosophy/The-Inescapability-of-Gettier%20Cases.md)
 - [Language Matters](digital-garden/philosophy/Language-Matters.md)
 	- [Find Rhythm. Not Momentum](digital-garden/philosophy/Rhythm-Not-Momentum.md)
+- [The Bhagavad-Gita](digital-garden/reading/Living%20Book%20Commentaries/The%20Bhagavad-Gita.md)
 ####  *Technē* (art)
 - [Beneath Form and Content - Susan Sontag's Epistemology of Art](digital-garden/philosophy/Beyond-Form-Content.md)
 - [Eternal Spring — Rodin on Creation](digital-garden/art/Rodin/Eternal%20Spring%20—%20A%20Formal%20Analysis%20of%20Rodin.md)

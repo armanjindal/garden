@@ -3,7 +3,8 @@ title: "The Bhagavad-Gita"
 opentoc: true
 ---
 Unstructured Notes /Commentary on the Bhagavad Gita:
-Last Updated: January, 20th 2024
+
+Last Updated: January, 31st 2024
 
 
 Translations: 
@@ -11,6 +12,33 @@ Translations:
 - [Laurie L. Patton](https://www.goodreads.com/book/show/463500.The_Bhagavad_Gita) (LP)
 
 Philosophy and Spiritual Discipline
+
+The Fourth Discourse (LP): Verse 19-20
+
+> Insightful ones 
+> call that one a pandit 
+> who has **winnowed**
+> all aims and desire 
+> from all endeavors 
+> and whose action is burned 
+> in the fire 
+> of wisdom
+
+To winnow is an interesting verb that suggests the removal of aim and desire from action (willful action) is a gradual process that one can begin now. I've always enjoyed the imagery of wisdom as a "purifier" (see below) and something that's subtractive. Unlike the accumulation of information or knowledge, wisdom is winnowing. It's a focus of attention by disregarding the infinity of the other stuff that doesn't matter. Wisdom is a "knife" that severs the "doubt" from your heart. Doubt of what? Perhaps that wisdom lies outside of the self (atman). 
+
+> When one has let go 
+> of clinging 
+> to the fruits of action, 
+> always content
+> and independent 
+> even when turning 
+> toward action, 
+> that one **does** nothing at all
+
+Doing and acting. The phrase "turning toward action" suggests that it is an orientation (of life) rather than a moment. Doing, on the other hand, is more of a moment of willful. It's filled with self-awareness about the thing performed. Perhaps one "acts" here without the intentionality of doing but of duty. 
+
+
+BM: 
 
 Page 37, Verse 39-40
 > No effort in this world 
