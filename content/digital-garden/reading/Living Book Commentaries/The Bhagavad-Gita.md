@@ -2,14 +2,87 @@
 title: "The Bhagavad-Gita"
 opentoc: true
 ---
-Unstructured Notes /Commentary on the Bhagavad Gita:
+Unstructured Notes /Commentary on the Bhagavad Gita: 
 
-Last Updated: January, 31st 2024
-
+Last Updated: February, 10th 2024
 
 Translations: 
 - [Barbara Stoler-Miller](https://en.wikipedia.org/wiki/Barbara_Stoler_Miller) (BM)
 - [Laurie L. Patton](https://www.goodreads.com/book/show/463500.The_Bhagavad_Gita) (LP)
+
+The Habit of Decisiveness — Reading Discourse Six
+
+It is hard to commit. It always has, but now in the age of information without meaning, in an age where we carry possibility in our pockets staying a course is harder than ever. Why?  It takes time. It cannot be rushed. Emotions are fickle. One day you feel a wind at your back, charging forward. You were made for this, you think. The next a crushing weight on your chest. It could be from the most incidental reactions. You think you need to change. You cannot focus. By you I mean me. 
+
+> The practitioner of yoga
+> who is content 
+> with discernment and wisdom 
+> **unmoving**, with sense conquered
+> to whom a lump of clay, 
+> a stone and a piece of gold
+> are the same, 
+> is said to be joined to *yoga*
+> — LP(6.8)
+
+Here the "discernment and wisdom" are about what matters.  In order to be unmoved by the winds of desire and of emotions we have to see that clay, stone, gold (outcomes) are the same. One does do *yoga* but is joined to it. Yoga comes from the Sanskrit "to yoke". To be joined to yoga is to be pulled by it. Later describing meditation: 
+
+> when one directs the mind
+> to a single point
+> actions of the senses 
+> and thoughts controlled, 
+> sitting oneself onto the seat,
+> one should join to yoga
+> in order to purify
+> the self
+> — LP (6.12)
+
+In the Gita meditation and action in the world can be the same. Meditation as a practice is training. The wisdom here is in the first two lines. The mind needs an anchor. A point of focus. A drifting mind, idle is at the mercy of its conditioning. 
+
+> Yoga is not about 
+> eating too much, 
+> nor is it about 
+> not easting at all. 
+> It is not about the practice 
+> of sleeping too much
+> not is it about 
+> keeping awake. 
+
+Yoga is not self-discipline or self-punishment. 
+
+> For one who is
+> joined to yoga
+> yoga destroys all pain -
+> in food and sport, 
+> in the undertaking 
+> of action, 
+> and in sleeping
+> and awakening.
+
+What does it mean to be joined?
+
+> One is said 
+> to be joined in this way, 
+> when one's thought
+> is restrained;
+ .... 
+ > beyond longing 
+ > and all desire
+ 
+ 
+> One is like a lit lamp 
+> that does not flicker, 
+> standing without wind
+— LP (6.16-19)
+
+To not flicker. I love the definition of commitment, because to flicker in the winds of emotion prevents you from commitment. It is the product of a mind not focused, of a self not joined to yoga.
+
+
+Key words to look at in Sanskrit: 
+- "unmoving" — Is it similar to flicker? 
+-  Longing and desire — how are they different? 
+
+
+
 
 Philosophy and Spiritual Discipline
 
@@ -121,3 +194,5 @@ Q: What is the relationship between knowledge and action? On one end, knowledge 
 
 
 
+
+Thanks for a great conversation, Aditya! I'm still slightly amused that you remember your IB score (and irked you beat me by a point, haha), but IB does that. I've made enemies on flights over my defense of TOK.  I also just read that you, too, enjoy techno. De Witte's recent track, Pria is disturbingly good. Cheers, Arman 
