@@ -1,12 +1,12 @@
- &  our need for synchronization & this idea I have about creating maps to help 
+ &  our need for synchronization & this idea I have about creating maps to that help us synchronize 
 ---
 
 
 "...*and that's why I LOVE to travel solo*" 
 
-It's not uncommon to hear that loud person at a hostel t the end of painfully long travel story inflicted on to a group politely disinterested backpackers — Ears perk at the an opportunity to shut up this person and conversational jumping off point for to tell their own story. The cycle repeats. 
+It's not uncommon to hear that loud person at a hostel at the end of painfully long travel story inflicted on to a group politely disinterested backpackers — Ears perk at the an opportunity to shut up this person and conversational jumping off point for to tell their own story. The cycle repeats. 
 
-I quickly strike up conversation with the person to my right, before I transform from a bemused onlooker to 
+I quickly strike up conversation with the person to my right, before I transform from a bemused onlooker to guilty. 
 
 Right now, I am *solo* travelling. Vagabonding through Europe for two month with "euro-rail" in the tradition of the i-just-blew-through-all-my-summer-savings-backpacking. It's a misgnomer though. 
 

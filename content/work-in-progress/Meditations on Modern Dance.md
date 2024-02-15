@@ -4,13 +4,13 @@ title: "Modern Dance Meditations - Physicality & Self Expression"
 
 *Ongoing reflections of a first-time dancer taking introductory courses in Modern dance.* 
 
-One of the best parts about being an undergraduate is the introductory classes, taught by masters of their craft who know how to teach. These unicorns (yes, they exist) do not make you deeply competent by the end of their course. Rather they initiate you into a world. You learn the language, methods, history, and actions that tie the community together. You learn what constitutes "truth" and "beauty."  You observe *how* they do things rather than *what* they do. The best teachers are often those who come to it late because they remember what it is like to be part of the uninitiated. They understand their task as revealing a new world rather than a myopic and pathological need to grade and assess.  
+One of the best parts about being an undergraduate is the introductory classes. You are taught by masters of their craft who know in the best cases know how to teach. These unicorns (yes, they exist) do not make you deeply competent by the end of their course. **Rather they initiate you into a world**. You learn the language, methods, history, and actions that tie the community together. You learn what constitutes "truth" and "beauty."  You observe *how* they do things rather than *what* they do. The best teachers are often those who come to it late because they remember what it is like to be part of the uninitiated. They understand their task as revealing a new world rather than a myopic and pathological need to grade and assess.  
 
 [Caitlin Trainor](https://www.trainordance.org/about-1) and her classes in *Modern Dance* have been that for me. It has stood out as one of the most important classes I will take in college. I've had some [incredible professors] during my time. Yet she is the first with whom I've felt the need to take more classes.
 
-Caitlin takes it upon herself to make us better people through dance. Her lessons though conveyed through language and concepts — transcend them. Easeful body language, graceful movement, comfort in one's skin,  failing (forward) with verve. It is a new epistemology—one of embodied knowledge. 
+Caitlin takes it upon herself to make us better people through dance. Her lessons though conveyed through language and concepts — transcend them. Easeful body language, graceful movement, comfort in one's skin, failing (forward) with verve. It is a new epistemology—one of embodied knowledge. 
 
-Philosophically (and with almost criminal generality), the fundamental dichotomy of Western epistemology (the study of knowledge) is reason vs. appearance (think Plato). The epistemology of Dance (the knowledge from it) doesn't operate at that distinction. It is, as much art is, about the internal vs. external. 
+Philosophically (and with almost criminal generality), the fundamental dichotomy of Western epistemology (the study of knowledge) is reason vs. empiricism (think Plato). The epistemology of Dance (the knowledge from it) doesn't operate at that distinction. It is, as much art is, about the internal vs. external. 
 
 Dance complicates that primitive distinction. It pushes past the concepts so the seeming fundamental opposition between them is resolved (or hints) at ways to transcend the fundamentally opposed nature of the internal and external. Dance is dialectical. 
 
@@ -31,7 +31,7 @@ Caitlin, in an effort to get us to
 
 **Performance vs Personal**
 
-There is a constant tension between that which looks good a feels good. Between movement for one own sake, and then for perfomance. Ballet, with its straight lines and strict form makes aesthetics subservient to biomechanics. 
+There is a constant tension between that which looks good a feels good. Between movement for one own sake, and then for performance. Ballet, with its straight lines and strict form makes aesthetics subservient to biomechanics. 
 
 
 Modern dance is an interesting dance form. There is a tension b
@@ -50,6 +50,4 @@ This isn't just a disposition/mental idea although this is its palce of initiati
 
 Learning a language as an adult is never easy. Especially when you are learning the vocabulary. There seems to be an unavoidable wroteness to it. Dance feels like that. Nothing new here. 
 
-Not the 
-
-That jump from the half kneeling fisherman squat was utterly joyous. Do not lose the creativity of movement. There is someting special about movement with others. Perhaps that is what dancing is. Animals movements TOGETHER. coordinated by some external force, but driven by the same interal forces of intevitability, juciness, and biomechanics. We all 
+That jump from the half kneeling fisherman squat was utterly joyous. Do not lose the creativity of movement. There is something special about movement with others. Perhaps that is what dancing is. Animals movements TOGETHER. coordinated by some external force, but driven by the same interal forces of intevitability, juciness, and biomechanics. We all 

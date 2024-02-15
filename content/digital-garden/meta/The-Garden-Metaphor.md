@@ -7,7 +7,6 @@ tags:
 > [ "Il faut cultiver notre jardin."](https://www.theschooloflife.com/article/cultivate-own-garden-voltaire/)  
 > — Voltaire. The final line of [Candide](https://en.wikipedia.org/wiki/Candide)
 
-
 This is intentionally (and self-indulgently) called a "garden" — not a blog. 
 
 > A garden is a collection of evolving ideas that aren't strictly organized by their publication date. They're inherently exploratory – notes are linked through contextual associations. They aren't refined or complete - notes are published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal websites we're used to seeing.
