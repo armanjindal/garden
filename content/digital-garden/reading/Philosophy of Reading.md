@@ -6,11 +6,8 @@ toc: true
 
 ## Book Notes 
 
-* [[Getting Real]]
-* [[Shape Up]]
-* [[Food Rules: An Eater's Manual]]
-* [4000 Weeks - Time Management For Mortals](digital-garden/reading/Living%20Book%20Commentaries/4000%20Weeks%20-%20Time%20Management%20For%20Mortals.md)
-* [Non Violent Communication - A Language of Life](digital-garden/reading/Living%20Book%20Commentaries/Non%20Violent%20Communication%20-%20A%20Language%20of%20Life.md)
+* [4000 Weeks - Time Management For Mortals](digital-garden/reading/Commentaries/4000%20Weeks%20-%20Time%20Management%20For%20Mortals.md)
+* [Non Violent Communication - A Language of Life](digital-garden/reading/Commentaries/Non%20Violent%20Communication%20-%20A%20Language%20of%20Life.md)
 
 
 ## Living Commentaries
@@ -20,11 +17,11 @@ When reading becomes **too** instrumental, books become checkboxes. Reading beco
 
 Books are magical. You can communicate with the past and glimpse a life and inner world that was lived. I read because it makes me more alive and connects me to the world differently. 
 
-The author's intention does not constrain books. To some, this is the first step into crass interpretive relativism. Instead, I see this as liberating. Books, like "history," are surfaces we can use to create life and society. They are at once mirror of the self but bridge that gap between self and others. 
+The author's intention does not constrain books. To some, this is the first step into crass interpretive relativism. Instead, I see this as liberating. Books, like "history," are surfaces we can use to create life and society. They are at once mirror of the self but bridge that gap between self and others. Sharing a book with someone else is a bond. 
 
 There are a few books and authors that speak to something  living in me. I've found myself coming back to, rethinking, and re-reading. I want to capture that process here.
 
-* [The Bhagavad-Gita](digital-garden/reading/Living%20Book%20Commentaries/The%20Bhagavad-Gita.md)
+* [The Bhagavad-Gita](digital-garden/reading/Commentaries/The%20Bhagavad-Gita.md)
 
 ## Meta Notes on Reading 
 

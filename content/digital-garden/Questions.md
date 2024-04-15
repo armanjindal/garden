@@ -1,6 +1,8 @@
 ---
 title: Questions 
 ---
+- Why did RSS fail? Why do companies such as event providers not embrace them when it makes sense for them to? 
+
 - "**Why are some people made more human by  the 'humanities' and others less human?**"
 
 Sometimes I come across people whose humanity is both deepened and broadened by engagement with "culture." 
